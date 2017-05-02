@@ -17,17 +17,30 @@
                         <a class="page-scroll" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="#about">HOME</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Services</a>
+                        <a class="page-scroll" href="#services">ABOUT</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#contact">DIAGNOSTIC CENTRE</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">FAQ</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">GALLERY</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">CAREERS</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">NEWS</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">CONTACT US</a>
                     </li>
                 </ul>
             </div>
-            <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
     </nav>

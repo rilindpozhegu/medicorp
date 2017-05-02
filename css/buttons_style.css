@@ -1,0 +1,10 @@
+.button_default {
+	background-color: #00A4EF;
+	color: white;
+	font-family: 'Montserrat-SemiBold';
+	width: 120px;
+	height: 35px;
+	border: none;
+	border-radius: 4px;
+	margin-top: 20px;
+}

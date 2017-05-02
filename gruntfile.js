@@ -17,15 +17,11 @@ module.exports = function(grunt) {
 					'js/number-c.js', //Time to count,
 					// --------------------------------------// 
 
-					// OWL Carousel 2.0 All.
-					'js/owl_time.js',
-					'js/owl.carousel.js',
-
 					// -------------------// 
 					
 					//	Slick.
 					'js/slick.js',
-					// 'js/slick_edition.js',
+					'js/slick_edition.js',
 					// -------------------// 
 
 					// Animation.css Scripts after scroll
@@ -46,7 +42,7 @@ module.exports = function(grunt) {
 					'js/gallery/jquery.mousewheel.min.js',
 					// ---------------------------------//
 
-					'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
+					// 'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
 
 					],
 
