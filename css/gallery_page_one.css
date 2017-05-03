@@ -1,0 +1,14 @@
+.gallery_page_section_one {
+	padding-top: 10%;
+	padding-bottom: 5%;
+	background-color: rgba(93, 106, 132, 0.07);
+}
+
+.gallery_page_section_one .gallery_home_section {
+	background-color: transparent;
+}
+
+.gallery_page_section_one .gallery_home_section h1 span {
+	color: #00A4EF;
+	font-family: 'Montserrat-SemiBold';
+}

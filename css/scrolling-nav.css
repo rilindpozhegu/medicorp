@@ -21,10 +21,55 @@ html {
     }
 }
 
+.active_nav {
+    color: #00A4EF !important;
+    font-family: 'Montserrat-SemiBold' !important;
+}
 
-.intro-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: pink;
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 6px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.navigation_main {
+    background-color: white;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+}
+.navigation_main img {
+    width: 150px;
+    padding-top: 0px;
+}
+.navigation_main ul li a {
+    padding: 20px 10px;
+    color: #5D6A84;
+    font-family: 'Montserrat-SemiBold';
+    font-size: 13px;
+    padding-top: 23px;
+}
+
+.button_list_nav {
+    padding: 0px;
+    width: 120px;
+    padding: 0px 10px;
+}
+
+.button_list_nav button {
+    width: 100%;
+    margin-bottom: 1px;
+    height: 20px;
+    padding: 0px 10px;
+    background-color: #00A4EF;
+    color: white;
+    border-radius: 3px;
+    font-size: 10px;
+    text-align: left;
+    border: none;
+    margin-top: -6px;
+}
+
+.button_list_nav button i {
+    float: right;
+    padding-top: 2px;
 }

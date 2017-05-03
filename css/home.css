@@ -1,7 +1,7 @@
 /*	HOMEPAGE  */
 
 .cover_all_pages {
-	padding-top: 20%;
+	padding-top: 19%;
 	padding-bottom: 10%;
 	text-align: center;
 }
@@ -9,11 +9,11 @@
 .cover_all_pages h1 {
 	font-family: 'Montserrat-SemiBold';
 	color: white;
-	font-size: 50px;
+	font-size: 60px;
 }
 .cover_all_pages p {
 	color: white;
-	font-size: 22px;
+	font-size: 24px;
 }
 .cover_section_home {
 	background-image: url('../img/backgorund/home_cover1-01.png');
@@ -24,10 +24,12 @@
 /*Second Section on homepage*/
 
 .home_tab_two {
-	padding: 5% 10px;
+	/*padding: 5% 10px;*/
 	color: white;
 }
-
+.push_two_up {
+	margin-top: -10%;
+}
 .home_tab_two .tab-pane {
 	background: #00A4EF !important;
 	padding: 3% 10px 2%;
@@ -101,7 +103,7 @@
 /*Panels Section Home*/
 
 .more_infos_homepagetwo {
-	padding: 4% 10px;
+	padding: 0% 10px 4%;
 }
 
 .home_horizon_panel {

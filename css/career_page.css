@@ -1,0 +1,40 @@
+.first_section_career_page {
+	padding-top: 11%;
+	background: #00A4EF;
+	padding-bottom: 20px;
+}
+
+.first_section_career_page h1 {
+	color: white;
+	font-family: 'Montserrat-Regular'
+}
+
+.second_section_career_page {
+	padding: 6% 10px;
+}
+
+.second_section_career_page h5 {	
+    font-size: 20px;
+    font-family: 'Montserrat-SemiBold';
+    color: #5D6A84;
+    padding-top: 1%;
+}
+
+.second_section_career_page p {
+	font-size: 17px;
+}
+
+.second_section_career_page .small_padding_t {
+	padding-top: 4%;
+}
+
+.job_postion_career {
+	background-color: rgba(93, 106, 132, 0.07);
+	padding: 5% 10px;
+
+}
+
+.small_panel_career {
+	background-color: white;
+	padding: 20px;
+}

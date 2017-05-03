@@ -1,0 +1,46 @@
+.cover_section_about {
+	top: -2%;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+}
+
+.about_the_medicorp {
+	padding: 6% 10px;
+}
+
+.about_the_medicorp h5 {
+	font-size: 20px;
+	font-family: 'Montserrat-SemiBold';
+	color: #5D6A84;
+}
+
+.about_the_medicorp p {
+	font-size: 16px;
+}
+
+.about_the_medicorp .text_inside {
+	padding: 1% 10px 0px;
+}
+
+.third_panel_section1 img{
+	width: 100%;
+	margin-top: -1px;
+	margin-bottom: -0px;
+}
+
+.dark_section_about {
+	background-color: #5D6A84;
+}
+
+.blue_section_about {
+	background-color: #00A4EF;
+}
+
+.third_section_text_img {
+	padding: 6% 6% 0% 6% !important; 
+	color: white;
+}
+.third_section_text_img p {
+	font-size: 18px;
+}

@@ -1,0 +1,21 @@
+.first_section_faq {
+	padding-top: 15%;
+	padding-bottom: 6%;
+}
+
+.first_section_faq .integration-list {
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+
+.first_section_faq h1 {
+	color: #5D6A84;
+	margin-top: 0px;
+}
+.first_section_faq h1 span {
+	color: #00A4EF;
+	font-family: 'Montserrat-SemiBold';
+}
+.first_section_faq p {
+	font-size: 18px;
+}

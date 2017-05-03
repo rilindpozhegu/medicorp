@@ -34,11 +34,14 @@
     </div>
 </section>
 
-<!-- Homepage TAb-First two -->
+
+
 <div class="second_section_home_samebg">
+
+<!-- Homepage TAb-First two -->
 <section class="home_tab_two">
     <div class="container">
-        <div class="row">
+        <div class="row push_two_up">
             <div>
             <div class="row">
               <!-- Nav tabs -->
@@ -127,7 +130,6 @@
             </div>
         </div>
 </section>
-
 
 
 <section class="more_infos_homepagetwo">
@@ -411,21 +413,6 @@
 <!-- jQuery -->
 
     <script type="text/javascript" src="build/scripts.js"></script>
-        <script type="text/javascript">
-            $(function() {
-          $(".expand").on( "click", function() {
-            $(this).next().slideToggle(180);
-            $expand = $(this).find(">:first-child");
-            
-            if($expand.text() == "+") {
-              $expand.text("-");
-            } else {
-              $expand.text("+");
-            }
-          });
-        });
-        </script>
-
 </body>
 
 </html>

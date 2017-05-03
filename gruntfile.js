@@ -10,14 +10,6 @@ module.exports = function(grunt) {
 					'js/jquery.js',
 					'js/bootstrap.min.js', // Boostrap Script.min General,
 					'js/scrolling-nav.js', // Scrolling Nav Default Script,
-
-					// Facts Section Number Counter Scripts/All
-					'js/waypoints.min.js',
-					'js/jquery.counterup.min.js',
-					'js/number-c.js', //Time to count,
-					// --------------------------------------// 
-
-					// -------------------// 
 					
 					//	Slick.
 					'js/slick.js',
@@ -29,6 +21,7 @@ module.exports = function(grunt) {
 					'js/animate.js',
 					// --------------------------------// 
 
+					'js/active_property.js',
 					// Gallery Scripts New ONE
 					'js/gallery/add_gallery.js',
 					'js/gallery/lightgallery.min.js',
@@ -44,6 +37,7 @@ module.exports = function(grunt) {
 
 					// 'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
 
+					'js/free_question_collapse.js',
 					],
 
 				dest: 'build/scripts.js'
