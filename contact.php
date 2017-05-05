@@ -61,7 +61,7 @@
                     <textarea class="" rows="5" placeholder="Message"></textarea>
                 </div>
                 <div class="col-md-12  small_padding-lr">
-                    <button class="button_default">Send</button>
+                    <button class="button_default default_hover">Send</button>
                 </div>
 
             </div> 

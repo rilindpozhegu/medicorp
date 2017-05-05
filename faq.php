@@ -203,7 +203,7 @@
         <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume .</p>
         <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">MediCorp Gulf will consider experienced candidates from both the region and other countries around the globe.</p>
 
-        <button class="button_default wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Apply Now</button>
+        <button class="button_default default_hover wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Apply Now</button>
     </div>
 </section>
 

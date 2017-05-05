@@ -16,7 +16,7 @@
 	font-size: 24px;
 }
 .cover_section_home {
-	background-image: url('../img/backgorund/home_cover1-01.png');
+	background-image: url('../img/slide/slide1-01.png');
 	background-size: cover;
 	height: 100vh;
 }
@@ -37,6 +37,10 @@
 .home_tab_cover {
 	background-color: white;
     font-size: 18px;
+    font-family: 'Montserrat-SemiBold';
+}
+.home_tab_cover a:hover {
+	background-color: none;
 }
 .home_tab_cover li a:hover {
 	background-color: transparent;
@@ -99,6 +103,20 @@
 	background-size: cover;
 }
 
+.testimonial_home_text_img img {
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+.testimonial_home_text_img h1 {
+	font-family: 'Montserrat-SemiBold';
+	font-size: 45px;
+	padding: 0px 30px;
+}
+.testimonial_home_text_img p {
+	font-size: 18px;
+	padding: 20px 30px;
+}
 
 /*Panels Section Home*/
 
@@ -149,11 +167,30 @@
 	font-size: 18px;
 }
 
+.read_more_home_serv {
+	color: white;
+	text-decoration: none;
+	transition: ease all 0.2s;
+}
+.read_more_home_serv:hover {
+	color: #00A4EF;
+	text-decoration: none;
+	transition: ease all 0.2s;
+}
+
+.read_more_home_serv:active {
+	outline: none !important;
+}
 .small_services_home {
 	text-align: center;
 	color: white;
 	margin-top: 30px;
 	padding: 0px 20px;
+}
+
+.small_services_home:hover h3 {
+	color: #00A4EF;
+	transition: ease all 0.2s;
 }
 .responsive .col-md-3:active {
 	outline: none !important;
@@ -169,7 +206,7 @@
 	font-family: 'Montserrat-Regular';
 	color: white;
 }
-
+s
 .list-unstyled img {
 	margin-top: 10px;
 	width: 100%;

@@ -66,3 +66,40 @@
     color: rgba(93, 106, 132, 0.51); /* old IE */
     background-color: rgba(93, 106, 132, 0.51); /* Modern Browsers */
 }
+
+
+/*Services Section Diagnostic*/
+
+.services_section_diagnostis_p {
+	color: #5D6A84;
+	text-align: center;
+	padding: 6% 10px;
+}
+
+.services_section_diagnostis_p h1 {
+}
+
+.services_section_diagnostis_p h1 span{
+	font-family: 'Montserrat-SemiBold';
+}
+
+.services_section_diagnostis_p p {
+	font-size: 18px;
+}
+
+.services_section_diagnostis_p .col-md-4 {
+	margin-top: 20px;
+	padding: 20px 30px;
+}
+.services_section_diagnostis_p img {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.services_section_diagnostis_p h3 {
+	font-family: 'Montserrat-SemiBold';
+}
+
+.read_more_home_serv2 {
+	color: #5D6A84;
+}

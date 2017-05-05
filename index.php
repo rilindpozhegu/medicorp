@@ -47,7 +47,7 @@
               <!-- Nav tabs -->
               <ul class="nav nav-pills nav-justified home_tab_cover">
                 <li role="presentation" class="active"><a href="#tab_one" aria-controls="home" role="tab" data-toggle="tab">Make an Appointment</a></li>
-                <li role="presentation"><a href="#tab_two" aria-controls="profile" role="tab" data-toggle="tab">Client testimonials <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></li>
+                <li role="presentation"><a href="#tab_two" aria-controls="profile" role="tab" data-toggle="tab">Client testimonials</a></li>
               </ul>
             </div>  
               <!-- Tab panes -->
@@ -58,27 +58,27 @@
                          <table style="width:100%">
                           <tr>
                             <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                           <tr>
                             <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                           <tr>
                             <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                           <tr>
                             <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                           <tr>
                             <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                         </table>
@@ -119,13 +119,19 @@
                             </div>
                         </div>
                     </div>
-                </div>
                 
-<!-- 
-                <div role="tabpanel" class="tab-pane" id="tab_two">
 
-                </div> -->
+                <div role="tabpanel" class="tab-pane row testimonial_home_text_img" id="tab_two">
+                    <div class="col-md-4">
+                        <img src="img/testimonial-01.png" class="img-responsive">
+                    </div>
+                    <div class="col-md-8">
+                        <h1>Sam Medocor</h1>
+                        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi</p>
+                    </div>
+                </div>
               </div>
+            </div>
 
             </div>
         </div>
@@ -139,7 +145,7 @@
                 <div class="col-md-7">
                     <h4>ABOUT MEDICORP GULF</h4>
                     <p>The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment and diagnostic facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
-                    <button class="button_default">Contact</button>
+                    <a href="contact.php"><button class="button_default default_hover">Contact</button></a>
                 </div>
                 <div class="col-md-5 no_padding">
                     <img src="img/random/image1_ho-01.png" class="img-responsive no_padding">
@@ -153,7 +159,7 @@
                 <div class="col-md-7">
                     <h4>ABOUT MEDICORP GULF</h4>
                     <p>The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment and diagnostic facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
-                    <button class="button_default">Contact</button>
+                    <a href="contact.php"><button class="button_default default_hover">Contact</button></a>
                 </div>
             </div>
         </div>
@@ -174,27 +180,27 @@
                     <img src="img/icon/home_stat1-01.svg">
                     <h3>ENT</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <button>Read More</button>
+                    <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                     <img src="img/icon/home_stat2-01.svg">
                     <h3>GYN/OBS</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <button>Read More</button>
+                    <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                     <img src="img/icon/home_stat3-01.svg">
                     <h3>Dentistry</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <button>Read More</button>
+                    <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <img src="img/icon/home_stat3-01.svg">
                     <h3>Pediatric Clinic</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <button>Read More</button>
+                    <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
         </div>
@@ -220,7 +226,7 @@
                 <h1 class=" wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".2s">OUR TEAM</h1>
                 <p class=" wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".4s">To maintain our incomparable standards of individual care, only highly trained professionals with a long history of experience can work as direct medical service providers at MediCorp Gulf.</p>
                 <p class=" wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".6s">As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume.</p>
-                <button class="button_default wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".6s">Apply Now</button>
+                <button class="button_default default_hover wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".6s">Apply Now</button>
             </div>
 
             <div class="col-md-6">                

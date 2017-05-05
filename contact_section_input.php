@@ -50,7 +50,7 @@
                 </div>
 
                 <div class="col-md-12" style="text-align: center;">
-                    <button class="button_default wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
+                    <button class="button_default default_hover wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Send</button>                
                 </div>
 
             </div>

@@ -86,6 +86,54 @@
 <!-- Staff Section -->
     <?php include 'staff_section.php';?>
 
+<div class="container">
+    <hr class="diagnostic_href">
+</div>
+
+<section class="services_section_diagnostis_p">
+    <div class="container">
+        <div class="row">
+        <h1>Our <span>Services</span></h1>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic1-01.svg">
+                <h3>ENT</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                <a href="" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic2-01.svg">
+                <h3>GYN/OBS</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                <a href="" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic3-01.svg">
+                <h3>Dentistry</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                <a href="" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic4-01.svg">
+                <h3>FAMILY MEDICINE</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                <a href="" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic5-01.svg">
+                <h3>OTHER CLINICS</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                <a href="" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic6-01.svg">
+                <h3>Pediatric </h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                <a href="" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- Contact Form Section -->
     <?php include 'contact_section_input.php';?>
 

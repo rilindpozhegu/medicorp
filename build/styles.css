@@ -3404,10 +3404,113 @@ Copyright (c) 2015 Daniel Eden
 	font-family: 'Montserrat-SemiBold';
 	width: 120px;
 	height: 35px;
-	border: none;
+	border: solid 1px #00A4EF;
 	border-radius: 4px;
 	margin-top: 20px;
 }
+
+/* Sweep To Right */
+.default_hover {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.default_hover:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: white;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 50%;
+  transform-origin: 0 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.default_hover:hover, .default_hover:focus, .default_hover:active {
+  color: #00A4EF;
+}
+.default_hover:hover:before, .default_hover:focus:before, .default_hover:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+
+
+.button_default_gray {
+  background-color: #5D6A84;
+  color: white;
+  font-family: 'Montserrat-SemiBold';
+  width: 120px;
+  height: 35px;
+  border: solid 1px #5D6A84;
+  border-radius: 4px;
+  margin-top: 20px;
+
+}
+
+/* Sweep To Right */
+.default_hover_gray {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.default_hover_gray:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: white;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 50%;
+  transform-origin: 0 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.default_hover_gray:hover, .default_hover_gray:focus, .default_hover_gray:active {
+  color: #5D6A84;
+}
+.default_hover_gray:hover:before, .default_hover_gray:focus:before, .default_hover_gray:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
 .first_section_career_page {
 	padding-top: 11%;
 	background: #00A4EF;
@@ -3753,6 +3856,43 @@ input[type=radio]:checked ~ label{
     background-color: rgba(93, 106, 132, 0.51); /* Modern Browsers */
 }
 
+
+/*Services Section Diagnostic*/
+
+.services_section_diagnostis_p {
+	color: #5D6A84;
+	text-align: center;
+	padding: 6% 10px;
+}
+
+.services_section_diagnostis_p h1 {
+}
+
+.services_section_diagnostis_p h1 span{
+	font-family: 'Montserrat-SemiBold';
+}
+
+.services_section_diagnostis_p p {
+	font-size: 18px;
+}
+
+.services_section_diagnostis_p .col-md-4 {
+	margin-top: 20px;
+	padding: 20px 30px;
+}
+.services_section_diagnostis_p img {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.services_section_diagnostis_p h3 {
+	font-family: 'Montserrat-SemiBold';
+}
+
+.read_more_home_serv2 {
+	color: #5D6A84;
+}
+
 /*General Footer Section on all Pages!!!*/
 
 .general_footer {
@@ -3830,7 +3970,7 @@ input[type=radio]:checked ~ label{
 	font-size: 24px;
 }
 .cover_section_home {
-	background-image: url('../img/backgorund/home_cover1-01.png');
+	background-image: url('../img/slide/slide1-01.png');
 	background-size: cover;
 	height: 100vh;
 }
@@ -3851,6 +3991,10 @@ input[type=radio]:checked ~ label{
 .home_tab_cover {
 	background-color: white;
     font-size: 18px;
+    font-family: 'Montserrat-SemiBold';
+}
+.home_tab_cover a:hover {
+	background-color: none;
 }
 .home_tab_cover li a:hover {
 	background-color: transparent;
@@ -3913,6 +4057,20 @@ input[type=radio]:checked ~ label{
 	background-size: cover;
 }
 
+.testimonial_home_text_img img {
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+.testimonial_home_text_img h1 {
+	font-family: 'Montserrat-SemiBold';
+	font-size: 45px;
+	padding: 0px 30px;
+}
+.testimonial_home_text_img p {
+	font-size: 18px;
+	padding: 20px 30px;
+}
 
 /*Panels Section Home*/
 
@@ -3963,11 +4121,30 @@ input[type=radio]:checked ~ label{
 	font-size: 18px;
 }
 
+.read_more_home_serv {
+	color: white;
+	text-decoration: none;
+	transition: ease all 0.2s;
+}
+.read_more_home_serv:hover {
+	color: #00A4EF;
+	text-decoration: none;
+	transition: ease all 0.2s;
+}
+
+.read_more_home_serv:active {
+	outline: none !important;
+}
 .small_services_home {
 	text-align: center;
 	color: white;
 	margin-top: 30px;
 	padding: 0px 20px;
+}
+
+.small_services_home:hover h3 {
+	color: #00A4EF;
+	transition: ease all 0.2s;
 }
 .responsive .col-md-3:active {
 	outline: none !important;
@@ -3983,7 +4160,7 @@ input[type=radio]:checked ~ label{
 	font-family: 'Montserrat-Regular';
 	color: white;
 }
-
+s
 .list-unstyled img {
 	margin-top: 10px;
 	width: 100%;

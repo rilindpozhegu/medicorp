@@ -40,7 +40,7 @@
             <div class="col-md-6 text_inside small_padding_t">
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">To maintain our incomparable standards of individual care, only highly trained professionals with a long history of experience can work as direct medical service providers at MediCorp Gulf.</p>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume.</p>
-                <button class="button_default  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Contact</button>
+                <a href="contact.php"><button class="button_default default_hover wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Contact</button></a>
             </div>
         </div>
     </div>
@@ -54,7 +54,7 @@
                 <div class="small_panel_career wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                     <h2>Job <br> Title</h2>
                     <p>As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume ..</p>
-                    <button class="button_default">Contact</button>
+                    <a href="contact.php"><button class="button_default default_hover">Contact</button></a>
                 </div>
             </div>  
 
@@ -62,7 +62,7 @@
                 <div class="small_panel_career wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                     <h2>Job <br> Title</h2>
                     <p>As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume ..</p>
-                    <button class="button_default">Contact</button>
+                    <a href="contact.php"><button class="button_default default_hover">Contact</button></a>
                 </div>
             </div> 
 
@@ -70,7 +70,7 @@
                 <div class="small_panel_career wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                     <h2>Job <br> Title</h2>
                     <p>As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume ..</p>
-                    <button class="button_default">Contact</button>
+                    <a href="contact.php"><button class="button_default default_hover">Contact</button></a>
                 </div>
             </div> 
         </div>
@@ -132,10 +132,10 @@
             <div class="col-md-3 small_padding-lr upload_buttons_inp">
             <p>UPLOAD YOUR FILES</p>
                 <div class="col-md-6 small_padding-lr"> 
-                    <button><i class="fa fa-cloud-upload" aria-hidden="true"></i> Resume</button>
+                    <button class="default_hover"><i class="fa fa-cloud-upload" aria-hidden="true"></i> Resume</button>
                 </div>
                 <div class="col-md-6 small_padding-lr">
-                    <button><i class="fa fa-cloud-upload" aria-hidden="true"></i> Cover Letter</button>
+                    <button class="default_hover"><i class="fa fa-cloud-upload" aria-hidden="true"></i> Cover Letter</button>
                 </div>
             </div>
             <div class="col-md-12 apply_grid_inp small_padding-lr">
