@@ -31,7 +31,7 @@
 <section class="cover_section_news_page cover_all_pages">
     <div class="container">
         <div class="row">
-            <h1>Latest News</h1>
+            <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Latest News</h1>
         </div>
     </div>
 </section>
@@ -42,7 +42,7 @@
 <section class="lastes_news_home">
     <div class="container">
         <div class="row">
-            <div class="panel_of_news_home row">
+            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                 <div class="col-md-6 no_padding">
                     <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
                 </div>
@@ -54,7 +54,7 @@
                 </div>
             </div>
 
-            <div class="panel_of_news_home row">
+            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <div class="col-md-6 no_padding">
                     <div class="small_panel_new_ho">
                         <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>
@@ -66,7 +66,7 @@
                 </div>
             </div>
 
-            <div class="panel_of_news_home row">
+            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="col-md-6 no_padding">
                     <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
                 </div>
@@ -78,7 +78,7 @@
                 </div>
             </div>
 
-            <div class="panel_of_news_home row">
+            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="col-md-6 no_padding">
                     <div class="small_panel_new_ho">
                         <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>

@@ -28,8 +28,8 @@
 <section class="cover_section_home cover_all_pages">
     <div class="container">
         <div class="row">
-            <h1>Welcome To MediCorp Gulf</h1>
-            <p>The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
+            <h1 class="wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".2s">Welcome To MediCorp Gulf</h1>
+            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
         </div>
     </div>
 </section>
@@ -39,7 +39,7 @@
 <div class="second_section_home_samebg">
 
 <!-- Homepage TAb-First two -->
-<section class="home_tab_two">
+<section class="home_tab_two wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
     <div class="container">
         <div class="row push_two_up">
             <div>
@@ -58,27 +58,27 @@
                          <table style="width:100%">
                           <tr>
                             <td>Monday - Friday</td>
-                            <td><i class="fa fa-minus" aria-hidden="true"></i></td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                           <tr>
                             <td>Monday - Friday</td>
-                            <td><i class="fa fa-minus" aria-hidden="true"></i></td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                           <tr>
                             <td>Monday - Friday</td>
-                            <td><i class="fa fa-minus" aria-hidden="true"></i></td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                           <tr>
                             <td>Monday - Friday</td>
-                            <td><i class="fa fa-minus" aria-hidden="true"></i></td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                           <tr>
                             <td>Monday - Friday</td>
-                            <td><i class="fa fa-minus" aria-hidden="true"></i></td> 
+                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;</td> 
                             <td>8:00 - 17:00</td>
                           </tr>
                         </table>
@@ -135,7 +135,7 @@
 <section class="more_infos_homepagetwo">
     <div class="container">
         <div class="row">
-            <div class="home_horizon_panel row">
+            <div class="home_horizon_panel row wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="col-md-7">
                     <h4>ABOUT MEDICORP GULF</h4>
                     <p>The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment and diagnostic facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
@@ -146,7 +146,7 @@
                 </div>
             </div>
 
-            <div class="home_horizon_panel row">
+            <div class="home_horizon_panel row wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                 <div class="col-md-5 no_padding">
                     <img src="img/random/image2_ho-01.png" class="img-responsive no_padding">
                 </div>
@@ -166,31 +166,31 @@
 <section class="services_section_homepa">
     <div class="container">
         <div class="row">
-            <h1>Our <span>Services</span></h1>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+            <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Our <span>Services</span></h1>
+            <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
             <div class="responsive slider">                   
 
-                <div class="small_services_home">
+                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                     <img src="img/icon/home_stat1-01.svg">
                     <h3>ENT</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                     <button>Read More</button>
                 </div>
-                <div class="small_services_home">
+                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                     <img src="img/icon/home_stat2-01.svg">
                     <h3>GYN/OBS</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                     <button>Read More</button>
                 </div>
 
-                <div class="small_services_home">
+                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                     <img src="img/icon/home_stat3-01.svg">
                     <h3>Dentistry</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                     <button>Read More</button>
                 </div>
 
-                <div class="small_services_home">
+                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <img src="img/icon/home_stat3-01.svg">
                     <h3>Pediatric Clinic</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
@@ -207,56 +207,8 @@
 
 <!-- Staff Section Slick Homepage -->
 
-<section class="staff_section_homep">
-    <div class="container">
-        <div class="row">
-            <h1>Meet <span>Our Doctors</span></h1>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem <br>Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-        <div class="responsive_portfolio">
-            <div class="staff_panel_sm">
-                <img src="img/staff/img1-01.png">
-                <div class="staff_small_p_text ">
-                    <h4>Dr. Ayah Aqel</h4>
-                    <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
-                </div>
-            </div>
-            <div class="staff_panel_sm">
-                <img src="img/staff/img1-01.png">
-                <div class="staff_small_p_text ">
-                    <h4>Dr. Ayah Aqel</h4>
-                    <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
-                </div>
-            </div>
-            <div class="staff_panel_sm">
-                <img src="img/staff/img1-01.png">
-                <div class="staff_small_p_text ">
-                    <h4>Dr. Ayah Aqel</h4>
-                    <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
-                </div>
-            </div>
-            <div class="staff_panel_sm">
-                <img src="img/staff/img1-01.png">
-                <div class="staff_small_p_text ">
-                    <h4>Dr. Ayah Aqel</h4>
-                    <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
-                </div>
-            </div>
-            <div class="staff_panel_sm">
-                <img src="img/staff/img1-01.png">
-                <div class="staff_small_p_text ">
-                    <h4>Dr. Ayah Aqel</h4>
-                    <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
-                </div>
-            </div>
-        </div>    
-        </div>
-    </div>
-</section>
+    <?php include 'staff_section.php';?>
+
 
 <!-- Join Our Team Section -->
 <section class="join_team_home">
@@ -264,18 +216,18 @@
         <div class="row">
 
             <div class="col-md-6">
-                <h2>JOIN</h2>
-                <h1>OUR TEAM</h1>
-                <p>To maintain our incomparable standards of individual care, only highly trained professionals with a long history of experience can work as direct medical service providers at MediCorp Gulf.</p>
-                <p>As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume.</p>
-                <button class="button_default">Apply Now</button>
+                <h2 class=" wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".1s">JOIN</h2>
+                <h1 class=" wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".2s">OUR TEAM</h1>
+                <p class=" wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".4s">To maintain our incomparable standards of individual care, only highly trained professionals with a long history of experience can work as direct medical service providers at MediCorp Gulf.</p>
+                <p class=" wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".6s">As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume.</p>
+                <button class="button_default wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".6s">Apply Now</button>
             </div>
 
             <div class="col-md-6">                
-                <h2>FREQUENT</h2>
-                <h1>QUESTIONS</h1>
+                <h2 class=" wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".1s">FREQUENT</h2>
+                <h1 class=" wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".3s">QUESTIONS</h1>
                 <div id="integration-list" class="integration-list">
-                    <ul>
+                    <ul class=" wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".1s">
                         <li>
                             <a class="expand">
                                 <div class="right-arrow">+</div>
@@ -341,7 +293,7 @@
 <section class="lastes_news_home">
     <div class="container">
         <div class="row">
-            <div class="panel_of_news_home row">
+            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                 <div class="col-md-6 no_padding">
                     <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
                 </div>
@@ -353,7 +305,7 @@
                 </div>
             </div>
 
-            <div class="panel_of_news_home row">
+            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <div class="col-md-6 no_padding">
                     <div class="small_panel_new_ho">
                         <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>
@@ -377,7 +329,7 @@
     <hr>
     <div class="container">
         <div class="row">
-            <h1>Accepted Insurance Companies</h1>
+            <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Accepted Insurance Companies</h1>
             <div class="home_sponsors">
                 <div class="sponsors_small_img">
                     <img src="img/logos/logo1-01.png">

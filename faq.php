@@ -28,12 +28,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h1>FREQUENT <br><span>QUESTIONS</span></h1>
+                <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">FREQUENT <br><span>QUESTIONS</span></h1>
             </div>
             <div class="col-md-6">
-                <p>If you have any questions not covered by the FAQs, we encourage you to email us with your specific question at info@medicorpgulf.ae . We will respond to your query within 24 hours.</p>
+                <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">If you have any questions not covered by the FAQs, we encourage you to email us with your specific question at info@medicorpgulf.ae . We will respond to your query within 24 hours.</p>
             </div>
-            <div class="col-md-12">
+            <div class="col-md-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                 
                 <div id="integration-list" class="integration-list">
                     <ul>
@@ -198,12 +198,12 @@
             </div>
         </div>
 
-        <h1>JOIN<br><span>OUR TEAM</span></h1>
-        <p>To maintain our incomparable standards of individual care, only highly trained professionals with a long history of experience can work as direct medical service providers at MediCorp Gulf.</p>
-        <p>As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume .</p>
-        <p>MediCorp Gulf will consider experienced candidates from both the region and other countries around the globe.</p>
+        <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">JOIN<br><span>OUR TEAM</span></h1>
+        <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">To maintain our incomparable standards of individual care, only highly trained professionals with a long history of experience can work as direct medical service providers at MediCorp Gulf.</p>
+        <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume .</p>
+        <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">MediCorp Gulf will consider experienced candidates from both the region and other countries around the globe.</p>
 
-        <button class="button_default">Apply Now</button>
+        <button class="button_default wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Apply Now</button>
     </div>
 </section>
 

@@ -28,6 +28,8 @@
   src: url('../fonts/Montserrat-UltraLight.otf');
  }
 
+input { font-family: 'FontAwesome'; } /* This is for the placeholder */
+
 body {
   font-family: 'Montserrat-UltraLight' !important;
 }
@@ -50,6 +52,8 @@ input:focus {
 .small_padding-lr {
   padding: 0px 5px !important;
 }
+
+
 .cover_section_about {
 	top: -2%;
 	position: absolute;
@@ -82,11 +86,11 @@ input:focus {
 }
 
 .dark_section_about {
-	background-color: #5D6A84;
+	background-color: #84B12C;
 }
 
 .blue_section_about {
-	background-color: #00A4EF;
+	background-color: #84B12C;
 }
 
 .third_section_text_img {
@@ -3408,11 +3412,13 @@ Copyright (c) 2015 Daniel Eden
 	padding-top: 11%;
 	background: #00A4EF;
 	padding-bottom: 20px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 
 .first_section_career_page h1 {
 	color: white;
-	font-family: 'Montserrat-Regular'
+	font-family: 'Montserrat-Regular';
+	font-size: 50px;
 }
 
 .second_section_career_page {
@@ -3439,10 +3445,312 @@ Copyright (c) 2015 Daniel Eden
 	padding: 5% 10px;
 
 }
-
+.job_postion_career h1 {
+	margin-bottom: 30px;
+	color: #5D6A84;
+	font-family: 'Montserrat-Regular';
+	padding-left: 15px;
+}
 .small_panel_career {
 	background-color: white;
-	padding: 20px;
+	margin-top: 10px;
+	padding: 30px 40px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.10);
+	transition: ease-in-out all 0.3s;
+}
+
+.small_panel_career:hover {
+	box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 10px 30px rgba(0,0,0,0.20);
+	transition: ease-in-out all 0.3s;
+}
+
+/*Career Section put informations */
+
+.careere_info_section {
+	padding: 5% 10px;
+}
+
+.careere_info_section h1 {
+	font-family: 'Montserrat-Regular';
+	font-size: 45px;
+	padding-left: 5px;
+}
+.careere_info_section h1 span {
+	color: #00A4EF;
+}
+.careere_info_section p {
+	font-size: 13px;
+	margin-bottom: 5px;
+	margin-top: 20px;
+	padding-left: 6px;
+}
+
+.careere_info_section input {
+	width: 100%;
+	padding: 10px 35px;
+	border-radius: 3px;
+	border: solid 1px #5D6A84;
+	color: #5D6A84;
+	margin-top: 10px;
+}
+.full_na_inp {
+  	background-image: url('../img/icon/avatar_icon-01.png');
+ 	background-repeat: no-repeat;
+    background-position: 2% 50%;
+}
+
+.full_em_inp {
+  	background-image: url('../img/icon/email_icon-01.png');
+ 	background-repeat: no-repeat;
+    background-position: 2% 50%;
+}
+
+.full_ph_inp {
+  	background-image: url('../img/icon/phone_icon-01.png');
+ 	background-repeat: no-repeat;
+    background-position: 2% 50%;	
+}
+
+
+.choose_time_inp {
+	padding: 0px;
+}
+.choose_time_inp li{
+  color: #AAAAAA;
+  display: block;
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+
+.second_line_career_in {
+	margin-bottom: 30px;
+}
+.choose_time_inp li input[type=radio]{
+  position: absolute;
+  visibility: hidden;
+}
+
+.choose_time_inp li label{
+  display: block;
+    position: relative;
+    font-weight: 300;
+    font-size: 14px;
+    padding: 12px 25px 4px 35px;
+    z-index: 9;
+    cursor: pointer;
+    -webkit-transition: all 0.25s linear;
+}
+
+.choose_time_inp li .check{
+  display: block;
+  position: absolute;
+  border: 5px solid #5D6A84;
+  border-radius: 100%;
+  height: 20px;
+  width: 20px;
+  top: 12px;
+  left: 10px;
+	z-index: 5;
+	transition: border .25s linear;
+	-webkit-transition: border .25s linear;
+}
+
+
+.choose_time_inp li .check::before {
+  display: block;
+  position: absolute;
+	content: '';
+  border-radius: 100%;
+  width: 10px;
+  top: 5px;
+	left: 5px;
+  margin: auto;
+	transition: background 0.25s linear;
+	-webkit-transition: background 0.25s linear;
+}
+
+input[type=radio]:checked ~ .check {
+  border: 5px solid #00A4EF;
+}
+
+input[type=radio]:checked ~ .check::before{
+  background: #00A4EF;
+}
+
+input[type=radio]:checked ~ label{
+  color: #00A4EF;
+}
+
+.choose_time_inp li {
+	border-radius: 3px;
+	border: solid 1px #5D6A84;
+	color: #5D6A84;
+	margin-top: 10px;
+}
+
+/*Select*/
+
+.select_input select {
+	margin-top: 10px;
+	width: 100%;
+	height: 41px;
+	border-radius: 3px;
+	border: solid 1px #5D6A84;
+	color: white;
+	padding: 0px 20px;
+	background-color: #5D6A84;
+}
+.select_input select:active {
+	outline: none !important;
+}
+
+.select_input select:focus {
+	outline: none !important;
+}
+
+/*Upload Buttons*/
+
+.upload_buttons_inp button {
+	width: 100%;
+	margin-top: 10px;
+	height: 39px;
+	background-color: #00A4EF;
+	color: white;
+	font-family: 'Montserrat-SemiBold';
+	border: none;
+	border-radius: 4px;
+}
+
+.apply_grid_inp {
+	text-align: left;
+}
+.apply_grid_inp button {
+	width: 190px;
+	height: 39px;
+	background: #84B12C;
+	color: white;
+	font-family: 'Montserrat-SemiBold';
+	border:none;
+	border-radius: 4px;
+}
+.map_section_contact {
+	padding-top: 6.8%;
+}
+
+.map-container iframe{
+	width: 100%;
+	display: block;
+	pointer-events: none;
+	position: relative; /* IE needs a position other than static */
+}
+.map-container iframe.clicked{
+	pointer-events: auto;
+}
+
+.inputs_contact_page {
+	padding: 4% 10px;
+}
+
+.inputs_contact_page h1 {
+	font-family: 'Montserrat-Regular';
+}
+
+.inputs_contact_page p {
+	font-size: 17px;
+}
+
+.inputs_contact_page input {
+	margin-top: 10px;
+	width: 100%;
+	padding: 7px 10px;
+	border-radius: 2px;
+	border: solid 1px #ccc;
+}
+
+.inputs_contact_page textarea {
+	margin-top: 10px;
+	width: 100%;
+	padding: 7px 10px;
+	border-radius: 2px;
+	border: solid 1px #ccc;
+}
+
+.inputs_contact_page hr {
+	border: none;
+	margin: 30px 0px;
+    height: 3px;
+    width: 40%;
+    background-color: #00A4EF;
+}
+.cover_section_diagnostic {	
+	top: -3%;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+}
+
+.diagnostic_tabs {
+	padding: 5% 10px 0px;
+}
+
+.diagnostic_tabs .tab-content {
+	padding: 4% 0px 0px;
+}
+
+
+.button_dia_s {
+	margin: 0px 10px;
+}
+.buttons_dia li a{
+	color: #5D6A84;
+    background-color: transparent;
+    border-radius: 0px;
+    height: 50px;
+    padding: 10px 0px;
+    font-size: 18px;
+    border: solid 1px rgba(93, 106, 132, 0.56);
+    margin: 0px 10px;
+}
+
+.buttons_dia li a:hover {
+	background: transparent;
+	color: #00A4EF;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #00A4EF;
+}
+
+
+
+
+
+
+.tab_cont_text_img_dia p{
+	font-size: 18px;
+	color: #5D6A84;
+}
+
+.tab_cont_text_img_dia .let_ip {
+	padding: 3% 40px 0px;
+}
+
+.tab_cont_text_img_dia h1 {
+	color: #5D6A84;
+	font-family: 'Montserrat-SemiBold';
+	font-size: 32px;
+}
+
+.diagnostic_href {
+    border: none;
+    margin-top: 30px;
+    height: 2px;
+    /* Set the hr color */
+    color: rgba(93, 106, 132, 0.51); /* old IE */
+    background-color: rgba(93, 106, 132, 0.51); /* Modern Browsers */
 }
 
 /*General Footer Section on all Pages!!!*/
@@ -4085,8 +4393,8 @@ html {
     line-height: 20px;
 }
 .navigation_main {
-    background-color: white;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+    background-color: white;    
+    box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 10px 30px rgba(0,0,0,0.20);
 }
 .navigation_main img {
     width: 150px;

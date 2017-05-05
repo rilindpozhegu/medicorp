@@ -24,7 +24,7 @@
                             <a class="page-scroll" href="about.php">ABOUT</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#contact">DIAGNOSTIC CENTRE</a>
+                            <a class="page-scroll" href="diagnostic_centere.php">DIAGNOSTIC CENTRE</a>
                         </li>
                         <li>
                             <a class="page-scroll" href="faq.php">FAQ</a>
@@ -39,7 +39,7 @@
                             <a class="page-scroll" href="lastest_news.php">NEWS</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#services">CONTACT US</a>
+                            <a class="page-scroll" href="contact.php">CONTACT US</a>
                         </li>
                         <li class="button_list_nav">
                             <button>Patient Login <i class="fa fa-angle-right" aria-hidden="true"></i></button><br>

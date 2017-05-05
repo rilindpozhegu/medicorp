@@ -34,8 +34,8 @@ html {
     line-height: 20px;
 }
 .navigation_main {
-    background-color: white;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+    background-color: white;    
+    box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 10px 30px rgba(0,0,0,0.20);
 }
 .navigation_main img {
     width: 150px;

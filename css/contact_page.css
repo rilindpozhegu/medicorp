@@ -1,0 +1,49 @@
+.map_section_contact {
+	padding-top: 6.8%;
+}
+
+.map-container iframe{
+	width: 100%;
+	display: block;
+	pointer-events: none;
+	position: relative; /* IE needs a position other than static */
+}
+.map-container iframe.clicked{
+	pointer-events: auto;
+}
+
+.inputs_contact_page {
+	padding: 4% 10px;
+}
+
+.inputs_contact_page h1 {
+	font-family: 'Montserrat-Regular';
+}
+
+.inputs_contact_page p {
+	font-size: 17px;
+}
+
+.inputs_contact_page input {
+	margin-top: 10px;
+	width: 100%;
+	padding: 7px 10px;
+	border-radius: 2px;
+	border: solid 1px #ccc;
+}
+
+.inputs_contact_page textarea {
+	margin-top: 10px;
+	width: 100%;
+	padding: 7px 10px;
+	border-radius: 2px;
+	border: solid 1px #ccc;
+}
+
+.inputs_contact_page hr {
+	border: none;
+	margin: 30px 0px;
+    height: 3px;
+    width: 40%;
+    background-color: #00A4EF;
+}
