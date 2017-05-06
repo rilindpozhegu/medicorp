@@ -9,6 +9,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <!-- Tab Logo -->
+    <link rel="icon" href="img/favicon-01.png">
+
     <title>Medicorp Gulf</title>
 
     <!-- Bootstrap Core CSS -->

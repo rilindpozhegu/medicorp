@@ -12,3 +12,14 @@
 	color: #00A4EF;
 	font-family: 'Montserrat-SemiBold';
 }
+
+.gallery_home_section img {
+	margin-top: 10px;
+    transition: ease all 0.2s;
+}
+
+.gallery_home_section img:hover {
+-webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(50%);
+    transition: ease all 0.2s;
+}

@@ -9,6 +9,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <!-- Tab Logo -->
+    <link rel="icon" href="img/favicon-01.png">
+
     <title>Medicorp Gulf</title>
 
     <!-- Bootstrap Core CSS -->
@@ -45,7 +48,7 @@
         <div class="row">
              <!-- Nav tabs -->
               <ul class="nav  nav-pills  nav-justified buttons_dia  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
-                    <li role="presentation" class="active button_dia_s"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Imaging And X-Ray</a></li>
+                    <li role="presentation" class="active button_dia_s"><a href="#home" aria-controls="home" role="tab" data-toggle="tab" class="buton_on_activ_diagno">Imaging And X-Ray</a></li>
                     <li role="presentation" class="button_dia_s"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Laboratory</a></li>
               </ul>
               <!-- Tab panes -->

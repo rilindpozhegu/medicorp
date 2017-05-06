@@ -4,13 +4,107 @@
 /*Only in desktop*/
 @media only screen and (min-width: 1000px) {
     .desktop-d-n {
-      display: none;
+      display: none !important;
     }
 }
 
 /*Only on Mobile*/
 @media only screen and (max-width: 1000px) {
     .mobile-d-n {
-   		display: none;
+   		display: none !important;
   	}
+
+  	/*Navigationbar*/
+  	.navigation_main img {
+	    width: 99px;
+	    padding-top: 0px;
+	}
+	.navbar-brand {
+		float: right;
+	}
+	.navbar-toggle {
+		float: left;
+		margin-left: 15px;
+	}
+	.navbar-toggle .icon-bar {
+	    display: block;
+	    width: 28px;
+	    height: 4px;
+	    border: none;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+	    background-color: #00A4EF ;
+	    border: none;
+	}
+	.navbar-default .navbar-toggle {
+	    border-color: transparent !important;
+	}
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:active {
+		background-color: transparent;
+	}
+	.navigation_main ul li a {
+	    padding: 0px 10px;
+	    color: #5D6A84;
+	    font-family: 'Montserrat-SemiBold';
+	    font-size: 13px;
+	    padding-top: 10px;
+	}
+	.navigation_main ul li {
+		text-align: center;
+	}
+	.button_list_nav {
+		margin: 0 auto;
+	}
+	.cover_all_pages {
+		padding-top: 30%;
+	}
+	.cover_all_pages h1 {
+	    font-family: 'Montserrat-SemiBold';
+	    color: white;
+	    font-size: 45px;
+	    padding: 0px 10px;
+	}
+	.cover_all_pages p {
+	    color: white;
+	    font-size: 20px;
+	    padding: 10px 15px;
+	}
+	.carousel-inner {
+	    position: relative;
+	    width: 100%;
+	    overflow: hidden;
+	    height: 100vh;
+	}
+	.carousel-indicators {
+		display: none;
+	}
+	.third_section_text_img {
+	    padding: 6% 6% 6% 6% !important;
+	    color: white;
+	}
+	.button_dia_s {
+		margin-top: 10px; 
+		width: 100%;
+	}
+	.buton_on_activ_diagno {
+		margin-left: 2px !important;
+		width: 94.4%;
+	}
+	.tab_cont_text_img_dia .let_ip {
+	    padding: 10% 0px 0px;
+	}
+	.first_section_faq {
+	    padding-top: 25%;
+	    padding-bottom: 6%;
+	}
+	.apply_grid_inp {
+	    text-align: center !important;
+	    margin-top: 20px;
+	}
+	.first_section_career_page h1 {
+	    color: white;
+	    font-family: 'Montserrat-Regular';
+	    font-size: 50px;
+	    padding: 20px 5px 0px;
+	}
   }

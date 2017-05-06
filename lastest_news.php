@@ -9,6 +9,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <!-- Tab Logo -->
+    <link rel="icon" href="img/favicon-01.png">
+
     <title>Medicorp Gulf</title>
 
     <!-- Bootstrap Core CSS -->
@@ -42,6 +45,32 @@
 <section class="lastes_news_home">
     <div class="container">
         <div class="row">
+        <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
+                <div class="col-md-6 no_padding">
+                    <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
+                </div>
+                <div class="col-md-6 no_padding">
+                    <div class="small_panel_new_ho">
+                        <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>
+                        <p>Babel promises unique dining experience in iconic new location Kuwait, 14 December 2016: The award-winning Lebanese brand Babel, known for its authenticity, exquisite culinary offering and dining experience, has opened its first outlet outside of Lebanon at a stunning custom-built location...</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+                <div class="col-md-6 no_padding desktop-d-n">
+                    <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
+                </div>
+                <div class="col-md-6 no_padding">
+                    <div class="small_panel_new_ho">
+                        <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>
+                        <p>Babel promises unique dining experience in iconic new location Kuwait, 14 December 2016: The award-winning Lebanese brand Babel, known for its authenticity, exquisite culinary offering and dining experience, has opened its first outlet outside of Lebanon at a stunning custom-built location...</p>
+                    </div>
+                </div>
+                <div class="col-md-6 no_padding mobile-d-n">
+                    <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
+                </div>
+            </div>
             <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                 <div class="col-md-6 no_padding">
                     <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
@@ -55,19 +84,33 @@
             </div>
 
             <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+                <div class="col-md-6 no_padding desktop-d-n">
+                    <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
+                </div>
                 <div class="col-md-6 no_padding">
                     <div class="small_panel_new_ho">
                         <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>
                         <p>Babel promises unique dining experience in iconic new location Kuwait, 14 December 2016: The award-winning Lebanese brand Babel, known for its authenticity, exquisite culinary offering and dining experience, has opened its first outlet outside of Lebanon at a stunning custom-built location...</p>
                     </div>
                 </div>
+                <div class="col-md-6 no_padding mobile-d-n">
+                    <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
+                </div>
+            </div>
+            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                 <div class="col-md-6 no_padding">
                     <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
+                </div>
+                <div class="col-md-6 no_padding">
+                    <div class="small_panel_new_ho">
+                        <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>
+                        <p>Babel promises unique dining experience in iconic new location Kuwait, 14 December 2016: The award-winning Lebanese brand Babel, known for its authenticity, exquisite culinary offering and dining experience, has opened its first outlet outside of Lebanon at a stunning custom-built location...</p>
+                    </div>
                 </div>
             </div>
 
-            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
-                <div class="col-md-6 no_padding">
+            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+                <div class="col-md-6 no_padding desktop-d-n">
                     <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
                 </div>
                 <div class="col-md-6 no_padding">
@@ -76,20 +119,10 @@
                         <p>Babel promises unique dining experience in iconic new location Kuwait, 14 December 2016: The award-winning Lebanese brand Babel, known for its authenticity, exquisite culinary offering and dining experience, has opened its first outlet outside of Lebanon at a stunning custom-built location...</p>
                     </div>
                 </div>
-            </div>
-
-            <div class="panel_of_news_home row wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
-                <div class="col-md-6 no_padding">
-                    <div class="small_panel_new_ho">
-                        <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>
-                        <p>Babel promises unique dining experience in iconic new location Kuwait, 14 December 2016: The award-winning Lebanese brand Babel, known for its authenticity, exquisite culinary offering and dining experience, has opened its first outlet outside of Lebanon at a stunning custom-built location...</p>
-                    </div>
-                </div>
-                <div class="col-md-6 no_padding">
+                <div class="col-md-6 no_padding mobile-d-n">
                     <img src="img/random/hostpital_1_ho-01.png" class="img-responsive" style="margin-top: -2px;">
                 </div>
             </div>
-            
         </div>
     </div>
 </section>
