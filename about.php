@@ -36,6 +36,7 @@
         <div class="row">
             <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">A little about us</h1>
             <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
+            <a href="contact.php"><button class="button_default default_hover wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Contact</button></a>
         </div>
     </div>
 </section>
@@ -70,7 +71,7 @@
                 <div class="col-md-6 third_section_text_img">
                     <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s"">Our Mission</h1>
                     <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment and diagnostic facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
-                    <a href="contact.php"><button class="button_default_gray default_hover_gray  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Doctors</button></a>
+                    <a href="index.php#staff_section"><button class="button_default default_hover  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Doctors</button></a>
                 </div>
             </div>
             <div class="third_panel_section1 blue_section_about row" style="margin: 0px;">
@@ -80,7 +81,7 @@
                 <div class="col-md-6 third_section_text_img">
                     <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Our Vision</h1>
                     <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">MediCorp Gulf is committed to providing first class, up-to-the-minute medical care that adheres to globally recognized standards. We strive to involve patients in making informed decisions about their own health, while being sensitive to cultural diversity and the unique needs of every individual. Our core value is to treat people with dignity, compassion, and fairness, while maintaining a respect for complete confidentiality. </p>
-                    <a href="contact.php"><button class="button_default_gray default_hover_gray  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Contact</button></a>
+                    <a href="contact.php"><button class="button_default default_hover  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Contact</button></a>
                 </div>
                 <div class="col-md-6  no_padding mobile-d-n">
                     <img src="img/random/image2_ho-01.png">
@@ -96,7 +97,7 @@
                     <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Careers with MediCorp</h1>
                     <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">To maintain our incomparable standards of individual care, only highly trained professionals with a long history of experience can work as direct medical service providers at MediCorp Gulf.</p>
                     <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">As job opportunities arise we will advertise them on this page. Alternatively, if you believe you are a good fit for our high flying team feel free to email: HR@medicorpgulf.ae with your CV and a covering letter or use the form to submit your resume .</p>
-                    <button class="button_default_gray default_hover_gray wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Apply Now</button>
+                    <a href="career.php"><button class="button_default default_hover wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Apply Now</button></a>
                 </div>
             </div>
 

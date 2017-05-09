@@ -10,23 +10,23 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">        
     <div class="item active">
-      <img class="d-block img-fluid mobile-d-n" src="img/slide/slide1-01.png" alt="Third slide">
+      <img class="d-block img-fluid mobile-d-n" style="width: 100%;" src="img/slide/slide1-01.png" alt="Third slide">
       <img class="d-block img-fluid desktop-d-n" src="img/slide/slide11-01.png" alt="Third slide">
       <div class="carousel-caption">
       </div>
-    </div>  <!--    
+    </div>     
     <div class="item">
-      <img class="d-block img-fluid mobile-d-n" src="img/slide/slide2-01.png" alt="Third slide">
+      <img class="d-block img-fluid mobile-d-n" style="width: 100%;" src="img/slide/slide2-01.png" alt="Third slide">
       <img class="d-block img-fluid desktop-d-n" src="img/slide/slide21-01.png" alt="Third slide">
       <div class="carousel-caption">
       </div>
     </div>   
     <div class="item">
-      <img class="d-block img-fluid mobile-d-n" src="img/slide/slide3-01.png" alt="Third slide">
+      <img class="d-block img-fluid mobile-d-n" style="width: 100%;" src="img/slide/slide3-01.png" alt="Third slide">
       <img class="d-block img-fluid desktop-d-n" src="img/slide/slide31-01.png" alt="Third slide">
       <div class="carousel-caption">
       </div>
-    </div>   --> 
+    </div>   
   </div>
 
   <!-- Controls -->

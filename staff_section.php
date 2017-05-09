@@ -1,4 +1,4 @@
-<section class="staff_section_homep">
+<section class="staff_section_homep" id="staff_section">
     <div class="container">
         <div class="row">
             <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Meet <span>Our Doctors</span></h1>
@@ -9,7 +9,7 @@
                 <div class="staff_small_p_text ">
                     <h4>Dr. Ayah Aqel</h4>
                     <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
+                    <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
@@ -17,7 +17,7 @@
                 <div class="staff_small_p_text ">
                     <h4>Dr. Ayah Aqel</h4>
                     <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
+                    <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
@@ -25,7 +25,7 @@
                 <div class="staff_small_p_text ">
                     <h4>Dr. Ayah Aqel</h4>
                     <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
+                    <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
@@ -33,7 +33,7 @@
                 <div class="staff_small_p_text ">
                     <h4>Dr. Ayah Aqel</h4>
                     <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
+                    <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
@@ -41,7 +41,7 @@
                 <div class="staff_small_p_text ">
                     <h4>Dr. Ayah Aqel</h4>
                     <p>MEDICAL DOCTOR , MBBS</p>
-                    <a href="#">Read More</a>
+                    <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
         </div>    

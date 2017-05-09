@@ -38,7 +38,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".1s">
-                <h1>Medicorp Gulf Medical Clinic</h1>
+                <h1 style="color: #00A4EF;">Medicorp Gulf Medical Clinic</h1>
                 <h5>Al Shafar Building 7, 1st Floor, Office 101, Al Wasl Road, Dubai United Arab Emirates</h5>
                 <hr>
                 <p>Telephone: +971 4 312 1000</p>

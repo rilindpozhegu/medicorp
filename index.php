@@ -50,7 +50,7 @@
               <!-- Nav tabs -->
               <ul class="nav nav-pills nav-justified home_tab_cover">
                 <li role="presentation" class="active"><a href="#tab_one" aria-controls="home" role="tab" data-toggle="tab">Make an Appointment</a></li>
-                <li role="presentation"><a href="#tab_two" aria-controls="profile" role="tab" data-toggle="tab">Client testimonials</a></li>
+                <li role="presentation"><a href="#tab_two" aria-controls="profile" role="tab" data-toggle="tab"><i class="fa fa-heartbeat" aria-hidden="true"></i> Client testimonials</a></li>
               </ul>
             </div>  
               <!-- Tab panes -->
@@ -98,20 +98,20 @@
                     <div class="col-md-6">
                         <h4>SEND A MESSAGE</h4>
                             <div class="col-md-6 small_padding-lr">
-                                <input type="text" name="" placeholder="Full Name">
+                                <input type="text" name="" placeholder="Full Name" class="full_na_inp">
                             </div>
                             <div class="col-md-6 small_padding-lr">
-                                <input type="email" name="" placeholder="Email">
+                                <input type="email" name="" placeholder="Email" class="full_em_inp">
                             </div>    
                             <div class="col-md-6 small_padding-lr">
-                                <input type="text" name="" placeholder="Phone">
+                                <input type="text" name="" placeholder="Phone"  class="full_ph_inp">
                             </div>
                             <div class="col-md-6 small_padding-lr">
                             <select>
-                              <option value="volvo">Volvo</option>
-                              <option value="saab">Saab</option>
-                              <option value="opel">Opel</option>
-                              <option value="audi">Audi</option>
+                              <option value="volvo">Select Clinic</option>
+                              <option value="saab">Clinic one</option>
+                              <option value="opel">Clinic two</option>
+                              <option value="audi">Clinic three</option>
                             </select>  
                             </div>
                             <div class="col-md-12 small_padding-lr">    
@@ -141,7 +141,7 @@
 </section>
 
 
-<section class="more_infos_homepagetwo">
+<section class="more_infos_homepagetwo"  id="parallax_slide_bg">
     <div class="container">
         <div class="row">
             <div class="home_horizon_panel row wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
@@ -160,8 +160,8 @@
                     <img src="img/random/image2_ho-01.png" class="img-responsive no_padding">
                 </div>
                 <div class="col-md-7">
-                    <h4>ABOUT MEDICORP GULF</h4>
-                    <p>The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment and diagnostic facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
+                    <h4>Our Vision</h4>
+                    <p>MediCorp Gulf is committed to providing first class, up-to-the-minute medical care that adheres to globally recognized standards. We strive to involve patients in making informed decisions about their own health, while being sensitive to cultural diversity and the unique needs of every individual.</p>
                     <a href="contact.php"><button class="button_default default_hover">Contact</button></a>
                 </div>
             </div>
@@ -183,27 +183,27 @@
                     <img src="img/icon/home_stat1-01.svg">
                     <h3>ENT</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <!-- <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> -->
                 </div>
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                     <img src="img/icon/home_stat2-01.svg">
                     <h3>GYN/OBS</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <!-- <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> -->
                 </div>
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                     <img src="img/icon/home_stat3-01.svg">
                     <h3>Dentistry</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <!-- <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> -->
                 </div>
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <img src="img/icon/home_stat3-01.svg">
                     <h3>Pediatric Clinic</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <!-- <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> -->
                 </div>
 
         </div>

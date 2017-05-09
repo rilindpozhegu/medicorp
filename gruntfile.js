@@ -20,7 +20,6 @@ module.exports = function(grunt) {
 					'js/wow.min.js',
 					'js/animate.js',
 					// --------------------------------// 
-
 					'js/active_property.js',
 					// Gallery Scripts New ONE
 					'js/gallery/add_gallery.js',
@@ -37,6 +36,7 @@ module.exports = function(grunt) {
 
 					// 'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
 
+					'js/parallax-background.js',
 					'js/free_question_collapse.js',
 					],
 

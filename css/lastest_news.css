@@ -4,3 +4,29 @@
 	width: 100%;
 	text-align: center;
 }
+
+
+/*Lastest News innrpage*/
+
+.inner_news_whole {
+	padding: 10% 10px 5%;
+}
+
+.inner_news_whole img {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.inner_news_whole h1 {
+	color: #0063AA;
+	font-family: 'Montserrat-Regular';
+}
+
+.inner_news_whole h5 {
+	text-align: right;
+}
+
+.inner_news_whole p {
+	font-size: 17px;
+	margin-top: 10px;
+}

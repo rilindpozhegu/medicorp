@@ -36,6 +36,7 @@
         <div class="row">
             <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Diagnostic Centre</h1>
             <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+            <a href="contact.php"><button class="button_default default_hover wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Contact</button></a>
         </div>
     </div>
 </section>
@@ -54,10 +55,10 @@
               <!-- Tab panes -->
                 <div class="tab-content tab_cont_text_img_dia">
                     <div role="tabpanel" class="tab-pane active" id="home">
-                    <div class="col-md-4 no_padding">
+                    <div class="col-md-3 no_padding">
                         <img src="img/random/diagnostic-01.png" class="img-responsive">
                     </div>
-                    <div class="col-md-8 let_ip">
+                    <div class="col-md-9 let_ip">
                         <p>Medicorp Gulf Medical Clinic is an emerging diagnostic laboratory providing a full range of laboratory services in the UAE. The facility was established in 2013 in association with various partners in Dubai. The laboratory provides quality, accuracy, reliability and innovation with the purpose of improving patient care in the country. Our laboratory operates with the latest state-of-the-art consolidated solutions and innovations available in the Middle East.</p>
                     </div>
                     <div class="clearfix"></div>
@@ -66,10 +67,10 @@
                     </div>
                 <div role="tabpanel" class="tab-pane" id="profile">
 
-                    <div class="col-md-4 no_padding">
+                    <div class="col-md-3 no_padding">
                         <img src="img/random/diagnostic1-01.png" class="img-responsive">
                     </div>
-                    <div class="col-md-8 let_ip">
+                    <div class="col-md-9 let_ip">
                         <p>Medicorp Gulf Medical Clinic is an emerging diagnostic laboratory providing a full range of laboratory services in the UAE. The facility was established in 2013 in association with various partners in Dubai. The laboratory provides quality, accuracy, reliability and innovation with the purpose of improving patient care in the country. Our laboratory operates with the latest state-of-the-art consolidated solutions and innovations available in the Middle East.</p>
                     </div>
                     <div class="clearfix"></div>
