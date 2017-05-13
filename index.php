@@ -60,29 +60,29 @@
                         <h4><i class="fa fa-clock-o" aria-hidden="true"></i> WORKING TIME</h4>
                          <table style="width:100%">
                           <tr>
-                            <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
-                            <td>8:00 - 17:00</td>
+                            <td><p>Monday - Friday</p></td>
+                            <td><p>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</p></td> 
+                            <td><p>8:00 - 17:00</p></td>
                           </tr>
                           <tr>
-                            <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
-                            <td>8:00 - 17:00</td>
+                            <td><p>Monday - Friday</p></td>
+                            <td><p>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</p></td> 
+                            <td><p>8:00 - 17:00</p></td>
                           </tr>
                           <tr>
-                            <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
-                            <td>8:00 - 17:00</td>
+                            <td><p>Monday - Friday</p></td>
+                            <td><p>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</p></td> 
+                            <td><p>8:00 - 17:00</p></td>
                           </tr>
                           <tr>
-                            <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
-                            <td>8:00 - 17:00</td>
+                            <td><p>Monday - Friday</p></td>
+                            <td><p>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</p></td> 
+                            <td><p>8:00 - 17:00</p></td>
                           </tr>
                           <tr>
-                            <td>Monday - Friday</td>
-                            <td>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</td> 
-                            <td>8:00 - 17:00</td>
+                            <td><p>Monday - Friday</p></td>
+                            <td><p>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</p></td> 
+                            <td><p>8:00 - 17:00</p></td>
                           </tr>
                         </table>
                     </div>
@@ -214,6 +214,320 @@
 <!-- Gallery Section -->
     <?php include 'gallery_all.php';?>
 
+<!-- Packages & Promotions -->
+
+<section class="package_promotions_section_h">
+    <div class="container">
+        <div class="row">
+            <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Packages & Promotions</h1>
+
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
+                <div class="promotion_panel_home">
+                    <div class="promotion_title">
+                        <h2>Package 1</h2>
+                    </div>
+                    <div class="promotion_main_body">
+                        <table style="width:100%">
+                          <tr>
+                            <th>Procedure</th>
+                            <th>Price</th> 
+                            <th>Nos</th>
+                          </tr>
+                          <tr>
+                            <td><p>Consultation and Ultrasound</p></td>
+                            <td><p>5,000.00</p></td>
+                            <td><p>10</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Nuchal Traslucency (NT) Scan AT 12 weeks</p></td>
+                            <td><p>600.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Beta HCG</p></td>
+                            <td><p>270.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Blood Group (ABO & RH)</p></td>
+                            <td><p>110.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Human Immunodeficiency Virus (HIV)</p></td>
+                            <td><p>220</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>HBsAG (Hepatitis B Surface Antigen)</p></td>
+                            <td><p>170.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>VDRL (Syphillis Test)</p></td>
+                            <td><p>280.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Rubella IgG AND IgM</p></td>
+                            <td><p>520.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Random Blood Sugar (RBS)</p></td>
+                            <td><p>70.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Glucose Tolerance Test (GTT) at 26 weeks</p></td>
+                            <td><p>230.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Thyroid Stimulating Hormone (TSH)</p></td>
+                            <td><p>300.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Complete Blood Count (CBC)</p></td>
+                            <td><p>140.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Urine Analysis</p></td>
+                            <td><p>70.00</p></td>
+                            <td><p>80</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>High Vaginal Swab (HVS)</p></td>
+                            <td><p>155.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>John</p></td>
+                            <td><p>Doe</p></td>
+                            <td><p>80</p></td>
+                          </tr>
+                          <tfoot>
+                              <tr>
+                                  <td><p>Total Price</p></td>
+                                  <td><p>8,123 AED</p></td>
+                              </tr>
+                              <tr>
+                                  <td><p>Rounded Off Price</p></td>
+                                  <td><p>8,123 AED</p></td>
+                              </tr>
+                          </tfoot>
+                        </table>
+                    </div>    
+                </div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">
+                <div class="promotion_panel_home">
+                    <div class="promotion_title">
+                        <h2>Package 2</h2>
+                    </div>
+                    <div class="promotion_main_body">
+                        <table style="width:100%">
+                          <tr>
+                            <th>Procedure</th>
+                            <th>Price</th> 
+                            <th>Nos</th>
+                          </tr>
+                          <tr>
+                            <td><p>Consultation and Ultrasound</p></td>
+                            <td><p>5,000.00</p></td>
+                            <td><p>10</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Nuchal Traslucency (NT) Scan AT 12 weeks</p></td>
+                            <td><p>600.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Beta HCG</p></td>
+                            <td><p>270.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Blood Group (ABO & RH)</p></td>
+                            <td><p>110.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Human Immunodeficiency Virus (HIV)</p></td>
+                            <td><p>220</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>HBsAG (Hepatitis B Surface Antigen)</p></td>
+                            <td><p>170.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>VDRL (Syphillis Test)</p></td>
+                            <td><p>280.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Rubella IgG AND IgM</p></td>
+                            <td><p>520.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Random Blood Sugar (RBS)</p></td>
+                            <td><p>70.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Glucose Tolerance Test (GTT) at 26 weeks</p></td>
+                            <td><p>230.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Thyroid Stimulating Hormone (TSH)</p></td>
+                            <td><p>300.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Complete Blood Count (CBC)</p></td>
+                            <td><p>140.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Urine Analysis</p></td>
+                            <td><p>70.00</p></td>
+                            <td><p>80</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>High Vaginal Swab (HVS)</p></td>
+                            <td><p>155.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>John</p></td>
+                            <td><p>Doe</p></td>
+                            <td><p>80</p></td>
+                          </tr>
+                          <tfoot>
+                              <tr>
+                                  <td><p>Total Price</p></td>
+                                  <td><p>8,123 AED</p></td>
+                              </tr>
+                              <tr>
+                                  <td><p>Rounded Off Price</p></td>
+                                  <td><p>8,123 AED</p></td>
+                              </tr>
+                          </tfoot>
+                        </table>
+                    </div>    
+                </div>
+            </div>
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".6s">
+                <div class="promotion_panel_home">
+                    <div class="promotion_title">
+                        <h2>Package 3</h2>
+                    </div>
+                    <div class="promotion_main_body">
+                        <table style="width:100%">
+                          <tr>
+                            <th>Procedure</th>
+                            <th>Price</th> 
+                            <th>Nos</th>
+                          </tr>
+                          <tr>
+                            <td><p>Consultation and Ultrasound</p></td>
+                            <td><p>5,000.00</p></td>
+                            <td><p>10</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Nuchal Traslucency (NT) Scan AT 12 weeks</p></td>
+                            <td><p>600.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Beta HCG</p></td>
+                            <td><p>270.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Blood Group (ABO & RH)</p></td>
+                            <td><p>110.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Human Immunodeficiency Virus (HIV)</p></td>
+                            <td><p>220</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>HBsAG (Hepatitis B Surface Antigen)</p></td>
+                            <td><p>170.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>VDRL (Syphillis Test)</p></td>
+                            <td><p>280.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Rubella IgG AND IgM</p></td>
+                            <td><p>520.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Random Blood Sugar (RBS)</p></td>
+                            <td><p>70.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Glucose Tolerance Test (GTT) at 26 weeks</p></td>
+                            <td><p>230.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Thyroid Stimulating Hormone (TSH)</p></td>
+                            <td><p>300.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Complete Blood Count (CBC)</p></td>
+                            <td><p>140.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>Urine Analysis</p></td>
+                            <td><p>70.00</p></td>
+                            <td><p>80</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>High Vaginal Swab (HVS)</p></td>
+                            <td><p>155.00</p></td>
+                            <td><p>1</p></td>
+                          </tr>
+                          <tr>
+                            <td><p>John</p></td>
+                            <td><p>Doe</p></td>
+                            <td><p>80</p></td>
+                          </tr>
+                          <tfoot>
+                              <tr>
+                                  <td><p>Total Price</p></td>
+                                  <td><p>8,123 AED</p></td>
+                              </tr>
+                              <tr>
+                                  <td><p>Rounded Off Price</p></td>
+                                  <td><p>8,123 AED</p></td>
+                              </tr>
+                          </tfoot>
+                        </table>
+                    </div>    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Staff Section Slick Homepage -->
 
     <?php include 'staff_section.php';?>
@@ -310,6 +624,7 @@
                     <div class="small_panel_new_ho">
                         <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>
                         <p>Babel promises unique dining experience in iconic new location Kuwait, 14 December 2016: The award-winning Lebanese brand Babel, known for its authenticity, exquisite culinary offering and dining experience, has opened its first outlet outside of Lebanon at a stunning custom-built location...</p>
+                    <a href="news1.php" style="color: white; text-decoration: none;">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
@@ -322,6 +637,7 @@
                     <div class="small_panel_new_ho">
                         <h5>Accurate Diagnosis is essential for any successful treatment and follow up.</h5>
                         <p>Babel promises unique dining experience in iconic new location Kuwait, 14 December 2016: The award-winning Lebanese brand Babel, known for its authenticity, exquisite culinary offering and dining experience, has opened its first outlet outside of Lebanon at a stunning custom-built location...</p>
+                    <a href="news1.php" style="color: white; text-decoration: none;">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                     </div>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">

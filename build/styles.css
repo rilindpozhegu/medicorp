@@ -4432,6 +4432,55 @@ input[type=radio]:checked ~ label{
 	font-size: 18px;
 }
 
+.package_promotions_section_h {
+	background-image: url('../img/backgorund/package_bg-01.png');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	padding: 4% 10px;
+}
+.package_promotions_section_h h1 {
+	font-family: 'Montserrat-Regular';
+	color: white;
+	text-align: center;
+}
+.promotion_panel_home {/*
+	background: white;
+	padding: 10px;*/
+}
+
+.promotion_title {
+	background-color: #00A4EF;
+}
+.promotion_title h2 {
+	background-color: #00A4EF;
+	margin-bottom: 0px;
+	padding: 15px;
+	color: white;
+	font-family: 'Montserrat-Regular';
+	text-align: center;
+}
+.promotion_main_body {
+	background-color: #fff;
+	padding: 15px;
+}
+
+.promotion_main_body p {
+	font-size: 11px;
+	margin: 2px;
+}
+
+.promotion_main_body tr th {
+	font-family: 'Montserrat-SemiBold';
+	border-bottom: solid 1px #ccc;
+}
+
+.promotion_main_body tfoot {
+	border-top: solid 1px #ccc;
+	margin: 5px 2px;
+	font-family: 'Montserrat-SemiBold';
+}
+
 .group_inputs {
   color: white;
 }
