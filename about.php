@@ -105,8 +105,6 @@
     </div>
 </section>
 
-
-
 <!-- Gallery Section -->
     <?php include 'gallery_all.php';?>
 <!-- Contact Form Section -->
@@ -119,3 +117,5 @@
 <!-- jQuery -->
 
     <script type="text/javascript" src="build/scripts.js"></script>
+    </body>
+    </html>

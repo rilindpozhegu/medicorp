@@ -32,7 +32,7 @@
     <div class="container">
         <div class="row">
             <h1 class="wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".2s">Welcome To MediCorp Gulf</h1>
-            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
+            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s"  id="table_top_section">The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
         </div>
     </div>
 </section>
@@ -168,9 +168,22 @@
         </div>
     </div>
 </section>
-
-
 </div>
+
+<!-- Plastic section -->
+<section class="plastic_section_medi"> 
+  <div class="container">
+    <div class="row">
+        <div class="col-md-7">
+          <h3>MEDICORP PLASTIC SURGERY</h3>
+          <h1>CONFIDENCE<br>IS BEAUTIFUL</h1>
+          <p>MediCorp Gulf is committed to providing first class, up-to-the-minute medical care that adheres to globally recognized standards. We strive to involve patients in making informed decisions about their own health, while being sensitive to cultural diversity and the unique needs of every individual.</p>
+          <a href="#table_top_section"><button>Book An Appointment</button></a>
+        </div>
+    </div>
+  </div>
+</section>
+
 
 <section class="services_section_homepa">
     <div class="container">
@@ -510,7 +523,7 @@
                             <td><p>Doe</p></td>
                             <td><p>80</p></td>
                           </tr>
-                          <tfoot>
+                          <tfoot class="table_footer">
                               <tr>
                                   <td><p>Total Price</p></td>
                                   <td><p>8,123 AED</p></td>
@@ -693,6 +706,7 @@
 <!-- jQuery -->
 
     <script type="text/javascript" src="build/scripts.js"></script>
+
 </body>
 
 </html>
