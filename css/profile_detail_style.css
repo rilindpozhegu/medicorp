@@ -52,3 +52,19 @@
 .big_panel_detail p {
 	font-size: 15px;
 }
+
+
+/*===========================*/
+/*	   Services Innerpages   */
+/*===========================*/
+
+.blue_line_top_profile img {
+	width: 80px;
+}
+
+.services_panel_details_inner img {
+	height: 240px;
+	width: 100%;
+	margin-top: 3%;
+	object-fit: cover;
+}

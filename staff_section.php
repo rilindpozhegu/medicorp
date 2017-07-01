@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Meet <span>Our Doctors</span></h1>
-            <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem <br>Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+            <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Here at MediCorp Gulf, we are extremely proud of the caliber of our team. Without exception, each member of staff has been brought on board for having top tier qualifications, recognized experience in their respective field and, most importantly, a proven dedication to giving patients the very best in individual care. We believe that as a clinic we stand apart from the rest due the sheer quality of our physicians.</p>
         <div class="responsive_portfolio">
             <div class="staff_panel_sm">
                 <img src="img/staff/1.B DR. BINBREK PHOTO.jpg">

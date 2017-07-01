@@ -78,6 +78,10 @@ input:focus {
 	padding: 1% 10px 0px;
 }
 
+.about_the_medicorp img {
+	padding: 9% 10px 0px;
+}
+
 .third_panel_section1 img{
 	width: 100%;
 	margin-top: -1px;
@@ -93,11 +97,11 @@ input:focus {
 }
 
 .third_section_text_img {
-	padding: 6% 6% 0% 6% !important; 
+	padding: 2% 6% 0% 6% !important; 
 	color: white;
 }
 .third_section_text_img p {
-	font-size: 18px;
+	font-size: 15px;
 }
 
 @charset "UTF-8";
@@ -4140,7 +4144,7 @@ input[type=radio]:checked ~ label{
 }
 
 .read_more_home_serv {
-	color: white;
+	color: #00A4EF;
 	text-decoration: none;
 	transition: ease all 0.2s;
 }
@@ -4738,6 +4742,22 @@ input[type=radio]:checked ~ label{
 
 .big_panel_detail p {
 	font-size: 15px;
+}
+
+
+/*===========================*/
+/*	   Services Innerpages   */
+/*===========================*/
+
+.blue_line_top_profile img {
+	width: 80px;
+}
+
+.services_panel_details_inner img {
+	height: 240px;
+	width: 100%;
+	margin-top: 3%;
+	object-fit: cover;
 }
 body {
     width: 100%;

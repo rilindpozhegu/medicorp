@@ -33,6 +33,7 @@
         <div class="row">
             <h1 class="wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".2s">Welcome To MediCorp Gulf</h1>
             <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s"  id="table_top_section">The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
+            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">This commitment to excellence has attracted some of the world’s finest specialist physicians to work in our family medicine, ENT, gynaenacology &amp; obstetrics, dentistry, general medicine, Paediatrics and dermatology departments.</p>
         </div>
     </div>
 </section>
@@ -185,43 +186,8 @@
 </section>
 
 
-<section class="services_section_homepa">
-    <div class="container">
-        <div class="row">
-            <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Our <span>Services</span></h1>
-            <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-            <div class="responsive slider">                   
-
-                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
-                    <img src="img/icon/home_stat1-01.svg">
-                    <h3>ENT</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <!-- <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> -->
-                </div>
-                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
-                    <img src="img/icon/home_stat2-01.svg">
-                    <h3>GYN/OBS</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <!-- <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> -->
-                </div>
-
-                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
-                    <img src="img/icon/home_stat3-01.svg">
-                    <h3>Dentistry</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <!-- <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> -->
-                </div>
-
-                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
-                    <img src="img/icon/home_stat3-01.svg">
-                    <h3>Pediatric Clinic</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <!-- <a href="" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> -->
-                </div>
-
-        </div>
-    </div>
-</section>
+<!-- Services Section -->
+    <?php include 'services_section.php';?>
 
 
 <!-- Gallery Section -->

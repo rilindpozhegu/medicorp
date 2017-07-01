@@ -23,6 +23,10 @@
 	padding: 1% 10px 0px;
 }
 
+.about_the_medicorp img {
+	padding: 9% 10px 0px;
+}
+
 .third_panel_section1 img{
 	width: 100%;
 	margin-top: -1px;
@@ -38,9 +42,9 @@
 }
 
 .third_section_text_img {
-	padding: 6% 6% 0% 6% !important; 
+	padding: 2% 6% 0% 6% !important; 
 	color: white;
 }
 .third_section_text_img p {
-	font-size: 18px;
+	font-size: 15px;
 }

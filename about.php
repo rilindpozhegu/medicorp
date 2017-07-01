@@ -53,6 +53,7 @@
                 <h5 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">ABOUT MEDICORP GULF</h5>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment and diagnostic facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
                 <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Our clinic boasts a state-of-the-art laboratory offering a wide range of precise diagnostic testing. This huge space is fully automated and therefore requires minimum human intervention, ensuring total accuracy. MediCorp Gulf also has a full imaging department with MRI, CT scan, 4D ultrasound and digital x-ray with the latest web-based software for teleradiology and telereporting.</p>
+                <p>This commitment to excellence has attracted some of the world’s finest specialist physicians to work in our family medicine, ENT, gynaenacology &amp; obstetrics, dentistry, general medicine, and dermatology departments. This focus on combining the latest technology with ultra-personalized care has made us one of the most trusted names in the region.</p>
                 <a href="contact.php"><button class="button_default wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".5s">Contact</button></a>
             </div>
         </div>
@@ -70,7 +71,7 @@
                 </div>
                 <div class="col-md-6 third_section_text_img">
                     <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s"">Our Mission</h1>
-                    <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment and diagnostic facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
+                    <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">As one of the UAE’s medical facility of choice for clients, contractors and employees due to our preeminent healthcare services and a highly competitive pricing structure, Medicorp Gulf has a responsibility to be identified across the seven emirates as one of the country’s leading medical facilities, and to be sought after for offering cutting-edge technology in visually attractive surroundings. To provide a patient friendly environment that is dedicated to continuous improvement. Continue to be recognized in the industry and by the public as a place of excellence. To meet the medical needs of the entire community through impeccable patient care and tailor-made wellness programs.</p>
                     <a href="index.php#staff_section"><button class="button_default default_hover  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Doctors</button></a>
                 </div>
             </div>
@@ -80,7 +81,7 @@
                 </div>
                 <div class="col-md-6 third_section_text_img">
                     <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Our Vision</h1>
-                    <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">MediCorp Gulf is committed to providing first class, up-to-the-minute medical care that adheres to globally recognized standards. We strive to involve patients in making informed decisions about their own health, while being sensitive to cultural diversity and the unique needs of every individual. Our core value is to treat people with dignity, compassion, and fairness, while maintaining a respect for complete confidentiality. </p>
+                    <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">MediCorp Gulf is committed to providing first class, up-to- the-minute medical care that adheres to globally recognized standards. We strive to involve patients in making informed decisions about their own health, while being sensitive to cultural diversity and the unique needs of every individual. Our core value is to treat people with dignity, compassion, and fairness, while maintaining a respect for complete confidentiality. We aim to offer a visually pleasing and relaxing facility that minimizes any apprehension or stress felt by clients. We will continue to improve our quality of care through self-learning and participation in staff education programs – not only in medicine, but in soft skills too. Our truest vision is developing a working environment where a spirit of teamwork thrives, supported by a positive and friendly attitude towards both colleagues and clients. </p>
                     <a href="contact.php"><button class="button_default default_hover  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Contact</button></a>
                 </div>
                 <div class="col-md-6  no_padding mobile-d-n">
