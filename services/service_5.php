@@ -52,17 +52,14 @@
                     <div class="col-md-12">
                     <h3>Family Medicine</h3>
                     <p>
-                    Care and regular follow up for patients with chronic diseases such as hypertension, diabetes and asthma.<br>
-                    - Managing total family wellbeing, including appropriated treatments and arranging appropriate
-                    primary or secondary care.<br>
-                    - Medical investigations and referrals.<br>
-                    - Palliative treatment that includes addressing a family’s day-to- day needs and offering support.<br>
-                    - Women Health and well being.<br>
-                    - Annual check-ups, lifestyle modifications, weight loss.<br>
-                    - Management of Endocrinal dysfunction function like thyroid diseases.<br>
-                    - Management of infectious diseases.<br>
-                    - Care of elderly.<br>
-                    - Other services including; Abscess drainage, Wound suturing and dressing.
+                    Care and regular follow up for patients with chronic diseases such as hypertension, diabetes and asthma.Family Medicine delivers a range of acute, chronic, and preventive medical care services while providing patients with a patient-centered medical home.In addition to diagnosing and treating illness, they also provide preventive care<br>
+                    Complete and Comprehensive annual check-ups for the family<br>
+                    - Geriatric disease management<br>
+                    - Chronic disease management: Diabetes, Hypertension, Asthma & Endocrine disorders<br>
+                    - Adult Vaccinations.<br>
+                    - Management of infectious diseases<br>
+                    - Ear Piercing<br>
+                    - Weight loss Program<br>
                     </p>
                     </div>
                 </div>

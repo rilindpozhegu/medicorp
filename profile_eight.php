@@ -59,18 +59,17 @@
                     <div class="clearfix"></div>
                     <div class="col-md-12">
                     <h3>MD/Chiropractor</h3>
-                    <p>Dr. Hany, Egyptian practitioner with medical education in Egypt and acquired Chiropractic degree from USA. Dr Hany comes with twenty years of experience in managing back, neck and extremities pain. He joined our team to add to our force of improving health and well-being. 
-                    </p>
+                    <p>Dr. Hany, Egyptian practitioner with medical education in Egypt and acquired Chiropractic degree from USA. Dr. Hany comes with twenty years of experience in managing back, neck and extremities pain. He joined our team to add to our force of improving health and well-being.</p>
 
                     <p>Graduated in 1984 with Bachelor of Medicine & Surgery From Ain-Shams University, Medical School Cairo-Egypt. Obtained advanced studies in Clinical Pathology at Alazhar University, Cairo-Egypt 1986-1988.</p>
 
-                    <p>Chiropractic Care:<br>
+                    <!-- <p>Chiropractic Care:<br>
                     Neck pain<br>
                     Back pain<br>
                     Numbness<br>
                     Joint pain<br>
                     Headache and more<br>
-                    </p>
+                    </p> -->
                     <p>Affiliations and certificates:<br>
                     1.  Chiropractic Licensee in State of Michigan. Pennsylvania and Georgia, Illinois and Wisconsin<br>
                     2.  Supporter World Federation of Chiropractic (1994-1996)<br>

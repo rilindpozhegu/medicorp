@@ -33,6 +33,7 @@ module.exports = function(grunt) {
 					'js/gallery/lg-pager.min.js',
 					'js/gallery/jquery.mousewheel.min.js',
 					// ---------------------------------//
+					'js/owl.carousel.min.js',
 
 					// 'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
 

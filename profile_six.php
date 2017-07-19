@@ -60,16 +60,13 @@
                     <div class="col-md-12">
                     <h3>M.D., Ph.D., MBBCh <br>
                     Specialist Otolaryngology</h3>
-                    <p>Special Interests <br>
-                    Facial Plastic Surgery, Children's ENT problems, Problems with breathing, nose and sinuses<br>
-                    Dr. SasaJanjanin is an ENT Specialist, double European Board-certified in Otolaryngology – Head and Neck Surgery and Facial Plastic and Reconstructive Surgery.
-                    </p>
+                    <p>Dr. SasaJanjanin graduated from Zagreb University School of Medicine in Croatia. Specialized in ENT, Head and Neck Surgery at Zagreb University Hospital Center. Completed advanced surgical training and obtained a fellowship in Facial Plastic and Reconstructive Surgery, prior to spending periods of time practicing in some of the best centers in both the USA and Germany. As a Fulbright fellow he performed research in adult stem cells, tissue engineering and nanomaterials at the National Institutes of Health, Bethesda, USA, and his scientific results eventually resulted in him obtaining M.Sc. and Ph.D. degrees in biomedical sciences.</p>
 
-                    <p>Dr. SasaJanjanin graduated from Zagreb University School of Medicine in Croatia. Specialized in ENT, Head and Neck Surgery at Zagreb University Hospital Center. Completed advanced surgical training and obtained a fellowship in Facial Plastic and Reconstructive Surgery, prior to spending periods of time practicing in some of the best centers in both the USA and Germany. As a Fulbright fellow he performed research in adult stem cells, tissue engineering and nanomaterials at the National Institutes of Health, Bethesda, USA, and his scientific results eventually resulted in him obtaining M.Sc. and Ph.D. degrees in biomedical sciences. <p>
+                    <p>His additional passion is in sport-related ENT problems, as he was acting many years as a consultant for several professional and national sport teams and athletes, some of them Olympic medal and European championship winners. At the University, he was performing more than 500 surgical procedures per year.<p>
                         
-                    <p>His additional passion is in sport-related ENT problems, as he was acting many years as a consultant for several professional and national sport teams and athletes, some of them Olympic medal and European championship winners. At the University, he was performing more than 500 surgical procedures per year.</p>
+                    <p>Special Interests <br> Facial Plastic Surgery, Children's ENT problems, Problems with breathing, nose and sinuses Dr. SasaJanjanin is an ENT Specialist, double European Board-certified in Otolaryngology – Head and Neck Surgery and Facial Plastic and Reconstructive Surgery.</p>
 
-                    <p>Services
+                 <!--    <p>Services
                     •   Sinus and breathing problems<br>
                     •   Thyroid gland disorders (thyroid nodules, thyroid enlargement)<br>
                     •   Snoring and other sleep-related disorders (like obstructive sleep apnea)<br>
@@ -86,7 +83,7 @@
                     •   Thyroid and neck ultrasound<br>
                     •   Sleep testing<br>
                     •   Voice box disorders (hoarseness, chronic cough, vocal cord nodules and polyps)
-                    </p>
+                    </p> -->
                     </div>
                 </div>
             </div>

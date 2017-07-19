@@ -35,7 +35,7 @@
                 <h2>Dr. Mohammed Helaly</h2>
             </div>
             <div class="col-md-6">
-                <h3>Specialist Radiologist, MD MBBS</h3>
+                <h3>Specialist Radiologist</h3>
             </div>
         </div>
     </div>
@@ -58,10 +58,8 @@
                     </div>
                     <div class="clearfix"></div>
                     <div class="col-md-12">
-                    <h3>Specialist Radiologist, MD MBBS</h3>
-                    <p>Dr. Helaly is a Fellow of The Royal college of Radiologists in London, UK. Dr. Helaly is also a Fellow in the Faculty of The Royal College of Surgeons in Dublin, Ireland.
-                    Dr. Helaly has practiced Radiology in Egypt, Saudi Arabia, UK, Ireland, Canada and UAE. He has a wide range of experience covering most modalities including MRI, CT, Ultrasound, Fluoroscopy, XRay, Mammogram, and imaging guided interventional procedures. Dr. Helaly is a member of the European Society of Radiology ESR.
-                    Dr. Helaly was the training supervisor for radiology in the Saudi Military Hospital and a member of the Radiology Committee of the Saudi Council for Medical Specialties for radiology.
+                    <h3>Specialist Radiologist, DMRD, FRCR, FFRRCSI</h3>
+                    <p>Dr. Helaly is a Fellow of The Royal college of Radiologists in London, UK. Dr. Helaly is also a Fellow in the Faculty of The Royal College of Surgeons in Dublin, Ireland. Dr. Helaly has practiced Radiology in Egypt, Saudi Arabia, UK, Ireland, Canada and UAE. He has a wide range of experience covering most modalities including MRI, CT, Ultrasound, Fluoroscopy, X-Ray, Mammogram and imaging guided interventional procedures. Dr. Helaly is a member of the European Society of Radiology ESR. He was the training supervisor for radiology in the Saudi Military Hospital and a member of the Radiology Committee of the Saudi Council for Medical Specialties for radiology.
                     <p>
                         Dr. Helaly was also the leading Radiologist at many famous hospitals in UAE, GCC and abroad. Dr. Helaly is considered one of the early pioneer Arab Radiologists to be certified to work in many Western countries as Ireland, UK and Canada.
                     </p>

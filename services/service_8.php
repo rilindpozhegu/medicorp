@@ -32,10 +32,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="../img/icon/home_stat2-01.svg">
+                <img src="../img/icon/home_stat7-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>GYN / OBS</h3>
+                <h3>CARDDIOLOGY</h3>
             </div>
         </div>
     </div>
@@ -46,29 +46,25 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/4.jpg">
+                    <img src="../img/gallery/d11-1024x555.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
-                    <h3>GYN / OBS</h3>
-                    <p>Our Obstetrics and Gynecology Specialists provide women with compassionate care at every patient. In addition to helping manage their reproductive health, they offer a wide range of women’s health care services, including yearly checkups, prenatal care and gynecologic surgeries.</p>
-                    
-                    <p>-    Complete routing gynaecology, as well as obstetrics <br>
-                        -   Complete woman health care check-ups, including professional, impartial advice <br>
-                        -   Excellent care of a mother during and after her pregnancy (prenatal, antenatal care). <br>
-                        -   The latest 4-D ultrasound featuring high-resolution images of your unborn child <br>
-                        -   Menstruation Monitoring <br>
-                        -   Sexual Health Advice <br>
-                        -   Urinary Incontinence <br>
-                        -   Fertility Test <br>
-                        -   IUD – Intra Uterine Device <br>
-                        -   Hormone Replacement <br>
-                        -   Cancer Screening <br>
-                        -   Many other services related to women health and well being <br>
-
-                    </p>
+                    <h3>CARDDIOLOGY</h3>
+                    <p>The term cardiology is derived from the Greek words “cardia,” which refers to the heart and “logy” meaning “study of.” Cardiology is a branch of medicine that concerns diseases and disorders of the heart, which may range from congenital defects through to acquired heart diseases such as coronary artery disease and congestive heart failure.</p>
                     </div>
                 </div>
+                <div class="clearfix"></div>
+                <div class="col-md-3">
+                <p style="margin-top: 50px;">
+                    -   Cardiology (Interventional and Internal)<br>
+                    -   Aviation Medicine Examination<br>
+                    -   Echocardiogram <br>
+                    -   Tread Mill Exercise Test (Stress test)<br>
+                    -   Hotler Monitoring (24 Hrs. Ambulatory ECG Monitor)<br>        
+                    -   24 Hrs. Ambulatory BP monitoring<br>        
+                </p>    
+              </div>
             </div>
     </div>
 </section>

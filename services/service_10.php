@@ -32,10 +32,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="../img/icon/home_stat2-01.svg">
+                <img src="../img/icon/home_stat10-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>GYN / OBS</h3>
+                <h3>CHIROPRACTIC</h3>
             </div>
         </div>
     </div>
@@ -46,27 +46,22 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/4.jpg">
+                    <img src="../img/gallery/11-1024x683.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
-                    <h3>GYN / OBS</h3>
-                    <p>Our Obstetrics and Gynecology Specialists provide women with compassionate care at every patient. In addition to helping manage their reproductive health, they offer a wide range of women’s health care services, including yearly checkups, prenatal care and gynecologic surgeries.</p>
-                    
-                    <p>-    Complete routing gynaecology, as well as obstetrics <br>
-                        -   Complete woman health care check-ups, including professional, impartial advice <br>
-                        -   Excellent care of a mother during and after her pregnancy (prenatal, antenatal care). <br>
-                        -   The latest 4-D ultrasound featuring high-resolution images of your unborn child <br>
-                        -   Menstruation Monitoring <br>
-                        -   Sexual Health Advice <br>
-                        -   Urinary Incontinence <br>
-                        -   Fertility Test <br>
-                        -   IUD – Intra Uterine Device <br>
-                        -   Hormone Replacement <br>
-                        -   Cancer Screening <br>
-                        -   Many other services related to women health and well being <br>
-
-                    </p>
+                    <h3>CHIROPRACTIC</h3>
+                    <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on methods or the use of hand-held instruments. </p>
+                    <p><b>-   Neck pain<b><br>
+                    &nbsp;&nbsp;-   Low and mid-back pain<br>
+                    <b>-   Joint pain</b><br>
+                    &nbsp;&nbsp;-   Migraines and headaches<br>
+                    &nbsp;&nbsp;-   Arm pain<br>
+                    &nbsp;&nbsp;-   Scoliosis<br>
+                    &nbsp;&nbsp;-   Chest pains<br>
+                    &nbsp;&nbsp;-   Sciatica<br>
+                    &nbsp;&nbsp;-   Leg pain and more
+</p>
                     </div>
                 </div>
             </div>

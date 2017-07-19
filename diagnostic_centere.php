@@ -15,8 +15,10 @@
     <title>Medicorp Gulf</title>
 
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" type="text/css" href="build/styles.css">
+    <link rel="stylesheet" href="build/styles.css?<?= filemtime('build/styles.css') ?>">
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css">
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
@@ -60,11 +62,11 @@
               </ul>
               </div>
               <!-- Tab panes -->
-                <div class="tab-content tab_cont_text_img_dia">
+                <div class="tab-content tab_cont_text_img_dia" style="width: 100% !important;">
                     <div role="tabpanel" class="tab-pane active" id="home">
 
-                    <section class="slider multiple-items">
-                        <div>
+                    <section class="owl-carousel">
+                        <div class="item">
                         <div class="col-md-3 no_padding">
                             <img src="img/random/diagnostic-01.png" class="img-responsive">
                         </div>
@@ -81,7 +83,7 @@
                             </p>
 
                         </div>
-                        <div>
+                        <div class="item">
                         <div class="col-md-3 no_padding">
                             <img src="img/gallery/4.jpg" class="img-responsive">
                         </div>
@@ -113,7 +115,7 @@
                         </div>
 
                         </div>
-                        <div>
+                        <div class="item">
                         <div class="col-md-3 no_padding">
                             <img src="img/gallery/1-1024x683.jpg" class="img-responsive">
                         </div>
@@ -146,7 +148,7 @@
                         </div>
 
                         </div>
-                        <div>
+                        <div class="item">
                         <div class="col-md-3 no_padding">
                             <img src="img/gallery/d10-1024x616.jpg" class="img-responsive">
                         </div>
@@ -179,7 +181,7 @@
                         </div>
 
                         </div>
-                        <div>
+                        <div class="item">
                         <div class="col-md-3 no_padding">
                             <img src="img/gallery/d10-1024x616.jpg" class="img-responsive">
                         </div>
@@ -194,7 +196,7 @@
                         </div>
 
                         </div>
-                        <div>
+                        <div class="item">
                         <div class="col-md-3 no_padding">
                             <img src="img/gallery/d7-1024x683.jpg" class="img-responsive">
                         </div>
@@ -222,6 +224,9 @@
                     </div>
                     <div role="tabpanel" class="tab-pane" id="profile">
 
+                    <section class="owl-carousel owl-theme">
+
+                    <div class="item">
                     <div class="col-md-3 no_padding">
                         <img src="img/random/diagnostic1-01.png" class="img-responsive">
                     </div>
@@ -229,17 +234,100 @@
                         <p>Medicorp Gulf Medical Clinic is an emerging diagnostic laboratory providing a full range of laboratory services in the UAE. The facility was established in 2013 in association with various partners in Dubai. The laboratory provides quality, accuracy, reliability and innovation with the purpose of improving patient care in the country. Our laboratory operates with the latest state-of-the-art consolidated solutions and innovations available in the Middle East.</p>
                     </div>
                     <div class="clearfix"></div>
+                    </div>
+
+
+                    <div class="item">
+                    <div class="col-md-3 no_padding">
+                        <img src="img/random/diagnostic1-01.png" class="img-responsive">
+                    </div>
+                    <div class="col-md-9 let_ip">
                         <h1>Laboratory</h1>
-                        <p>At Medicorp Gulf Medical Clinic the quality of our services is at the core of the laboratory. From collection of samples, testing and result distribution, each aspect of the workflow is handled with the utmost care and attention with our highly standardized analyzers and equipment. Facilitated by the cutting-edge technology used in our laboratory, we can guarantee efficiency, accuracy, and timely results.</p>
+                        <p>Become a leading provider of diagnostics laboratory services for healthcare providers in the UAE. The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified laboratory technicians provide top-level services to physicians and patients on site.</p>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="col-md-5">
+                        <p>
+                        The laboratory is comprised of the following areas:<br>
+                        - Central sample collection<br>
+                        - Hematology<br>
+                        - Biochemistry, routine and special chemistry<br>
+                        - Microbiology, bacteriology, mycology, immunology, and serology<br>
+                        - Emergency and accident laboratory services<br>
+                        - Patient instruction and preparation for tests<br>
+                        - Complete urinalysis testing<br>
+                        - PAP smear</p>
+                    </div>
+                    <div class="col-md-6">                        
+                        - Comprehensive stool analysis<br>
+                        - Testing semen for analysis<br>
+                        - Respiratory testing<br>
+                        - Total women wellbeing and anti-aging testing and advice<br>
+                        - Total men wellbeing and anti-aging testing and advice<br>
+                        - Early tumor detection tests<br>
+                        - Complete premarital testing<br>
+                        - STD testing<br>
+                    </div>
+                    </div>
+
+
+                    <div class="item">
+                        <div class="col-md-3 no_padding">
+                            <img src="img/random/diagnostic1-01.png" class="img-responsive">
+                        </div>
+                        <div class="col-md-9 let_ip">
+                            <h1>Innovation &amp; Quality</h1>
+                            <p>At Medicorp Gulf Medical Clinic the quality of our services is at the core of the laboratory. From collection of samples, testing and result distribution, each aspect of the workflow is handled with the utmost care and attention with our highly standardized analyzers and equipment. Facilitated by the cutting-edge technology used in our laboratory, we can guarantee efficiency, accuracy, and timely results. The workflow solutions we use provide standardization of the pre-analytical process and support orkflow management and quality. Throughput and reliability of instrumentation is vital for analytics, which is why we use the most advanced technologies for our testing. Our regularly trained specialists are thoroughly experienced in each of our consolidated solutions, ensuring we provide accurate laboratory information needed for diagnosis and treatment of patients.</p>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="col-md-3 no_padding">
+                            <img src="img/random/diagnostic1-01.png" class="img-responsive">
+                        </div>
+                        <div class="col-md-9 let_ip">
+                            <h1>Diagnostics</h1>
+                            <p>Our portfolio of immunoassays cover a wide range of specialized tests designed to primarily support
+                            clinical decision making. <br>
+                            - Infectious Diseases <br>
+                            - Cardiac Biomarkers <br>
+                            - Bone Marker Assays <br>
+                            - Pregnancy CareTherapeutic Drug Monitoring <br>
+                            - Tumor Markers in Oncology <br>
+                            - Diabetes <br>
+                            - Bone Diseases <br>
+                            The immunoassays used in our laboratory deliver the highest level of accuracy, quality and efficiency with <br>
+                            confidence, rapid measurement, sensitivity, precision, wide measuring range and for low sample <br>
+                            volumes.</p>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="col-md-3 no_padding">
+                            <img src="img/random/diagnostic1-01.png" class="img-responsive">
+                        </div>
+                        <div class="col-md-9 let_ip">
+                            <h1>Medical</h1>
+                            <p><b>Cardiac Biomarkers </b>
+                            We are dedicated to providing the most advanced assays supported by the latest research in cardiology, specifically for early and accurate diagnosis. Innovative markers such as NT-proBNP for early diagnosis of heart failure patients and TnT hs in early detection of acute coronary syndrome are prime examples of the tests we offer.</p>
+                            <p><b>Pregnancy Care </b>
+                            When looking at Pregnancy Care as a medical indication, our offerings go beyond General Women’s Health. The solutions running in our laboratory can assist gynecologists in managing pregnant women from point of detecting pregnancy (first trimester screening) to markers that support the diagnosis of Preeclampsia (sFlt-1 and PlGF) all the way up to the delivery stage.</p>
+                            <p><b>Bone Marker Assays </b>
+                            Bone marker assays are critical diagnostics aids in the evaluation and management of osteoporosis and other bone related diseases. With the assay in our laboratory, we can help doctors provide a more complete picture of bone metabolism and health. The tests we run perform with sustained consistency and provide clinicians with reliable results supported by guidelines for optimal patient management and Vitamin D testing.</p>
+                            <p><b>Infectious Diseases </b>
+                            Our laboratory offers a comprehensive menu for serological diagnoses and monitoring of sexually transmitted diseases, hepatitis, congenital, perinatal and neonatal infections. We cover an extensive portfolio of medically relevant solutions for the healthcare professional.</p>
+                        </div>
+                    </div>
+
+                    </section>    
                     </div>
                 </div>
 
-                    <hr class="diagnostic_href">     
+                <hr class="diagnostic_href">     
             </div>
         </div>
     </div>
 </section>
-
 
 
 <!-- Staff Section -->
@@ -291,6 +379,32 @@
                 <p>Complete care for well and sick babies, Examinations and follow up, Vaccinations,Neonatal care, Neonatal follow-up and care at hospitals, Routine...</p>
                 <a href="services/service_4.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
+
+
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic7-01.svg">
+                <h3>Radiology </h3>
+                <p>We have a full imaging and x-ray department with fully computerized, automated digital processing. Because MediCorp Gulf strives...</p>
+                <a href="services/service_7.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic8-01.svg">
+                <h3>Cardiology </h3>
+                <p>The term cardiology is derived from the Greek words “cardia,” which refers to the heart and “logy” meaning “study of.” Cardiology is ...</p>
+                <a href="services/service_8.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic9-01.svg">
+                <h3>Internal Medicine </h3>
+                <p>nternal Medicine is the medicalspecialty dealing with the prevention, diagnosis, and treatment of adult diseases Physicians...</p>
+                <a href="services/service_9.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic10-01.svg">
+                <h3>Chiropractic </h3>
+                <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
+                <a href="services/service_10.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
         </div>
     </div>
 </section>
@@ -302,19 +416,32 @@
     <?php include 'footer_all.php';?>
 
 <!-- jQuery -->
-
+    
     <script type="text/javascript" src="build/scripts.js"></script>
-    <script type="text/javascript">
-        $('.multiple-items').slick({
-          infinite: true,
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          arrows: false,
-          autoplay: true,
-          autoplaySpeed: 4000,
-          dots: true,
-          // fade: true,
-        });
+
+
+        <script>
+      var owl = $('.owl-carousel');
+      owl.owlCarousel({
+        margin: 10,
+        loop: true,
+        autoplay:true,
+        autoplayTimeout:5000,
+        autoplayHoverPause:false,
+        autoHeight: true,
+        autoHeightClass: 'owl-height',
+        responsive: {
+          0: {
+            items: 1
+          },
+          600: {
+            items: 1
+          },
+          1000: {
+            items: 1
+          }
+        }
+      });
     </script>
 
     </body>

@@ -6,7 +6,8 @@ $('.responsive').slick({
   slidesToScroll: 4,
   autoplay: true,
   arrows: false,
-  autoplaySpeed: 4000,
+  pauseOnHover: false,
+  autoplaySpeed: 3000,
   responsive: [
     {
       breakpoint: 1024,
@@ -46,7 +47,7 @@ $('.responsive_portfolio').slick({
   slidesToScroll: 4,
   autoplay: true,
   arrows: true,
-  autoplaySpeed: 4000,
+  autoplaySpeed: 3000,
   dots: true,
   responsive: [
     {

@@ -32,10 +32,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="../img/icon/home_stat6-01-01.svg">
+                <img src="../img/icon/home_stat9-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>Other Clinics</h3>
+                <h3>Internal Medicine/Endocrine & Diabetes Clinic Services</h3>
             </div>
         </div>
     </div>
@@ -46,44 +46,33 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/a8-1024x683.jpg">
+                    <img src="../img/gallery/d11-1024x555.jpg">
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-8">
                     <div class="col-md-12">
-                    <h3>Other Clinics </h3>
-                    <p>Cardiology:<br>
-                    1. Cardiology (Interventional and Internal)<br>
-                    2. Aviation Medicine Examination<br>
-                    3. Stress Tests and Echocardiogram<br>
-                    4. Holter and BP Monitoring (24hrs)</p>
+                    <h3>Internal Medicine/Endocrine & Diabetes Clinic Services</h3>
+                    <p>Internal Medicine is the medicalspecialty dealing with the prevention, diagnosis, and treatment of adult diseases. Physicians specializing in internal medicine are called internists.</p>
+                    <p>Endocrinology & Diabetes provides patient care related to diseases and disorders of the endocrine system (the hormone-producing glands including the thyroid, pancreas, ovaries and testes, adrenal glands and pituitary gland). Its physicians are dedicated to advancing clinical investigation in order to provide the most up-to-date care for endocrine and metabolic disorders.</p>
                     </div>
                 </div>
+                <div class="clearfix"></div>
                 <div class="col-md-3">
                 <p style="margin-top: 50px;">
-                    Chiropractic Care:<br>
-                    - Neck pain<br>
-                    - Back pain<br>
-                    - Numbness<br>
-                    - Joint pain<br>
-                    - Headache and more <br>         
+                - Type 1 & 2 Diabetes<br>
+                - Thyroid disorder including: Hypothyroidism/hyperthyroidism Goitre and solitary nodules.<br>
+                - Parathyroids and calcium disorders/Osteomalacia/ Vitamin D Deficiency <br>
+                -  Osteoporosis<br>
+                -  Pituitary gland disorder<br>
                 </p>    
               </div>
-                <div class="clearfix"></div>
-              <div class="col-md-8">
-                  <p style="margin-top: 20px;">
-                      Internal Medicine/Endocrinology &amp; Diabetes:<br>
-                        - Type 1 &amp; 2 Diabetes<br>
-                        - Thyroid disorder including: Hypothyroidism/hyperthyroidism Goitre and solitary nodules.<br>
-                        - Parathyroids and calcium disorders/Osteomalacia/ Vitamin D Deficiency<br>
-                        - Osteoporosis<br>
-                        - Pituitary gland disorder<br>
-                        - Adrenal gland disorder<br>
-                        - Obesity and dyslipidaemias<br>
-                        - Hirutism (excess hair growth in females), with or without irregular menstrual period<br>
-                        - Short stature/delayed puberty/Early puberty<br>
-                        -  Hypoglicaemia in non-diabetic patient<br>
-                        -  Endocrine Hypertension      <br>            
-                    </p>
+              <div class="col-md-3">
+                  <p style="margin-top: 50px;">
+                - Adrenal gland disorder<br>
+                -  Obesity and dyslipidaemias<br>
+                - Hirutism (excess hair growth in females), with or without irregular menstrual period<br>
+                - Short stature/delayed puberty/Early puberty<br>
+                - Hypoglicaemia in non-diabetic patient<br>
+                - Endocrine Hypertension</p>
               </div>
             </div>
     </div>

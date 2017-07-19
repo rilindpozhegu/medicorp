@@ -59,30 +59,9 @@
                     <div class="clearfix"></div>
                     <div class="col-md-12">
                     <h3>Internal Medicine/Endocrinology & Diabetes</h3>
-                    <p>1.   Dr.Bashar O.El-Sharabireceived his medical degree (MB.ch.B) from Alexandria University, Egypt (1983)<br>
-                    2.  Post-graduate Diploma in Internal medicine from Imperial College Hammersmith Hospital, London, UK (1999)<br>
-                    3.  Member of the Royal College of Physicians of Ireland (2001)<br>
-                    4.  Jordanian Board in Internal Medicine (2004)<br>
-                    5.  Diploma in Endocrinology and Diabetes from Queen Mary University of London, UK(2012)<br>
-                    6.  He completed his residency clinical/training at Jordanian Armed Forces Health Services, where he developed interest in improving the treatment of diabetic emergency, diabetic ketoacidosis, and the metabolic changes associated with obesity.<br>
-                    7.  His field of interest includes endocrinology and diabetes and he has expertise in managing complicated diabetes cases and improving the overall quality of care of diabetes in clinic and hospital setting.<br>
-                    </p>
-
-                    <p>Internal Medicine/Endocrine & Diabetes Clinic Services:<br>
-                    1.  Type 1 & 2 Diabetes<br>
-                    2.  Thyroid  disorder including: Hypothyroidism/hyperthyroidism Goitre and solitary nodules.<br>
-                    3.  Parathyroids and calcium disorders/Osteomalacia/ Vitamin D Deficiency <br>
-                    4.  Osteoporosis<br>
-                    5.  Pituitary gland disorder<br>
-                    6.  Adrenal gland disorder<br>
-                    7.  Obesity and dyslipidaemias<br>
-                    8.  Hirutism (excess hair growth in females), with or without irregular menstrual period<br>
-                    9.  Short stature/delayed puberty/Early puberty<br>
-                    10. Hypoglicaemia in non-diabetic patient<br>
-                    11. Endocrine Hypertension<br>
-                    <p>
-                        
-                    </p>
+                    <p>Dr.Bashar O.El-Sharabireceived his medical degree (MB.ch.B) from Alexandria University, Egypt (1983), his post-graduate Diploma in Internal medicine from Imperial College Hammersmith Hospital, London, UK (1999). He became a member of the Royal College of Physicians of Ireland (2001) and Jordanian Board in Internal Medicine (2004). Attained his Diploma in Endocrinology and Diabetes from Queen Mary University of London, UK(2012)</p>
+                    <p>He completed his residency clinical/training at Jordanian Armed Forces Health Services, where he developed interest in improving the treatment of diabetic emergency, diabetic ketoacidosis, and the metabolic changes associated with obesity.<p>
+                    <p>His field of interest includes endocrinology and diabetes and he has expertise in managing complicated diabetes cases and improving the overall quality of care of diabetes in clinic and hospital setting.</p>
                     </div>
                 </div>
             </div>

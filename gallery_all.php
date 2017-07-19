@@ -5,12 +5,12 @@
         <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Our <span>Gallery</span></h1>
         <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
             <div class="demo-gallery">
-                <ul id="lightgallery" class="list-unstyled">
+                <ul id="lightgallery" class="list-unstyled"><!-- 
                     <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/gallery/1.jpg" >
                         <a href="">
                             <img class="img-responsive" src="img/gallery/1.jpg">
                         </a>
-                    </li>
+                    </li> -->
                     <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/gallery/1-1024x683.jpg" >
                         <a href="">
                             <img class="img-responsive" src="img/gallery/1-1024x683.jpg">

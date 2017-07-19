@@ -59,33 +59,22 @@
                     <div class="clearfix"></div>
                     <div class="col-md-12">
                     <h3>Dentist</h3>
+                    <p>Dr. HebaJaved is a qualified dentist attaining her bachelor’s degree from Rajiv Gandhi University of Health Sciences and a Master’s degree from University of Manchester, UK. <br>
+                    Following her MSc, Dr Javed trained and worked at Trafford General Hospital (where NHS was founded), Manchester Royal Infirmary and Turner Dental Hospital, UK.<br>
+                    Throughout her career of 12+ years, Dr. Javed has been successful in spreading awareness via seminars amongst different communities about oral health and its diseases, especially oral cancer; its importance in early detection. Her exceptional methods in treating children are well known.<br>
+                    Over the past few years has developed an interest in cosmetic dentistry and treating gum disease and has been successful in achieving the goal of providing her patients with a natural smile.<br> 
+                    To provide patients with the best care possible, Dr.Javed firmly believes in continuous education to keep herself well versed with the new techniques and products in the vast field of dentistry. <br>
+                    Dr. HebaJaved has a simple goal; make every patient of hers as comfortable as possible while eliminating dental phobia so that regular visits to the dental office can prevent future dental problems, and you can enjoy a beautiful natural smile as long as possible! 
+
+                    </p>
+
+
                     <p>•    Trafford General Hospital, UK <br>
                         •   Manchester Royal Infirmary, UK<br>
                         •   Turner Dental Hospital, UK<br>
                         •   Al Baraha Hospital, UAE<br>
-                        </p>
-                    <p>Dr. Heba Javed is a qualified dentist attaining her bachelor’s degree from Rajiv Gandhi University of Health Sciences and a Master’s degree in Oral surgery from University of Manchester, UK.
                     </p>
-                    <p>
-                        Following her MSc, Dr Javed trained and worked at Trafford General Hospital (where NHS was founded), Manchester Royal Infirmary and Turner Dental Hospital, UK.
-                    </p>
-                    <p>Dentistry Clinic Services: <br>
-                    1.  General Dentistry including: <br>
-                        &nbsp;  Root Canal <br>
-                        &nbsp;  Crowns and bridges <br>
-                        &nbsp;  Dentures <br>
-                    2.  Aesthetic Dentistry including: <br>
-                        &nbsp;  Veneers, Lumineers <br>
-                        &nbsp;  Teeth whitening <br>
-                        &nbsp;  Gum bleaching <br>
-                    3.  Oral Surgery including: <br>
-                        &nbsp;  Oral Surgery- extractions <br>
-                        &nbsp;  Minor facial trauma <br>
-                        &nbsp;  Paedodontics <br>
-                    4.  Others: <br>
-                        &nbsp;  Perio treatment  <br>
-                        &nbsp;  Inhalation Sedation <br>
-                    </p>
+
                     </div>
                 </div>
             </div>

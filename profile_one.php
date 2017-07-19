@@ -35,7 +35,7 @@
                 <h2>Dr. Azan Selem Binbrek</h2>
             </div>
             <div class="col-md-6">
-                <h3>OB / GYN</h3>
+                <h3>CONSULTANT CARDIOLOGY</h3>
             </div>
         </div>
     </div>
@@ -59,22 +59,20 @@
                     <div class="clearfix"></div>
                     <div class="col-md-12">
                     <h3>CONSULTANT CARDIOLOGY</h3>
-                    <p>Dr. A. Binbrek, an invasive Cardiologist. Qualified at Glasgow University(1971) and received MRCP (1975), FRCP (London & Edinburgh in 1987). He is involved in Cardiology research many of which have been published in distinguished journals.</p>
+                    <p>Dr. A. Binbrek, an invasive Cardiologist qualified at Glasgow University (1971) and received MRCP (1975), FRCP (London & Edinburgh in 1987). He is involved in Cardiology research many of his articles have been published in distinguished medical journals.</p>
                     <p>Associations:<br>
                     1.  Consultant Cardiologist at Rashid Hospital<br>
                     2.  Founding Member of Emirates Medical Association<br>
                     3.  Chairperson of The Medical Research Committee<br>
                     4.  GCAA Approved Specialist Aeromedical Examiner<br>
-                    </p>
+                    </p><!-- 
+                    <p>
                     CServices:<br>
                     1.  Cardiology (Interventional and Internal)<br>
                     2.  Aviation Medicine Examination<br>
                     3.  Stress Tests and Echocardiogram<br>
                     4.  Holter and BP Monitoring (24hrs)<br>
-
-                    <p>
-                        
-                    </p>
+                    </p> -->
                     </div>
                 </div>
             </div>

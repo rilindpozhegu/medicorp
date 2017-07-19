@@ -46,14 +46,14 @@
                     <h4>Dr. SasaJanjanin </h4>
                     <p>Specialist Otolaryngology<br>&nbsp;</p><a href="profile_six.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
-            </div>
+            </div><!-- 
             <div class="staff_panel_sm">
                 <img src="img/staff/7.B DR. ZOLTAN KRUPPA PHOTO.jpg">
                 <div class="staff_small_p_text ">
                     <h4>DDr. ZoltánKruppa</h4>
                     <p>Aesthetic & Plastic Surgeon<br>&nbsp;</p><a href="profile_seven.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
-            </div>
+            </div> -->
             <div class="staff_panel_sm">
                 <img src="img/staff/8.B DR. HANI PHOTO.jpg">
                 <div class="staff_small_p_text ">

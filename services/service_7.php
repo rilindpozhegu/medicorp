@@ -32,10 +32,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="../img/icon/home_stat2-01.svg">
+                <img src="../img/icon/home_stat7-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>GYN / OBS</h3>
+                <h3>Radiology</h3>
             </div>
         </div>
     </div>
@@ -46,29 +46,24 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/4.jpg">
+                    <img src="../img/gallery/a8-1024x683.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
-                    <h3>GYN / OBS</h3>
-                    <p>Our Obstetrics and Gynecology Specialists provide women with compassionate care at every patient. In addition to helping manage their reproductive health, they offer a wide range of women’s health care services, including yearly checkups, prenatal care and gynecologic surgeries.</p>
-                    
-                    <p>-    Complete routing gynaecology, as well as obstetrics <br>
-                        -   Complete woman health care check-ups, including professional, impartial advice <br>
-                        -   Excellent care of a mother during and after her pregnancy (prenatal, antenatal care). <br>
-                        -   The latest 4-D ultrasound featuring high-resolution images of your unborn child <br>
-                        -   Menstruation Monitoring <br>
-                        -   Sexual Health Advice <br>
-                        -   Urinary Incontinence <br>
-                        -   Fertility Test <br>
-                        -   IUD – Intra Uterine Device <br>
-                        -   Hormone Replacement <br>
-                        -   Cancer Screening <br>
-                        -   Many other services related to women health and well being <br>
-
-                    </p>
+                    <h3>Radiology</h3>
+                    <p>We have a full imaging and x-ray department with fully computerized, automated digital processing. Because MediCorp Gulf strives for excellence in diagnosis, it also offers tele radiology and tele reporting capabilities whereby a second, or even third, medical opinion from a range of renowned global radiology facilities can be done. In other words, we go the extra mile to seek out the very best services for our clients without impacting the cost of treatment.</p>
                     </div>
                 </div>
+                <div class="clearfix"></div>
+                <div class="col-md-3">
+                <p style="margin-top: 50px;">
+                    Chiropractic Care:<br>
+                    - MRI machine 1.5Tesla<br>
+                    - CT scan<br>
+                    - Complete digital X-Ray<br>
+                    - Ultrasound<br>        
+                </p>    
+              </div>
             </div>
     </div>
 </section>

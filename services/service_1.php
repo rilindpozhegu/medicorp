@@ -51,12 +51,28 @@
                 <div class="col-md-8">
                     <div class="col-md-12">
                     <h3>E.N.T</h3>
-                    <p>
-                    - Diagnosis &amp; management of E.N.T diseases and postoperative care<br>
-                    - E.N.T. emergencies, as well as routine examinations<br>
-                    - Treatment of various E.N.T infections and inflammations<br>
-                    - Investigations and appropriate referrals if necessary.<br>
-                    - Complete follow up
+                    <p>Our ENT clinic offersa broad scope of outpatient services for the diagnosis, treatment and surgical management of ear, nose and throat problems with the state of the art facility.</p>
+                    <p>Sinus and breathing problems <br>
+                    -   Thyroid gland disorders (thyroid nodules, thyroid enlargement) <br>
+                    -   Snoring and other sleep-related disorders (like obstructive sleep apnea) <br>
+                    -    Minimally-invasive cosmetic facial treatments (Botox, injectable fillers, PRP facial rejuvenation) <br>
+                    -    Children’s ENT problems (ear and throat infections, breathing problems) <br>
+                    -    Allergies (nose congestion, sneezing, runny nose, AC-related problems etc.) <br>
+                    -    Occupation-related sinus problems (in flight personnel, divers etc.) <br>
+                    -    Neck disease (enlarged lymph nodes, cysts, thyroid and parathyroid) <br>
+                    -   Aesthetic rhinoplasty <br>
+                    -    Aesthetic otoplasty (prominent ear surgery) <br>
+                    -    Mole removal <br>
+                    -   Skin cancer treatment <br>
+                    -    Ear infections <br>
+                    -   Thyroid and neck ultrasound <br>
+                    -   Voice box disorders (hoarseness, chronic cough, vocal cord nodules and polyps) <br>
+                    -   Diagnosis & management of E.N.T diseases and postoperative care <br>
+                    -   E.N.T. emergencies, as well as routine examinations <br>
+                    -   Treatment of various E.N.T infections and inflammations <br>
+                    -   Investigations and appropriate referrals if necessary. <br>
+                    -   Complete follow up
+
                     </p>
                     </div>
                 </div>
