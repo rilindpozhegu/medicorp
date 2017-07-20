@@ -35,7 +35,7 @@
                 <h2>Dr. ZoltánKruppa</h2>
             </div>
             <div class="col-md-6">
-                <h3>Aesthetic & Plastic Surgeon</h3>
+                <h3>CHIROPRACTIC</h3>
             </div>
         </div>
     </div>

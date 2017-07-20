@@ -8,7 +8,7 @@
                 <img src="img/staff/1.B DR. BINBREK PHOTO.jpg">
                 <div class="staff_small_p_text ">
                     <h4>Dr. Azan Salem Binbrek</h4>
-                    <p>Consultant Cardiology<br>&nbsp;</p>
+                    <p>Cardiology<br>&nbsp;</p>
                     <a href="profile_one.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -16,35 +16,35 @@
                 <img src="img/staff/2.B Dr. Manal Darwick - Dentist.jpg">
                 <div class="staff_small_p_text ">
                     <h4>Dr. Manal Darwich</h4>
-                    <p>Dental Surgeon<br>&nbsp;</p><a href="profile_two.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>DENTISTRY<br>&nbsp;</p><a href="profile_two.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/3.B  DR. IYAD HASSAN PHOTO.jpg">
                 <div class="staff_small_p_text ">
                     <h4>Dr. Iyad Hassan</h4>
-                    <p>Consultant - General and Endocrine Surgeon</p><a href="profile_three.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>GENERAL SURGERY & ENDOCRINOLOGY</p><a href="profile_three.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/4.B DR. HEBA PHOTO.jpg">
                 <div class="staff_small_p_text ">
                     <h4>Dr.Heba Javed </h4>
-                    <p>Dentist<br>&nbsp;</p><a href="profile_four.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>DENTISTRY<br>&nbsp;</p><a href="profile_four.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/5.B DR. BASHAR.JPG">
                 <div class="staff_small_p_text ">
                     <h4>Dr. Bashar O.El-Sharabi</h4>
-                    <p>Internal Medicine/Endocrinology & Diabetes</p><a href="profile_five.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>Internal Medicine/ Endocrinology & Diabetes</p><a href="profile_five.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/6.B DR. SASA PHOTO.jpg">
                 <div class="staff_small_p_text ">
-                    <h4>Dr. SasaJanjanin </h4>
-                    <p>Specialist Otolaryngology<br>&nbsp;</p><a href="profile_six.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <h4>Dr. Sasa Janjanin </h4>
+                    <p>ENT/OTOLARYNGOLOGY<br>&nbsp;</p><a href="profile_six.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div><!-- 
             <div class="staff_panel_sm">
@@ -57,29 +57,29 @@
             <div class="staff_panel_sm">
                 <img src="img/staff/8.B DR. HANI PHOTO.jpg">
                 <div class="staff_small_p_text ">
-                    <h4>Dr.HanyElbibany</h4>
-                    <p>MD/Chiropractor<br>&nbsp;</p><a href="profile_eight.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <h4>Dr.Hany Elbibany</h4>
+                    <p>CHIROPRACTIC<br>&nbsp;</p><a href="profile_eight.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/Dr Ayah Aqel.png">
                 <div class="staff_small_p_text ">
                     <h4>Dr Ayah Aqel</h4>
-                    <p>Family Specialist MD. MBBS<br>&nbsp;</p><a href="profile_nine.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>FAMILY MEDICINE<br>&nbsp;</p><a href="profile_nine.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/Dr Virginia.jpg">
                 <div class="staff_small_p_text ">
                     <h4>Dr Virginia Midrigan</h4>
-                    <p>Specialist Obstetrics & Gynecology<br>&nbsp;</p><a href="profile_ten.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>OBSTETRICS & GYNECOLOGY<br>&nbsp;</p><a href="profile_ten.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/mohammed-1.jpg">
                 <div class="staff_small_p_text ">
                     <h4>Dr. Mohammed Helaly</h4>
-                    <p>Specialist Radiologist, MD MBBS<br>&nbsp;</p><a href="profile_eleven.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>RADIOLOGY<br>&nbsp;</p><a href="profile_eleven.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
         </div>    

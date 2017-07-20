@@ -35,7 +35,7 @@
                 <h2>Dr.Heba Javed </h2>
             </div>
             <div class="col-md-6">
-                <h3>Dentist</h3>
+                <h3>DENTISTRY</h3>
             </div>
         </div>
     </div>
@@ -78,9 +78,45 @@
                     </div>
                 </div>
             </div>
+            </div>
+            </section>    
+                
+<section class="innner_image_sm_gallery">
+    <div class="container">
+        <div class="row">
+        
+            <div class="demo-gallery">
+                <ul id="lightgallery" class="list-unstyled"><!-- 
+                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/gallery/1.jpg" >
+                        <a href="">
+                            <img class="img-responsive" src="img/gallery/1.jpg">
+                        </a>
+                    </li> -->
+                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/staff/Photos - Dental - Dr Heba/1.jpg" >
+                        <a href="">
+                            <img class="img-responsive" src="img/staff/Photos - Dental - Dr Heba/1.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/staff/Photos - Dental - Dr Heba/2.jpg" >
+                        <a href="">
+                            <img class="img-responsive" src="img/staff/Photos - Dental - Dr Heba/2.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/staff/Photos - Dental - Dr Heba/3.jpg">
+                        <a href="">
+                            <img class="img-responsive" src="img/staff/Photos - Dental - Dr Heba/3.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/staff/Photos - Dental - Dr Heba/4.jpg">
+                        <a href="">
+                            <img class="img-responsive" src="img/staff/Photos - Dental - Dr Heba/4.jpg">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </div>
 </section>
-
 
 <!-- Gallery Section -->
     <?php include 'staff_section.php';?>

@@ -46,34 +46,27 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/d11-1024x555.jpg">
+                    <img src="../img/services/Internal Medicine.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
                     <h3>Internal Medicine/Endocrine & Diabetes Clinic Services</h3>
-                    <p>Internal Medicine is the medicalspecialty dealing with the prevention, diagnosis, and treatment of adult diseases. Physicians specializing in internal medicine are called internists.</p>
+                    <p>Internal Medicine is the medical specialty dealing with the prevention, diagnosis, and treatment of adult diseases. Physicians specializing in internal medicine are called internists.</p>
                     <p>Endocrinology & Diabetes provides patient care related to diseases and disorders of the endocrine system (the hormone-producing glands including the thyroid, pancreas, ovaries and testes, adrenal glands and pituitary gland). Its physicians are dedicated to advancing clinical investigation in order to provide the most up-to-date care for endocrine and metabolic disorders.</p>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-md-3">
-                <p style="margin-top: 50px;">
+                <p>
                 - Type 1 & 2 Diabetes<br>
                 - Thyroid disorder including: Hypothyroidism/hyperthyroidism Goitre and solitary nodules.<br>
                 - Parathyroids and calcium disorders/Osteomalacia/ Vitamin D Deficiency <br>
                 -  Osteoporosis<br>
                 -  Pituitary gland disorder<br>
-                </p>    
-              </div>
-              <div class="col-md-3">
-                  <p style="margin-top: 50px;">
                 - Adrenal gland disorder<br>
                 -  Obesity and dyslipidaemias<br>
                 - Hirutism (excess hair growth in females), with or without irregular menstrual period<br>
                 - Short stature/delayed puberty/Early puberty<br>
                 - Hypoglicaemia in non-diabetic patient<br>
                 - Endocrine Hypertension</p>
-              </div>
+                    </div>
+                </div>
             </div>
     </div>
 </section>

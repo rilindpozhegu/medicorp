@@ -32,10 +32,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Dr. SasaJanjanin </h2>
+                <h2>Dr. Sasa Janjanin </h2>
             </div>
             <div class="col-md-6">
-                <h3>Internal Medicine/Endocrinology & Diabetes</h3>
+                <h3>ENT/OTOLARYNGOLOGY</h3>
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-6">
-                        <h2>Dr. SasaJanjanin </h2>
+                        <h2>Dr. Sasa Janjanin </h2>
                     </div>
                     <div class="col-md-6">
                         <h4>Languages: Fluent in English, Croatian, Basic German, Russian</h4>

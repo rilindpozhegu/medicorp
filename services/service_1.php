@@ -35,7 +35,7 @@
                 <img src="../img/icon/home_stat1-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>ENT</h3>
+                <h3>ENT/OTOLARYNGOLOGY</h3>
             </div>
         </div>
     </div>
@@ -46,11 +46,11 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/11-1024x683.jpg">
+                    <img src="../img/services/ENT.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
-                    <h3>E.N.T</h3>
+                    <h3>ENT/OTOLARYNGOLOGY</h3>
                     <p>Our ENT clinic offersa broad scope of outpatient services for the diagnosis, treatment and surgical management of ear, nose and throat problems with the state of the art facility.</p>
                     <p>Sinus and breathing problems <br>
                     -   Thyroid gland disorders (thyroid nodules, thyroid enlargement) <br>

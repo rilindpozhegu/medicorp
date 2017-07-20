@@ -35,7 +35,7 @@
                 <img src="../img/icon/home_stat7-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>CARDDIOLOGY</h3>
+                <h3>CARDIOLOGY</h3>
             </div>
         </div>
     </div>
@@ -46,17 +46,13 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/d11-1024x555.jpg">
+                    <img src="../img/services/Cardiology.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
-                    <h3>CARDDIOLOGY</h3>
+                    <h3>CARDIOLOGY</h3>
                     <p>The term cardiology is derived from the Greek words “cardia,” which refers to the heart and “logy” meaning “study of.” Cardiology is a branch of medicine that concerns diseases and disorders of the heart, which may range from congenital defects through to acquired heart diseases such as coronary artery disease and congestive heart failure.</p>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-md-3">
-                <p style="margin-top: 50px;">
+                <p>
                     -   Cardiology (Interventional and Internal)<br>
                     -   Aviation Medicine Examination<br>
                     -   Echocardiogram <br>
@@ -64,7 +60,8 @@
                     -   Hotler Monitoring (24 Hrs. Ambulatory ECG Monitor)<br>        
                     -   24 Hrs. Ambulatory BP monitoring<br>        
                 </p>    
-              </div>
+                    </div>
+                </div>
             </div>
     </div>
 </section>

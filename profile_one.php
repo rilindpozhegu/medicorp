@@ -35,7 +35,7 @@
                 <h2>Dr. Azan Selem Binbrek</h2>
             </div>
             <div class="col-md-6">
-                <h3>CONSULTANT CARDIOLOGY</h3>
+                <h3>CARDIOLOGY</h3>
             </div>
         </div>
     </div>

@@ -35,7 +35,7 @@
                 <img src="../img/icon/home_stat3-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>Routine Dental Checkup</h3>
+                <h3>DENTISTRY</h3>
             </div>
         </div>
     </div>
@@ -46,21 +46,33 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/pic-1024x681.jpg">
+                    <img src="../img/services/Dentistry.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
-                    <h3>Routine Dental Checkup</h3>
-                    <p>
-                    - Routine dental check-up<br>
-                    - Consultations<br>
-                    - Partial/full dentures<br>
-                    - Dental hygiene/de-scaling (ultrasonic)<br>
-                    - Implantology<br>
-                    - Aesthetic restorative dentistry (Ceramic Inlay/Onlay and Metal Free Fillings)<br>
-                    - Veneers and Lumineers.<br>
-                    - Metal free crowns and bridges with Biological Oriented Preparation Technique.<br>
-                    - Root canal treatment with Ni-Ti instruments.<br>
+                    <h3>DENTISTRY</h3>
+                    <p>Our Dental clinics are handled by professional and dedicated team equipped with the latest
+dental technology and state of the art clinic, equipment and lasers.</p>
+                    <p>- Consultations and routine dental check-up<br>
+                    - Cosmetic Dentistry – Hollywood Smile including:<br>
+                        &nbsp;  &nbsp;- Veneers (CAD-CAM),<br>
+                        &nbsp;  &nbsp;- Lumineers (CAD-CAM) without preparation,<br>
+                        &nbsp;  &nbsp;- Zircon Crowns (Emax)<br>
+                        &nbsp;  &nbsp;- Dental Whitening/Home Whitening<br>
+                    - Inlay/Onlay (CAD-CAM).<br>
+                    - Laser Surgery<br>
+                    - Surgical/Normal Extraction (impacted teeth-wisdom)<br>
+                    - Implants<br>
+                    - Pediatric Dentistry<br>
+                    - Dentures (partial and full)<br>
+                    - Root Canals<br>
+                    - Crowns and bridges<br>
+                    - Gum bleaching <br>
+                    - Minor facial trauma <br>
+                    - Paedodontics <br>
+                    - Perio treatment<br>
+                    - Inhalation Sedation<br>
+                    - Digital X-ray and 3-D Tomography.
                     </p>
                     </div>
                 </div>

@@ -68,3 +68,8 @@
 	margin-top: 3%;
 	object-fit: cover;
 }
+
+.innner_image_sm_gallery img {
+	width: 100%;
+	height: 300px;
+}

@@ -35,7 +35,7 @@
                 <img src="../img/icon/home_stat6-01-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>Other Clinics</h3>
+                <h3>GENERAL SURGERY &amp; ENDOCRINOLOGY</h3>
             </div>
         </div>
     </div>
@@ -46,46 +46,18 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/a8-1024x683.jpg">
+                    <img src="../img/services/General Surgery.jpg">
                 </div>
-                <div class="col-md-4">
-                    <div class="col-md-12">
-                    <h3>Other Clinics </h3>
-                    <p>Cardiology:<br>
-                    1. Cardiology (Interventional and Internal)<br>
-                    2. Aviation Medicine Examination<br>
-                    3. Stress Tests and Echocardiogram<br>
-                    4. Holter and BP Monitoring (24hrs)</p>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                <p style="margin-top: 50px;">
-                    Chiropractic Care:<br>
-                    - Neck pain<br>
-                    - Back pain<br>
-                    - Numbness<br>
-                    - Joint pain<br>
-                    - Headache and more <br>         
-                </p>    
-              </div>
-                <div class="clearfix"></div>
-              <div class="col-md-8">
-                  <p style="margin-top: 20px;">
-                      Internal Medicine/Endocrinology &amp; Diabetes:<br>
-                        - Type 1 &amp; 2 Diabetes<br>
-                        - Thyroid disorder including: Hypothyroidism/hyperthyroidism Goitre and solitary nodules.<br>
-                        - Parathyroids and calcium disorders/Osteomalacia/ Vitamin D Deficiency<br>
-                        - Osteoporosis<br>
-                        - Pituitary gland disorder<br>
-                        - Adrenal gland disorder<br>
-                        - Obesity and dyslipidaemias<br>
-                        - Hirutism (excess hair growth in females), with or without irregular menstrual period<br>
-                        - Short stature/delayed puberty/Early puberty<br>
-                        -  Hypoglicaemia in non-diabetic patient<br>
-                        -  Endocrine Hypertension      <br>            
+                    <div class="col-md-8">
+                    <h3>GENERAL SURGERY &amp; ENDOCRINOLOGY </h3>
+                    <p>Endocrinology involves the diagnostic evaluation of a wide variety of symptoms and variations
+                    and the long-term management of disorders of deficiency or excess of one or more hormones.
+                    Here at Medicorp we offer the following services:<br>
+                    - General Surgery including: Endocrine surgery (thyroid, parathyroid), adrenal, pancreas,
+                    neuro-endocrine tumors<br>
+                    - Cancer surgery including: colorectal, pancreatic, liver, gastric, and all endocrine cancers
                     </p>
               </div>
-            </div>
     </div>
 </section>
 

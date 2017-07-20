@@ -35,7 +35,7 @@
                 <h2>Dr. Mohammed Helaly</h2>
             </div>
             <div class="col-md-6">
-                <h3>Specialist Radiologist</h3>
+                <h3>RADIOLOGY</h3>
             </div>
         </div>
     </div>

@@ -77,7 +77,7 @@
 }
 
 .tab_cont_text_img_dia .let_ip {
-	padding: 1% 40px 0px;
+	padding: 1% 15px 0px;
 }
 
 .tab_cont_text_img_dia h1 {
@@ -123,10 +123,13 @@
 .services_section_diagnostis_p img {
 	width: 50%;
 	margin: 0 auto;
+	height: 160px;
+	object-fit: cover;
 }
 
 .services_section_diagnostis_p h3 {
 	font-family: 'Montserrat-SemiBold';
+	text-transform: uppercase !important;
 }
 
 .read_more_home_serv2 {

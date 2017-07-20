@@ -35,7 +35,7 @@
                 <h2>Dr. Iyad Hassan</h2>
             </div>
             <div class="col-md-6">
-                <h3>Consultant - General and Endocrine Surgeon</h3>
+                <h3>GENERAL SURGERY & ENDOCRINOLOGY</h3>
             </div>
         </div>
     </div>

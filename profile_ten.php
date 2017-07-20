@@ -35,7 +35,7 @@
                 <h2>Dr Virginia Midrigan</h2>
             </div>
             <div class="col-md-6">
-                <h3>Specialist Obstetrics & Gynecology</h3>
+                <h3>OBSTETRICS & GYNECOLOGY</h3>
             </div>
         </div>
     </div>

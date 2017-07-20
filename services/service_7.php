@@ -46,24 +46,21 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/a8-1024x683.jpg">
+                    <img src="../img/services/Radiology.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
                     <h3>Radiology</h3>
                     <p>We have a full imaging and x-ray department with fully computerized, automated digital processing. Because MediCorp Gulf strives for excellence in diagnosis, it also offers tele radiology and tele reporting capabilities whereby a second, or even third, medical opinion from a range of renowned global radiology facilities can be done. In other words, we go the extra mile to seek out the very best services for our clients without impacting the cost of treatment.</p>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-md-3">
-                <p style="margin-top: 50px;">
+                <p>
                     Chiropractic Care:<br>
                     - MRI machine 1.5Tesla<br>
                     - CT scan<br>
                     - Complete digital X-Ray<br>
                     - Ultrasound<br>        
-                </p>    
-              </div>
+                </p>   
+                    </div>
+                </div>
             </div>
     </div>
 </section>

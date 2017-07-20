@@ -35,7 +35,7 @@
                 <img src="../img/icon/home_stat2-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>GYN / OBS</h3>
+                <h3>OBSTETRICS & GYNECOLOGY</h3>
             </div>
         </div>
     </div>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
-                    <h3>GYN / OBS</h3>
+                    <h3>OBSTETRICS & GYNECOLOGY</h3>
                     <p>Our Obstetrics and Gynecology Specialists provide women with compassionate care at every patient. In addition to helping manage their reproductive health, they offer a wide range of women’s health care services, including yearly checkups, prenatal care and gynecologic surgeries.</p>
                     
                     <p>-    Complete routing gynaecology, as well as obstetrics <br>

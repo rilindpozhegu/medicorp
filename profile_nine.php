@@ -35,7 +35,7 @@
                 <h2>Dr. Ayah Aqel</h2>
             </div>
             <div class="col-md-6">
-                <h3>Family Specialist MD,MBBs, JBFM</h3>
+                <h3>FAMILY MEDICINE</h3>
             </div>
         </div>
     </div>

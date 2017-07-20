@@ -46,7 +46,7 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/11-1024x683.jpg">
+                    <img src="../img/services/Chiropractor.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">

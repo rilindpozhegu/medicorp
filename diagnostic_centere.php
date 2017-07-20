@@ -65,7 +65,7 @@
                 <div class="tab-content tab_cont_text_img_dia" style="width: 100% !important;">
                     <div role="tabpanel" class="tab-pane active" id="home">
 
-                    <section class="owl-carousel">
+                    <section class="owl-carousel  owl-theme">
                         <div class="item">
                         <div class="col-md-3 no_padding">
                             <img src="img/random/diagnostic-01.png" class="img-responsive">
@@ -73,14 +73,13 @@
                         <div class="col-md-9 let_ip">
                             <h1>Innovation & Quality</h1>
                             <p>We have a full imaging and x-ray department with fully computerised, automated digital processing. Because MediCorp Gulf strives for excellence in diagnosis, it also offers teleradiology and telereporting capabilities whereby a second, or even third, medical opinion from a range of renowned global radiology facilities can be done. In other words, we go the extra mile to seek out the very best services for our clients without impacting the cost of treatment.</p>
-                        </div>
-                        <div class="clearfix"></div>
                             <p>Our x-ray and imaging facility features: <br>
                             •   MRI machine 1.5Tesla <br>
                             •   CT scan <br>
                             •   Complete digital X-Ray <br>
                             •   Ultrasound <br>
                             </p>
+                        </div>
 
                         </div>
                         <div class="item">
@@ -92,7 +91,7 @@
                             <p>We have state of the art 1.5T MRI which engineered on a foundation of technology, clinical applications and refined work flow capabilities helps to deriver excellent clinical performance. It helps Maximize productivity and improve patient care through its supreme image quality because of highly homogeneous Magnet, dedicated coils to get better signal intensity, more coverage and depth of penetration. We offer MRI Scanning with or without contrast from Head to Toe which includes</p>
                         </div>
                         <div class="clearfix"></div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-md-offset-3">
                             <p>•    Brain<br>
                             •   C- Spine, T- spine, LS- spine, Whole spine<br>
                             •   Neck<br>
@@ -128,7 +127,7 @@
                             </p>
                         </div>
                         <div class="clearfix"></div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-md-offset-3">
                             <p> •    Head<br>
                                 •   Neck<br>
                                 •   Chest<br>
@@ -158,7 +157,7 @@
                             </p>
                         </div>
                         <div class="clearfix"></div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 col-md-offset-3">
                             <p> •   Eye <br>
                             •   Jaw<br>
                             •   Facial bone , neck and skull<br>
@@ -258,7 +257,8 @@
                         - Complete urinalysis testing<br>
                         - PAP smear</p>
                     </div>
-                    <div class="col-md-6">                        
+                    <div class="col-md-6"> 
+                    <p>                       
                         - Comprehensive stool analysis<br>
                         - Testing semen for analysis<br>
                         - Respiratory testing<br>
@@ -267,6 +267,7 @@
                         - Early tumor detection tests<br>
                         - Complete premarital testing<br>
                         - STD testing<br>
+                        </p>
                     </div>
                     </div>
 
@@ -344,19 +345,19 @@
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p> -->
             <div class="col-md-4">
                 <img src="img/icon/nd_ic1-01.svg">
-                <h3>ENT</h3>
+                <h3> ENT/OTOLARYNGOLOGY</h3>
                 <p>Diagnosis &amp; management of E.N.T diseases and postoperative care E.N.T. emergencies, as well as routine examinations Treatment of various E.N.T...</p>
                 <a href="services/service_1.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic2-01.svg">
-                <h3>GYN/OBS</h3>
+                <h3>OBSTETRICS & GYNECOLOGY</h3>
                 <p>Complete routing gynaecology, as well as obstetrics, Complete woman health care check-ups, including professional, impartial, advicem,Excellent...</p>
                 <a href="services/service_2.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic3-01.svg">
-                <h3>Routine Dental Checkup</h3>
+                <h3>DENTISTRY</h3>
                 <p>Routine dental check-up, Consultations, Partial/full dentures,  Dental hygiene/de-scaling (ultrasonic), Implantology...</p>
                 <a href="services/service_3.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
@@ -369,16 +370,16 @@
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic5-01.svg">
-                <h3>OTHER CLINICS</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the...</p>
+                <h3>GENERAL SURGERY &amp; ENDOCRINOLOGY</h3>
+                <p>Endocrinology involves the diagnostic evaluation of a wide variety of symptoms and variations and the long-term management of disorders of...</p>
                 <a href="services/service_6.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
-            <div class="col-md-4">
+            <!-- <div class="col-md-4">
                 <img src="img/icon/nd_ic6-01.svg">
                 <h3>Pediatric </h3>
                 <p>Complete care for well and sick babies, Examinations and follow up, Vaccinations,Neonatal care, Neonatal follow-up and care at hospitals, Routine...</p>
                 <a href="services/service_4.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            </div>
+            </div> -->
 
 
             <div class="col-md-4">
@@ -387,6 +388,9 @@
                 <p>We have a full imaging and x-ray department with fully computerized, automated digital processing. Because MediCorp Gulf strives...</p>
                 <a href="services/service_7.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
+
+            <div class="clearfix"></div>
+
             <div class="col-md-4">
                 <img src="img/icon/nd_ic8-01.svg">
                 <h3>Cardiology </h3>

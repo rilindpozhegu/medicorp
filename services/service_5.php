@@ -46,13 +46,13 @@
     <div class="container">
             <div class="big_panel_detail services_panel_details_inner row">
                 <div class="col-md-4 no_padding">
-                    <img src="../img/gallery/a8-1024x683.jpg">
+                    <img src="../img/services/Family Medicine.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-12">
                     <h3>Family Medicine</h3>
                     <p>
-                    Care and regular follow up for patients with chronic diseases such as hypertension, diabetes and asthma.Family Medicine delivers a range of acute, chronic, and preventive medical care services while providing patients with a patient-centered medical home.In addition to diagnosing and treating illness, they also provide preventive care<br>
+                    Care and regular follow up for patients with chronic diseases such as hypertension, diabetes and asthma. Family Medicine delivers a range of acute, chronic, and preventive medical care services while providing patients with a patient-centered medical home. In addition to diagnosing and treating illness, they also provide preventive care<br>
                     Complete and Comprehensive annual check-ups for the family<br>
                     - Geriatric disease management<br>
                     - Chronic disease management: Diabetes, Hypertension, Asthma & Endocrine disorders<br>
