@@ -101,7 +101,7 @@
                             </a>
                             <div class="detail">
                                 <div>
-                                    <p>Please , Click Here To Get The Location Map</p>
+                                    <a href="contact.php" style="text-decoration: none;"><p>Please , Click Here To Get The Location Map</p></a>
                                 </div>
                             </div>
                         </li>

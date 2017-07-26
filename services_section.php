@@ -8,21 +8,21 @@
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                     <img src="img/icon/home_stat1-01.svg">
-                    <h3>ENT/OTOLARYNGOLOGY</h3>
-                    <p>Diagnosis &amp; management of E.N.T diseases and postoperative care E.N.T. emergencies, as well as routine examinations Treatment of various E.N.T...</p>
+                    <h3>ENT/ OTOLARYNGOLOGY</h3>
+                    <p>Diagnosis &amp; management of E.N.T diseases and postoperative care E.N.T. emergencies, as well as routine examinations...</p>
                     <a href="services/service_1.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">
                     <img src="img/icon/home_stat2-01.svg">
                     <h3>OBSTETRICS & GYNECOLOGY</h3>
-                    <p>Complete routing gynaecology, as well as obstetrics, Complete woman health care check-ups, including professional, impartial, advicem,Excellent...</p>
+                    <p>Complete routing gynaecology, as well as obstetrics, Complete woman health care check-ups, including professional...</p>
                     <a href="services/service_2.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                     <img src="img/icon/home_stat3-01.svg">
                     <h3>DENTISTRY</h3>
-                    <p>Routine dental check-up, Consultations, Partial/full dentures,  Dental hygiene/de-scaling (ultrasonic), Implantology...</p>
+                    <p>Routine dental check-up, Consultations, Partial/full dentures,  Dental hygiene/de-scaling (ultrasonic), Implantology... <br>&nbsp;</p>
                     <a href="services/service_3.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
@@ -44,7 +44,7 @@
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <img src="img/icon/home_stat6-01-01.svg">
                     <h3>GENERAL SURGERY &amp; ENDOCRINOLOGY</h3>
-                    <p>Endocrinology involves the diagnostic evaluation of a wide variety of symptoms and variations and the long-term management of disorders of...</p>
+                    <p>Endocrinology involves the diagnostic evaluation of a wide variety of symptoms and variations and the long-term management of...</p>
                     <a href="services/service_6.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 

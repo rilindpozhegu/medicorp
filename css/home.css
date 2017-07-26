@@ -176,7 +176,15 @@
 .services_section_homepa h3 {
 	text-transform: uppercase;
 }
-
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 30px !important;
+    line-height: 1;
+    opacity: .75;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
 .read_more_home_serv {
 	color: #00A4EF;
 	text-decoration: none;
@@ -263,6 +271,17 @@
 .staff_section_homep p {
 	font-size: 18px;
 }
+
+.staff_section_homep .slick-prev:before, .staff_section_homep .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: #00A4EF;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 .staff_section_homep .slick-dots li button:before {
 	font-size: 13px;
 }

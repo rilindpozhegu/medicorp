@@ -43,32 +43,6 @@
     margin: 10px 0px 0px;
 }
 
-/*.buttons_dia li a {
-	color: #5D6A84;
-    background-color: transparent;
-    border-radius: 0px;
-    height: 50px;
-    padding: 10px 0px;
-    font-size: 18px;
-	margin-top: -70px !important;
-    border: solid 1px rgba(93, 106, 132, 0.56);
-    margin: 0px 10px;
-}*/
-/*
-.buttons_dia li a:hover {
-	background: transparent;
-	color: #fff;
-    background-color: #00A4EF;
-}*/
-
-
-/*.nav-pills>li.active a {
-	margin-top: 10px !important;
-}*/
-
-
-
-
 
 .tab_cont_text_img_dia p{
 	font-size: 18px;
@@ -96,7 +70,48 @@
     background-color: rgba(93, 106, 132, 0.51); /* Modern Browsers */
 }
 
+.tab_buttons_projec {
+	margin: 3% 0px 4%;
+}
 
+.tab_section_one_projects .nav-pills>li+li {
+	margin: 0px;
+	padding: 0px 10px;
+}
+.tab_section_one_projects .nav-pills>li {
+	margin: 0px;
+	padding: 0px 10px;
+}
+.tab_section_one_projects .nav-pills>li {
+	width: 50%;
+}
+.tab_section_one_projects  .nav-pills>li>a {
+    border-radius: 4px;
+    height: 40px;
+    background-color: transparent;
+    color: #BCBEC0;
+    border: solid 1px #BCBEC0;
+    width: 100%;
+    transition: all ease 0.2s;
+    margin: 10px 0px 0px;
+    text-align: center;
+}
+.tab_section_one_projects .nav-pills>li.active>a, .tab_section_one_projects .nav-pills>li.active>a:focus, .tab_section_one_projects  .nav-pills>li.active>a:hover {
+	height: 40px;
+	background-color: #00A4EF;
+	color: white;
+	border: solid 1px transparent;
+    width: 100%;
+	transition: all ease 0.2s;
+	margin: 10px 0px 0px;
+}
+.tab_section_one_projects .dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
+	background-color: #00A4EF;
+}
+.tab_section_one_projects .nav-pills>li.active>a, .home_tab_cover>li.active>a:focus, .nav-pills>li.active>a:hover {
+	font-size: 14px !important;
+	text-align: center;
+}
 /*Services Section Diagnostic*/
 
 .services_section_diagnostis_p {
