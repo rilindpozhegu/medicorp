@@ -27,7 +27,7 @@
                and dedicated private treatment facilities in the GCC. We have built
                our reputation on a passion for first class healthcare and for creating
                an environment that puts patients completely at ease.</p>
-            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">This commitment to excellence has attracted some of the world’s finest specialist physicians to work in our family medicine, ENT, gynaenacology &amp; obstetrics, dentistry, general medicine, Paediatrics and dermatology. Interventional Cardiology, Plastic Surgery, Chiropractic, Internal Medicine / Endocrinology/Diabetes departments. </p>
+            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">This commitment to excellence has attracted some of the world’s finest specialist physicians to work in our family medicine, ENT, gynaenacology &amp; obstetrics, dentistry, general medicine, paediatrics, dermatology, interventional cardiology, plastic surgery, chiropractic, internal medicine and endocrinology/diabetes departments. </p>
          </div>
       </div>
    </section>
@@ -96,10 +96,16 @@
                               <input type="text" name="" placeholder="Phone" class="full_ph_inp"> </div>
                            <div class="col-md-6 small_padding-lr">
                               <select>
-                                 <option value="volvo">Select Clinic</option>
-                                 <option value="saab">Clinic one</option>
-                                 <option value="opel">Clinic two</option>
-                                 <option value="audi">Clinic three</option>
+                                 <option value="select">Select Clinic</option>
+                                 <option value="serv1">ENT/OTOLARYNGOLOGY</option>
+                                 <option value="serv2">OBSTETRICS & GYNECOLOGY</option>
+                                 <option value="serv3">DENTISTRY</option>
+                                 <option value="serv4">FAMILY MEDICINE</option>
+                                 <option value="serv5">GENERAL SURGERY & ENDOCRINOLOGY</option>
+                                 <option value="serv6">RADIOLOGY</option>
+                                 <option value="serv7">CARDIOLOGY</option>
+                                 <option value="serv8">INTERNAL MEDICINE</option>
+                                 <option value="serv9">CHIROPRACTIC</option>
                               </select>
                            </div>
                            <div class="col-md-12 small_padding-lr">
@@ -118,22 +124,29 @@
                           <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
                           <div class="col-md-8">
                              <h1>Jenny Morris</h1>
-                             <p>Dear Dr.Heba, <br>
-                             You have restored my trust and faith in dentists again! Thank you.So thorough your attention to detail and careful, sensitive approach has been a pleasure to endure and have been one hundred per cent happy with my treatment and results and you have found a permanent client in me! Many thanks,</p>
+                             <p>Dear Dr. Heba, <br>
+                             "You have restored my trust and faith in dentists again! Thank you.<br>
+                             So thorough your attention to detail and careful, sensitive approach has been a pleasure to endure and have been one hundred per cent happy with my treatment and results and you have found a permanent client in me!"<br>
+                             Many thanks,</p>
                           </div>
                        </div>
                        <div class="item">
                           <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
                           <div class="col-md-8">
                              <h1>MD</h1>
-                             <p>My first ever adult dental extraction experience with Dr. Heba, she explained everything to me prior the procedure. During the entire procedure, I was relaxed and comfortable. Truly I am a witness to how Dr.Heba’s caring hands are designed perfectly for the craft she has chosen, a dental surgeon. Along with an Angel’s touch and gentle attitude towards me; thank you for a pain free and zero complication extractions!</p>
+                             <p>"My first ever adult dental extraction experience with Dr. Heba, she explained everything to me
+                              prior the procedure. During the entire procedure, I was relaxed and comfortable. Truly I am a
+                              witness to how Dr.Heba’s caring hands are designed perfectly for the craft she has chosen, a
+                              dental surgeon.<br>
+                              Along with an Angel’s touch and gentle attitude towards me; thank you for a pain free and zero
+                              complication extractions!"</p>
                           </div>
                        </div>
                        <div class="item">
                           <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
                           <div class="col-md-8">
                              <h1>Farah</h1>
-                             <p>Dr. HebaJaved took good care of me during my emergency and helped a lot. I would recommend her to my family and friends, such a good dentist is difficult to find in Dubai.<br>
+                             <p>Dr. Heba Javed<br>"Took good care of me during my emergency and helped a lot. I would recommend her to my family and friends, such a good dentist is difficult to find in Dubai."<br>
                              Thank you and all the best, </p>
                           </div>
                        </div>
@@ -141,23 +154,23 @@
                           <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
                           <div class="col-md-8">
                              <h1>Linda Stanly</h1>
-                             <p>Dear Dr.Heba, <br>
-                             Thank you for always fitting me in on a short notice when I pass through Dubai! All treatments went smoothly and without pain especially the extractions. The end results have worked out nicely. Will see you again when next I pass through Dubai,</p>
+                             <p>Dear Dr. Heba, <br>
+                             "Thank you for always fitting me in on a short notice when I pass through Dubai! All treatments went smoothly and without pain especially the extractions. The end results have worked out nicely. Will see you again when next I pass through Dubai"</p>
                           </div>
                        </div>
                        <div class="item">
                           <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
                           <div class="col-md-8">
                              <h1>Emir Mom </h1>
-                             <p>Dear Dr.Heba, <br>
-                             You are a star! thank you ever so much I have never met any dentist who made my son convinced to sit and actually worked on his teeth. You are a Queen, Thank you,</p>
+                             <p>Dear Dr. Heba, <br>
+                             "You are a star! thank you ever so much I have never met any dentist who made my son convinced to sit and actually worked on his teeth. You are a Queen, Thank you"</p>
                           </div>
                        </div>
                        <div class="item">
                           <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
                           <div class="col-md-8">
                              <h1>David Lawrence</h1>
-                             <p>I have deeply appreciated the high level of care and detail with which you have transformed my teeth! They were a bit of a mess and you never once made me feel bad – I could not praise highly enough both what you have done and the way which you have done it.</p>
+                             <p>"I have deeply appreciated the high level of care and detail with which you have transformed my teeth! They were a bit of a mess and you never once made me feel bad – I could not praise highly enough both what you have done and the way which you have done it."</p>
                           </div>
                        </div>
 
@@ -218,7 +231,7 @@
                   own health, while being sensitive to cultural diversity and the
                   unique needs of every individual.</p>
                <a href="cosmetic.php">
-                  <button>Cosmetic</button>
+                  <button>View More <i class="fa fa-angle-right" aria-hidden="true"></i></button>
                </a>
             </div>
          </div>
@@ -907,7 +920,7 @@
                         </a>
                         <div class="detail">
                            <div>
-                              <p>Please , Click Here To Get The Location Map</p>
+                              <p><a href="contact.php" style="text-decoration: none;">Please , Click Here To Get The Location Map</a></p>
                            </div>
                         </div>
                      </li>

@@ -32,7 +32,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Dr Virginia Midrigan</h2>
+                <h2>Dr. Virginia Midrigan</h2>
             </div>
             <div class="col-md-6">
                 <h3>OBSTETRICS & GYNECOLOGY</h3>
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-6">
-                        <h2>Dr Virginia Midrigan</h2>
+                        <h2>Dr. Virginia Midrigan</h2>
                     </div>
                     <div class="col-md-6">
                         <h4>Languages: English, Russian, Italian and Romanian.</h4>
@@ -59,8 +59,16 @@
                     <div class="clearfix"></div>
                     <div class="col-md-12">
                     <h3>Specialist Obstetrics & Gynecology</h3>
-                    <p>Member of the Association of Physicians and Surgeons of Rome Member of the Association of Gynecologists-Endocrinologists of Russia. Member of the Association of Obstetrics and Gynecologists of the Republic of Moldova. Dr. Virginia worked for a long time and gained a vast experience in Rome – Italy, Moldova as well as in UAE. Dr. Virginia is among the few Russian speaking gynecologists in Dubai and UAE who have vast experience in using the RF cautery techniques as well as in vaginal rejuvenation procedures, STD screening and tests.  She has done postgraduate studies as a Specialist in Obstetrics and Gynecology as well as a Clinical Master in Obstetrics and Gynecology. She holds a license Doctor in Medicine and Surgery from Italy. Dr. Virginia has a long experience in gynecological check-ups for women of all ages, breast examination, Cervical Cancer screening, colposcopy and treatment of cervical erosion among the long list of procedures and experience. Gynecological endocrinology and infertility. Trained in the International Academy of Clinical Nutrition (Italy). Dr. Virginia is preparing for PhD at the department of Obstetrics and Gynecology abroad.
-                    </p>
+                    <p>Member of the Association of Physicians and Surgeons of Rome</p>
+                    <p>Member of the Association of Gynecologists-Endocrinologists of Russia</p>
+                    <p>Member of the Association of Obstetrics and Gynecologists of the Republic of Moldova</p>
+                    <p>Dr. Virginia worked for a long time and gained a vast experience in Rome – Italy, Moldova as well as in UAE.</p>
+                    <p>Dr. Virginia is among the few Russian speaking gynecologists in Dubai and UAE who have vast experience in using the RF cautery techniques as well as in Vaginal rejuvenation procedures.</p>
+                    <p>STD screening and tests</p>
+                    <p>She has done postgraduate studies as a Specialist in Obstetrics and Gynecology as well as A Clinical Master in Obstetrics and Gynecology. She holds a license Doctor in Medicine and Surgery from Italy.</p>
+                    <p>Dr. Virginia has a long experience in gynecological check-ups for women of all ages, breast examination, Cervical Cancer screening, office colposcopy, treatment of cervical erosion among a long list of procedures and experience.</p>
+                    <p>Gynecological endocrinology and infertility. Trained in the International Academy of Clinical Nutrition (Italy).</p>
+                    <p>Dr. Virginia is preparing for PhD at the department of Obstetrics and Gynecology abroad.</p>
                     </div>
                 </div>
             </div>

@@ -61,10 +61,10 @@
                     <h3>CONSULTANT CARDIOLOGY</h3>
                     <p>Dr. A. Binbrek, an invasive Cardiologist qualified at Glasgow University (1971) and received MRCP (1975), FRCP (London & Edinburgh in 1987). He is involved in Cardiology research many of his articles have been published in distinguished medical journals.</p>
                     <p>Associations:<br>
-                    1.  Consultant Cardiologist at Rashid Hospital<br>
-                    2.  Founding Member of Emirates Medical Association<br>
-                    3.  Chairperson of The Medical Research Committee<br>
-                    4.  GCAA Approved Specialist Aeromedical Examiner<br>
+                    - Consultant Cardiologist at Rashid Hospital<br>
+                    - Founding Member of Emirates Medical Association<br>
+                    - Chairperson of The Medical Research Committee<br>
+                    - GCAA Approved Specialist Aeromedical Examiner<br>
                     </p><!-- 
                     <p>
                     CServices:<br>

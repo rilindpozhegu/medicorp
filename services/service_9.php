@@ -51,8 +51,8 @@
                 <div class="col-md-8">
                     <div class="col-md-12">
                     <h3>Internal Medicine/Endocrine & Diabetes Clinic Services</h3>
-                    <p>Internal Medicine is the medical specialty dealing with the prevention, diagnosis, and treatment of adult diseases. Physicians specializing in internal medicine are called internists.</p>
-                    <p>Endocrinology & Diabetes provides patient care related to diseases and disorders of the endocrine system (the hormone-producing glands including the thyroid, pancreas, ovaries and testes, adrenal glands and pituitary gland). Its physicians are dedicated to advancing clinical investigation in order to provide the most up-to-date care for endocrine and metabolic disorders.</p>
+                    <p><b>Internal Medicine</b> is the medical specialty dealing with the prevention, diagnosis, and treatment of adult diseases. Physicians specializing in internal medicine are called internists.</p>
+                    <p><b>Endocrinology & Diabetes</b> provides patient care related to diseases and disorders of the endocrine system (the hormone-producing glands including the thyroid, pancreas, ovaries and testes, adrenal glands and pituitary gland). Its physicians are dedicated to advancing clinical investigation in order to provide the most up-to-date care for endocrine and metabolic disorders.</p>
                 <p>
                 - Type 1 & 2 Diabetes<br>
                 - Thyroid disorder including: Hypothyroidism/hyperthyroidism Goitre and solitary nodules.<br>

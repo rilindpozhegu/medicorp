@@ -55,10 +55,10 @@
 dental technology and state of the art clinic, equipment and lasers.</p>
                     <p>- Consultations and routine dental check-up<br>
                     - Cosmetic Dentistry – Hollywood Smile including:<br>
-                        &nbsp;  &nbsp;- Veneers (CAD-CAM),<br>
-                        &nbsp;  &nbsp;- Lumineers (CAD-CAM) without preparation,<br>
-                        &nbsp;  &nbsp;- Zircon Crowns (Emax)<br>
-                        &nbsp;  &nbsp;- Dental Whitening/Home Whitening<br>
+                        &nbsp;  &nbsp;&nbsp;&nbsp;• Veneers (CAD-CAM),<br>
+                        &nbsp;  &nbsp;&nbsp;&nbsp;• Lumineers (CAD-CAM) without preparation,<br>
+                        &nbsp;  &nbsp;&nbsp;&nbsp;• Zircon Crowns (Emax)<br>
+                        &nbsp;  &nbsp;&nbsp;&nbsp;• Dental Whitening/Home Whitening<br>
                     - Inlay/Onlay (CAD-CAM).<br>
                     - Laser Surgery<br>
                     - Surgical/Normal Extraction (impacted teeth-wisdom)<br>

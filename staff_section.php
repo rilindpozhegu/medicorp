@@ -29,14 +29,14 @@
             <div class="staff_panel_sm">
                 <img src="img/staff/4.B DR. HEBA PHOTO.jpg">
                 <div class="staff_small_p_text ">
-                    <h4>Dr.Heba Javed </h4>
+                    <h4>Dr. Heba Javed </h4>
                     <p>DENTISTRY<br>&nbsp;</p><a href="profile_four.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/5.B DR. BASHAR.JPG">
                 <div class="staff_small_p_text ">
-                    <h4>Dr. Bashar O.El-Sharabi</h4>
+                    <h4>Dr. Bashar O. El-Sharabi</h4>
                     <p>Internal Medicine/ Endocrinology & Diabetes</p><a href="profile_five.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -57,21 +57,21 @@
             <div class="staff_panel_sm">
                 <img src="img/staff/8.B DR. HANI PHOTO.jpg">
                 <div class="staff_small_p_text ">
-                    <h4>Dr.Hany Elbibany</h4>
+                    <h4>Dr. Hany Elbibany</h4>
                     <p>CHIROPRACTIC<br>&nbsp;</p><a href="profile_eight.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/Dr Ayah Aqel.png">
                 <div class="staff_small_p_text ">
-                    <h4>Dr Ayah Aqel</h4>
+                    <h4>Dr. Ayah Aqel</h4>
                     <p>FAMILY MEDICINE<br>&nbsp;</p><a href="profile_nine.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
                 <img src="img/staff/Dr Virginia.jpg">
                 <div class="staff_small_p_text ">
-                    <h4>Dr Virginia Midrigan</h4>
+                    <h4>Dr. Virginia Midrigan</h4>
                     <p>OBSTETRICS & GYNECOLOGY<br>&nbsp;</p><a href="profile_ten.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>

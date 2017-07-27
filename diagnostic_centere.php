@@ -37,7 +37,7 @@
     <div class="container">
         <div class="row">
             <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Diagnostic Centre</h1>
-            <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+            <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">As Dubai’s newest private diagnostic facility, we are proud to introduce highly specialised individual care in a range of diagnostic field. </p>
             <a href="contact.php"><button class="button_default default_hover wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Contact</button></a>
         </div>
     </div>
@@ -49,10 +49,10 @@
             <div class="row">
             <div class=" col-md-6 col-md-offset-3">
             <ul class="nav nav-pills nav-fill tab_buttons_projec">
-                <li class="dropdown active "> <a data-toggle="dropdown" id="dropDownTabsLink">Imaging And X-Ray <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                <li class="dropdown active "> <a data-toggle="dropdown" id="dropDownTabsLink">Imaging And X-Ray &nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></a>
 
                     <ul class="dropdown-menu">
-                        <li class="active"><a href="#tab1">Innovation & Quality</a>
+                        <li class="#"><a href="#tab1">Overview</a>
                         </li>
                         <li><a href="#tab2">MRI</a>
                         </li>
@@ -66,10 +66,11 @@
                         </li>
                     </ul>
                 </li>
-                <li class="dropdown"> <a data-toggle="dropdown" id="dropDownTabsLink">Laboratory <i class="fa fa-angle-down" aria-hidden="true"></i></i></a>
+                <li class="dropdown"> <a data-toggle="dropdown" id="dropDownTabsLink">Laboratory &nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i></i></a>
 
                     <ul class="dropdown-menu">
-                        <li class="active"><a href="#tab7">Laboratory</a>
+                        <li><a href="#tab11">Overview</a></li>
+                        <li><a href="#tab7">Laboratory</a>
                         </li>
                         <li><a href="#tab8">Innovation &amp; Quality</a>
                         </li>
@@ -84,14 +85,20 @@
             <div class="clearfix"></div>
 
             <div class="tab-content tab_cont_text_img_dia">
-                                            
-                <div class="tab-pane fade in active" id="tab1" style="padding-left:15px">
+                <div class="tab-pane fade in active" id="tab0" style="padding-left:15px;">
+                    <h1 style=" text-align: center;">Diagnostic Centre</h1>
+                    <p>As Dubai’s newest private diagnostic facility, we are proud to introduce highly specialised individual care in a range of diagnostic field.</p>
+                    <p>It is well-known that Jumeirah and Al Wasl road are strewn with healthcare providers and clinics, but there few really comprehensive canters (like ours) that provide services such as imaging, laboratory with the latest technique and procedure.</p>
+                    <p>As you will see upon arrival, the facility boasts state-of-the-art technology that includes a laboratory offering a wide range of precise diagnostic testing, plus a full imaging department with MRI, CT scan, ultrasound and digital x-ray.</p>
+                    <p>The concept behind our center is to provide our clients with first class – but competitively priced – services. Our driving aim at MediCorp Gulf is to improve the quality of life of the people who come through our doors. We are passionate about focusing on early diagnosis and detection of the diseases and conditions, to prevent their exaggeration and provide a specified diagnosis and quick access to medical reports via the internet and HIS/ERP software which enables both the referring physician as well as the patient to see the results within 24-hours maximum. This is where MMC is already flourishing.</p>
+                    </div>
+                <div class="tab-pane fade in" id="tab1" style="padding-left:15px">
                     
                     <div class="col-md-3 no_padding">
                             <img src="img/random/diagnostic-01.png" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
-                            <h1>Innovation & Quality</h1>
+                            <h1>Imaging And X-Ray</h1>
                             <p>We have a full imaging and x-ray department with fully computerised, automated digital processing. Because MediCorp Gulf strives for excellence in diagnosis, it also offers teleradiology and telereporting capabilities whereby a second, or even third, medical opinion from a range of renowned global radiology facilities can be done. In other words, we go the extra mile to seek out the very best services for our clients without impacting the cost of treatment.</p>
                             <p>Our x-ray and imaging facility features: <br>
                             •   MRI machine 1.5Tesla <br>
@@ -226,6 +233,10 @@
                                 •   Chest include mediastinum<br>
                                 •   Breast (unilateral or bilateral)<br>
                                 •   Abdomen<br>
+                                </p>
+                            </div>
+                            <div class="col-md-4">
+                                <p>
                                 •   Transplanted kidney<br>
                                 •   Pregnant uterus<br>
                                 •   Transvaginal<br>
@@ -236,6 +247,19 @@
                         </div>
                 </div>
 
+
+                <div class="tab-pane fade in" id="tab11" style="padding-left:15px">
+                    <div class="col-md-3 no_padding">
+                        <img src="img/random/diagnostic1-01.png" class="img-responsive">
+                    </div>
+                    <div class="col-md-9 let_ip">
+                        <p>Medicorp Gulf Medical Clinic is an emerging diagnostic laboratory providing a full range of laboratory services in the UAE. The facility was established in 2013 in association with various partners in Dubai. The laboratory provides quality, accuracy, reliability and innovation with the purpose of improving patient care in the country. Our laboratory operates with the latest state-of-the-art consolidated solutions and innovations available in the Middle East.</p>
+                        <p>
+                        <b>Our Vision</b><br>
+                        Become a leading provider of diagnostics laboratory services for healthcare providers in the UAE.
+                        The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified laboratory technicians provide top-level services to physicians and patients on site.</p>
+                    </div>
+                </div>
                 <div class="tab-pane fade in" id="tab7" style="padding-left:15px"> 
                     <div class="col-md-3 no_padding">
                         <img src="img/random/diagnostic1-01.png" class="img-responsive">
@@ -315,7 +339,9 @@
         </div>
     </div>
 </section>
-
+<div class="container">
+    <hr class="diagnostic_href">
+</div>
 <!-- Staff Section -->
     <?php include 'staff_section.php';?>
 
@@ -385,7 +411,7 @@
             <div class="col-md-4">
                 <img src="img/icon/nd_ic9-01.svg">
                 <h3>Internal Medicine </h3>
-                <p>nternal Medicine is the medicalspecialty dealing with the prevention, diagnosis, and treatment of adult diseases Physicians...</p>
+                <p>Internal Medicine is the medicalspecialty dealing with the prevention, diagnosis, and treatment of adult diseases Physicians...</p>
                 <a href="services/service_9.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">

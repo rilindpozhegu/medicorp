@@ -15,6 +15,7 @@
 	font-family: 'Montserrat-SemiBold';
 	font-size: 28px;
 	text-align: right;
+	text-transform: uppercase;
 }
 
 .detalis_section_doctor {
@@ -47,6 +48,8 @@
 
 .big_panel_detail h3 {
 	text-transform: uppercase;
+	font-family: 'Montserrat-SemiBold';
+	color: #00A4EF;
 }
 
 .big_panel_detail p {

@@ -51,7 +51,7 @@
 }
 
 .tab_cont_text_img_dia .let_ip {
-	padding: 1% 15px 0px;
+	padding: 0% 15px 0px;
 }
 
 .tab_cont_text_img_dia h1 {
@@ -71,7 +71,7 @@
 }
 
 .tab_buttons_projec {
-	margin: 3% 0px 4%;
+	margin: 8% 0px 10%;
 }
 
 .tab_section_one_projects .nav-pills>li+li {
@@ -96,10 +96,15 @@
     margin: 10px 0px 0px;
     text-align: center;
 }
+.tab_section_one_projects  .nav-pills>li>a:hover {
+	cursor: pointer;
+}
 .tab_section_one_projects .nav-pills>li.active>a, .tab_section_one_projects .nav-pills>li.active>a:focus, .tab_section_one_projects  .nav-pills>li.active>a:hover {
 	height: 40px;
 	background-color: #00A4EF;
+    border-radius: 4px;
 	color: white;
+	font-size: 14px;
 	border: solid 1px transparent;
     width: 100%;
 	transition: all ease 0.2s;
@@ -107,10 +112,18 @@
 }
 .tab_section_one_projects .dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
 	background-color: #00A4EF;
+	cursor: pointer;
 }
 .tab_section_one_projects .nav-pills>li.active>a, .home_tab_cover>li.active>a:focus, .nav-pills>li.active>a:hover {
-	font-size: 14px !important;
+	font-size: 14px;
 	text-align: center;
+	cursor: pointer;
+}
+
+.tab_section_one_projects i {
+	position: absolute;
+    right: 13px;
+    top: 14px;
 }
 /*Services Section Diagnostic*/
 

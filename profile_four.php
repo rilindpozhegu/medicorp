@@ -32,7 +32,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Dr.Heba Javed </h2>
+                <h2>Dr. Heba Javed </h2>
             </div>
             <div class="col-md-6">
                 <h3>DENTISTRY</h3>
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-6">
-                        <h2>Dr.Heba Javed  </h2>
+                        <h2>Dr. Heba Javed  </h2>
                     </div>
                     <div class="col-md-6">
                         <h4>Languages: English and Hindi</h4>
@@ -59,20 +59,23 @@
                     <div class="clearfix"></div>
                     <div class="col-md-12">
                     <h3>Dentist</h3>
-                    <p>Dr. HebaJaved is a qualified dentist attaining her bachelor’s degree from Rajiv Gandhi University of Health Sciences and a Master’s degree from University of Manchester, UK. <br>
-                    Following her MSc, Dr Javed trained and worked at Trafford General Hospital (where NHS was founded), Manchester Royal Infirmary and Turner Dental Hospital, UK.<br>
-                    Throughout her career of 12+ years, Dr. Javed has been successful in spreading awareness via seminars amongst different communities about oral health and its diseases, especially oral cancer; its importance in early detection. Her exceptional methods in treating children are well known.<br>
-                    Over the past few years has developed an interest in cosmetic dentistry and treating gum disease and has been successful in achieving the goal of providing her patients with a natural smile.<br> 
-                    To provide patients with the best care possible, Dr.Javed firmly believes in continuous education to keep herself well versed with the new techniques and products in the vast field of dentistry. <br>
-                    Dr. HebaJaved has a simple goal; make every patient of hers as comfortable as possible while eliminating dental phobia so that regular visits to the dental office can prevent future dental problems, and you can enjoy a beautiful natural smile as long as possible! 
+                    <p>Dr. Heba Javed is a qualified dentist attaining her bachelor’s degree from Rajiv Gandhi University of Health Sciences and a Master’s degree from University of Manchester, UK.</p>
+                    <p>
+                    Following her MSc, Dr Javed trained and worked at Trafford General Hospital (where NHS was founded), Manchester Royal Infirmary and Turner Dental Hospital, UK.</p>
+                    <p>
+                    Throughout her career of 12+ years, Dr. Javed has been successful in spreading awareness via seminars amongst different communities about oral health and its diseases, especially oral cancer; its importance in early detection. Her exceptional methods in treating children are well known.</p>
 
-                    </p>
+                    <p>Over the past few years has developed an interest in cosmetic dentistry and treating gum disease and has been successful in achieving the goal of providing her patients with a natural smile.</p>
+
+                    <p>To provide patients with the best care possible, Dr.Javed firmly believes in continuous education to keep herself well versed with the new techniques and products in the vast field of dentistry. </p>
+
+                    <p>Dr. Heba Javed has a simple goal; make every patient of hers as comfortable as possible while eliminating dental phobia so that regular visits to the dental office can prevent future dental problems, and you can enjoy a beautiful natural smile as long as possible!</p>
 
 
-                    <p>•    Trafford General Hospital, UK <br>
-                        •   Manchester Royal Infirmary, UK<br>
-                        •   Turner Dental Hospital, UK<br>
-                        •   Al Baraha Hospital, UAE<br>
+                    <p> - Trafford General Hospital, UK <br>
+                        - Manchester Royal Infirmary, UK<br>
+                        - Turner Dental Hospital, UK<br>
+                        - Al Baraha Hospital, UAE<br>
                     </p>
 
                     </div>

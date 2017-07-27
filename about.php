@@ -82,7 +82,7 @@
                 <div class="col-md-6 third_section_text_img">
                     <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Our Vision</h1>
                     <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">MediCorp Gulf is committed to providing first class, up-to- the-minute medical care that adheres to globally recognized standards. We strive to involve patients in making informed decisions about their own health, while being sensitive to cultural diversity and the unique needs of every individual. Our core value is to treat people with dignity, compassion, and fairness, while maintaining a respect for complete confidentiality. We aim to offer a visually pleasing and relaxing facility that minimizes any apprehension or stress felt by clients. We will continue to improve our quality of care through self-learning and participation in staff education programs – not only in medicine, but in soft skills too. Our truest vision is developing a working environment where a spirit of teamwork thrives, supported by a positive and friendly attitude towards both colleagues and clients. </p>
-                    <a href="contact.php"><button class="button_default default_hover  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Contact</button></a>
+                    <a href="contact.php"><button class="button_default_gray default_hover  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Contact</button></a>
                 </div>
                 <div class="col-md-6  no_padding mobile-d-n">
                     <img src="img/random/image2_ho-01.png">

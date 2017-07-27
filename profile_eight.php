@@ -32,10 +32,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Dr.HanyElbibany</h2>
+                <h2>Dr. Hany Elbibany</h2>
             </div>
             <div class="col-md-6">
-                <h3>MD/Chiropractor</h3>
+                <h3>CHIROPRACTIC</h3>
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-6">
-                        <h2>Dr.HanyElbibany</h2>
+                        <h2>Dr. Hany Elbibany</h2>
                     </div>
                     <div class="col-md-6">
                         <h4>Language: Arabic and English</h4>
@@ -71,13 +71,13 @@
                     Headache and more<br>
                     </p> -->
                     <p>Affiliations and certificates:<br>
-                    1.  Chiropractic Licensee in State of Michigan. Pennsylvania and Georgia, Illinois and Wisconsin<br>
-                    2.  Supporter World Federation of Chiropractic (1994-1996)<br>
-                    3.  Licensed Medical Doctor – Egypt (1985)<br>
-                    4.  Registered at Medical Syndicate – Egypt (1985)<br>
-                    5.  Chairman of “Cairo Modern Health Polyclinic” – Cairo, Egypt (1997)<br>
-                    6.  President of ElbibanyConstrade Incorporated – Georgia USA (1997)<br>
-                    7.  Joined Health Care Providers listed at USA (Medicare, PHCS, Beach Tree)<br> 
+                    - Chiropractic Licensee in State of Michigan. Pennsylvania and Georgia, Illinois and Wisconsin<br>
+                    - Supporter World Federation of Chiropractic (1994-1996)<br>
+                    - Licensed Medical Doctor – Egypt (1985)<br>
+                    - Registered at Medical Syndicate – Egypt (1985)<br>
+                    - Chairman of “Cairo Modern Health Polyclinic” – Cairo, Egypt (1997)<br>
+                    - President of ElbibanyConstrade Incorporated – Georgia USA (1997)<br>
+                    - Joined Health Care Providers listed at USA (Medicare, PHCS, Beach Tree)<br> 
                     </p>
                     </div>
                 </div>

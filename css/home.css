@@ -1,7 +1,7 @@
 /*	HOMEPAGE  */
 
 .cover_all_pages {
-	padding-top: 19%;
+	padding-top: 16%;
 	padding-bottom: 10%;
 	text-align: center;
 }
@@ -84,7 +84,7 @@
 	height: 36px;
 	color: #848080;
 	border: transparent;
-	padding: 5px 35px;
+	padding: 5px 5px;
 }
 .home_tab_two textarea {
 	width: 100%;
@@ -121,8 +121,11 @@
 .testimonial_home_text_img p {
 	font-size: 18px;
 	padding: 20px 30px;
+	font-style: italic;
 }
-
+.testimonial_home_text_img .owl-carousel.owl-drag .owl-item {
+	cursor: move;
+}
 /*Panels Section Home*/
 
 .more_infos_homepagetwo {
@@ -403,6 +406,13 @@
     margin: 10px 0 10px 0px;
     display: none;
     line-height: 22px;
+}
+
+.detail a{
+	color: black;
+}
+.detail a:hover {
+	color: white;
 }
 
 .right-arrow {

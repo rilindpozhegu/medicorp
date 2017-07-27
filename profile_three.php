@@ -59,8 +59,12 @@
                     <div class="clearfix"></div>
                     <div class="col-md-12">
                     <h3>Consultant - General and Endocrine Surgeon</h3>
-                    <p>Prof. Dr. Iyad Hassan completed his MBBS at Philipps University of Marburg, Germany in 1998.German Board of Surgery Qualified (2005), German Board of Visceral Surgery (2007).The American College of Surgeons (FACS) 2012. Fellow of the Royal College of Surgeons - Glasgow (FRCS) 2013. </p>
                     <p>Prof. Dr. Iyad worked as Consultant for Endocrine and Surgical Oncology in the University Hospital of Marburg for 10 years. In 2009, Dr. Iyad moved to the UAE and held post as Head of General, Vascular, and Thoracic Surgery in a large government hospital in Abu Dhabi for the last 5 years.</p>
+                    <p>Prof. Dr. Iyad Hassan completed his MBBS at Philipps University of Marburg, Germany in 1998. 
+                    <br>German Board of Surgery Qualified (2005),
+                    <br> German Board of Visceral Surgery (2007).
+                    <br>The American College of Surgeons (FACS) 2012. 
+                    <br>Fellow of the Royal College of Surgeons - Glasgow (FRCS) 2013. </p>
 
                   <!--   <p>Services:<br>
                     1.  General Surgery including:<br>

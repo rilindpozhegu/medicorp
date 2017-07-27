@@ -68,29 +68,30 @@
     <div class="container">
         <div class="row box_second wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">
             <div class="col-md-6 no_padding">
-                <img src="img/cosmetic2.png" class="img-responsive">
+                <img src="img/cosmetic3.png" class="img-responsive">
             </div>
             <div class="col-md-6 text_panel_cosmetics">
                 <h4>Skin tightening and rejuvenation</h4>
-                <p>Our laser and RF treatment are the top notch, cutting edge technology rendering your skin young and reverses the clock of time. Dramatically reduces the appearance of stretch marks, acne scars, poor skin tone, fine lines, wrinkles, and tighten loose or sagging skin.</p>
-                <p>PRP treatment for face, neck and hair takes off years from your appearance with one session, your skin looks and feels smooth, radiant and younger. PRP is known to help improve and strengthen quality of hair too.</p>
-                <p>PRP Dermapen procedures for face and neck.</p>
-                <p>Mesotherapy</p>
+                <p>Our <b>laser and RF treatment</b> are the top notch, cutting edge technology rendering your skin young and reverses the clock of time. Dramatically reduces the appearance of stretch marks, acne scars, poor skin tone, fine lines, wrinkles, and tighten loose or sagging skin.</p>
+                <p><b>PRP treatment</b> for face, neck and hair takes off years from your appearance with one session, your skin looks and feels smooth, radiant and younger. PRP is known to help improve and strengthen quality of hair too.</p>
+                <p><b>PRP Dermapen</b> procedures for face and neck.</p>
+                <p><b>Mesotherapy</b></p>
             </div>
         </div>
+
         <div class="row box_second wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".4s">
             <div class="col-md-6 no_padding desktop-d-n">
-                <img src="img/cosmetic3.png" class="img-responsive">
+                <img src="img/cosmetic2.png" class="img-responsive">
             </div>
             <div class="col-md-6 text_panel_cosmetics">
                 <h4>Cosmetic Fillers and Botox</h4>
-                <h5>Microdermabrasion</h5>
+                <h5><b>Microdermabrasion</b></h5>
                 <p>A procedure to exfoliate the outer skin layer, rendering your skin radiant and glowing with minimal breakouts.</p>
-                <h5>Chemical Peels and treatments</h5>
+                <h5><b>Chemical Peels</b> and treatments</h5>
                 <p>Using only the highest and best quality products, all medically approved, you can chose from a wide range and options that best suit your needs, many options include sun damage management, uneven skin tone improvement and breakouts.</p>
             </div>
             <div class="col-md-6 no_padding mobile-d-n">
-                <img src="img/cosmetic3.png" class="img-responsive">
+                <img src="img/cosmetic2.png" class="img-responsive">
             </div>
         </div>
         <div class="row box_second wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".5s">

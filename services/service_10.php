@@ -52,15 +52,16 @@
                     <div class="col-md-12">
                     <h3>CHIROPRACTIC</h3>
                     <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on methods or the use of hand-held instruments. </p>
-                    <p><b>-   Neck pain<b><br>
-                    &nbsp;&nbsp;-   Low and mid-back pain<br>
-                    <b>-   Joint pain</b><br>
-                    &nbsp;&nbsp;-   Migraines and headaches<br>
-                    &nbsp;&nbsp;-   Arm pain<br>
-                    &nbsp;&nbsp;-   Scoliosis<br>
-                    &nbsp;&nbsp;-   Chest pains<br>
-                    &nbsp;&nbsp;-   Sciatica<br>
-                    &nbsp;&nbsp;-   Leg pain and more
+                    <p>
+                    <b>- Neck pain<b><br>
+                    -   Low and mid-back pain<br>
+                    <b>- Joint pain</b><br>
+                    -   Migraines and headaches<br>
+                    -   Arm pain<br>
+                    -   Scoliosis<br>
+                    -   Chest pains<br>
+                    -   Sciatica<br>
+                    -   Leg pain and more
 </p>
                     </div>
                 </div>

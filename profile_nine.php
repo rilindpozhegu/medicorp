@@ -58,8 +58,16 @@
                     </div>
                     <div class="clearfix"></div>
                     <div class="col-md-12">
-                    <h3>Jordanian Board in Family Medicine, Diploma in Diabetes Mellitus UK.</h3>
-                    <p>More than 30 years of experience in medicine and surgery. Retired as colonel from Royal Medical Services – Jordan Armed Forces. Dr. Ayah has a long and vast experience in Annual check-ups and lifestyle modification, weight loss as well as women health (certified) Dr. Ayah finished the course in Sexual Medicine and is currently preparing for the European Board certification in Sexual Medicine Member in Jordan Medical Association, Jordan Society of Family Medicine, and European and International Society of Sexual Medicine. Post-Doctoral fellow in woman’s health from UCSF (San Francisco) USA. Diploma in Diabetes Mellitus from University of Leicester UK Experienced in managing diabetic cases and its complication with diabetic foot care. Vast experience in Emergency medicine as Dr. Ayah worked as Head of Emergency Department in several hospitals in Jordan.</p>
+                    <h3>Specialist Family Medicine<br> MD. MBBS</h3>
+                    <p><b>Jordanian Board in Family Medicine, Diploma in Diabetes Mellitus UK.</b></p>
+                    <p>More than 30 years of experience in medicine and surgery. Retired as colonel from Royal Medical Services – Jordan Armed Forces.</p>
+                    <p>Dr. Ayah has a long and vast experience in Annual check-ups and lifestyle modification, weight loss as well as women health (certified)</p>
+                    <p>Dr. Aya finished the course in Sexual Medicine and is currently preparing for the European Board certification in Sexual Medicine</p>
+                    <p>Member in Jordan Medical Association, Jordan Society of Family Medicine, and European and International Society of Sexual Medicine.</p>
+                    <p>Post-Doctoral fellow in woman’s health from UCSF (San Francisco) USA.</p>
+                    <p>Diploma in Diabetes Mellitus from University of Leicester UK</p>
+                    <p>Experienced in managing diabetic cases and its complication with diabetic foot care</p>
+                    <p>Vast experience in Emergency medicine as Dr. Ayah worked as Head of Emergency Department in several hospitals in Jordan</p>
                     </div>
                 </div>
             </div>

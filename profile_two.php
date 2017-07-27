@@ -59,7 +59,11 @@
                     <div class="clearfix"></div>
                     <div class="col-md-12">
                     <h3>Dental Surgeon</h3>
-                    <p>Specialize in the routine dental treatment, endodontic, prosthodontics and periodontics and cosmetic dentistry. Member of American Dental Association. Hollywood Smile Specialist. St. Joseph Hospital/Toronto (2005). Diploma on Prosthodontics Dentistry – University of Toronto (2004-2006). Bachelor’s degree Dentistry – AUST University (1998-2003)</p>
+                    <p>Specialize in the routine dental treatment, endodontic, prosthodontics and periodontics and cosmetic dentistry.<br>
+                    Member of American Dental Association. <br>
+                    Hollywood Smile Specialist. St. Joseph Hospital/Toronto (2005).
+                    <br>Diploma on Prosthodontics Dentistry – University of Toronto (2004-2006). 
+                    <br>Bachelor’s degree Dentistry – AUST University (1998-2003)</p>
                     
                     <!-- <p>Cosmetic Dentistry<br>
                     Hollywood Smile<br>
