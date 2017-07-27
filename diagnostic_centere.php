@@ -314,9 +314,7 @@
                             - Tumor Markers in Oncology <br>
                             - Diabetes <br>
                             - Bone Diseases <br>
-                            The immunoassays used in our laboratory deliver the highest level of accuracy, quality and efficiency with <br>
-                            confidence, rapid measurement, sensitivity, precision, wide measuring range and for low sample <br>
-                            volumes.</p>
+                            The immunoassays used in our laboratory deliver the highest level of accuracy, quality and efficiency with confidence, rapid measurement, sensitivity, precision, wide measuring range and for low sample volumes.</p>
                         </div>
                 </div>
                 <div class="tab-pane fade in" id="tab10" style="padding-left:15px"> 
