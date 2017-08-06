@@ -212,3 +212,11 @@
     background-repeat: no-repeat !important;
     float: left;
 }
+ 
+.offset-left-20 {
+	padding-left: 20px;
+}
+
+.title__bold {
+	font-weight: bold;
+}

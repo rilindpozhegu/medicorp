@@ -50,9 +50,9 @@
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <img src="../img/icon/home_stat7-01.svg">
-                    <h3>Radiology</h3>
+                    <h3>RADIOLOGY</h3>
                     <p>We have a full imaging and x-ray department with fully computerized, automated digital processing. Because MediCorp Gulf strives for excellence...</p>
-                    <a href="service_7.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a href="service_6.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
@@ -75,6 +75,29 @@
                     <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
                     <a href="service_10.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
+
+<!--                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
+                    <img src="../img/icon/home_stat10-01.svg">
+                    <h3>Plastics Surgery</h3>
+                    <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
+                    <a href="service_10.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                </div> -->
+
+                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
+                    <img src="../img/icon/cosmetics_white.svg">
+                    <h3>Cosmetics</h3>
+                    <p>Whether you are looking for hair laser removal, skin rejuvenation and tightening, scar and acne management, micro-dermabrasion, slimming and fat reduction...</p>
+                    <a href="../cosmetic.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                </div>
+
+
+                   <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
+                    <img src="../img/icon/laboratory_white.svg">
+                    <h3>Laboratory</h3>
+                    <p>Become a leading provider of diagnostics laboratory services for healthcare providers in the UAE. The high tech MediCorp Gulf...</p>
+                    <a href="service_11.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                </div>
+
         </div>
     </div>
 </section>

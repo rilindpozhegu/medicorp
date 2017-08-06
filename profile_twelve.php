@@ -60,9 +60,9 @@
                     <div class="clearfix"></div>
                     <div class="col-md-12">
                     <h3>Specialist Clinical Pathology</h3>
-                    <h4 class="left-align">MB CH.B (Egypt)
+                    <p class="left-align title__bold">MB CH.B (Egypt)
                     Master’s Degree in Clinical Pathology (Egypt)
-                    PhD (UK)</h4>
+                    PhD (UK)</p>
                     <p>Dr. Huda is a member of International Society of Blood Transfusion (ISBT) and a
                     member of International Cord Blood Society (ICBS).</p>
                     <br>

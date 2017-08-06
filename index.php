@@ -23,11 +23,11 @@
          <div class="row">
             <h1 class="wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".2s">Welcome To MediCorp Gulf</h1>
             <p class="wow fadeInUp justified-text" data-wow-duration="1s" data-wow-delay=".1s"
-            id="table_top_section">The MediCorp Gulf MEDICAL CLINIC (MMC) is one of the most prestigious
+            id="table_top_section">The MediCorp Gulf Medical Clinic (MMC) is one of the most prestigious
                and dedicated private treatment facilities in the GCC. We have built
                our reputation on a passion for first class healthcare and for creating
                an environment that puts patients completely at ease.</p>
-            <p class="wow fadeInUp justified-text" data-wow-duration="1s" data-wow-delay=".2s">This commitment to excellence has attracted some of the world’s finest specialist physicians to work in our FAMILY MEDICINE, ENT, GYNAENACOLOGY &amp; OBSTETRICS, DENTISTRY, GENERAL MEDICINE, PEDIATRICS AND DERMATOLOGY, interventional cardiology, plastic surgery, chiropractic, internal medicine and endocrinology/diabetes departments. </p>
+            <p class="wow fadeInUp justified-text" data-wow-duration="1s" data-wow-delay=".2s">This commitment to excellence has attracted some of the world’s finest specialist physicians to work in our Family Medicine, Ent,  Gynanenacology &amp; Obstetrics, Dentistry, General Medicine, Pediatrics and Dermatologu, interventional cardiology, plastic surgery, chiropractic, internal medicine and endocrinology/diabetes departments. </p>
          </div>
       </div>
    </section>
@@ -55,7 +55,7 @@
                            <table style="width:100%">
                               <tr>
                                  <td>
-                                    <p>Sunday - Thursday</p>
+                                    <p>Saturday - Thursday</p>
                                  </td>
                                  <td>
                                     <p>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</p>
@@ -66,7 +66,7 @@
                               </tr>
                               <tr>
                                  <td>
-                                    <p>Friday - Saturday</p>
+                                    <p>Friday</p>
                                  </td>
                                  <td>
                                     <p>&nbsp;<i class="fa fa-minus" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;</p>

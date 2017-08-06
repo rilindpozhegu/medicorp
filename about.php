@@ -35,7 +35,7 @@
     <div class="container">
         <div class="row">
             <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">A little about us</h1>
-            <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">The MediCorp Gulf medical clinic (MMC) is one of the most prestigious and dedicated private treatment facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
+            <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">The MediCorp Gulf Medical Clinic (MMC) is one of the most prestigious and dedicated private treatment facilities in the GCC. We have built our reputation on a passion for first class healthcare and for creating an environment that puts patients completely at ease.</p>
             <a href="contact.php"><button class="button_default default_hover wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Contact</button></a>
         </div>
     </div>

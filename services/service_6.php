@@ -35,7 +35,7 @@
                 <img src="../img/icon/home_stat6-01-01.svg">
             </div>
             <div class="col-md-6">
-                <h3>GENERAL SURGERY &amp; ENDOCRINOLOGY</h3>
+                <h3>GENERAL SURGERY</h3>
             </div>
         </div>
     </div>
@@ -49,7 +49,7 @@
                     <img src="../img/services/General Surgery.jpg">
                 </div>
                     <div class="col-md-8">
-                    <h3>GENERAL SURGERY &amp; ENDOCRINOLOGY </h3>
+                    <h3>GENERAL SURGERY</h3>
                     <p>Endocrinology involves the diagnostic evaluation of a wide variety of symptoms and variations
                     and the long-term management of disorders of deficiency or excess of one or more hormones.
                     Here at Medicorp we offer the following services:<br>

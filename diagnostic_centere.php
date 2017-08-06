@@ -111,7 +111,7 @@
                 
                  <div class="tab-pane fade in" id="tab2" style="padding-left:15px">
                         <div class="col-md-3 no_padding">
-                            <img src="img/machine-scan.jpg" class="img-responsive">
+                            <img src="img/MRI.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
                         <h1>MRI</h1>
@@ -145,30 +145,31 @@
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>CT SCAN</h1>
-                            <p>Our multi slice CT scan is designed to deliver excellent image quality and advanced dose optimization for maximum diagnostic versatility and focus patient care.  We are strong advocates for patient safety and minimal radiation exposure. Our CT with the help of a unique feature allows for minimal radiation dose delivery while maintaining high image quality.<br>
-                            •   Automatically adjust mA along X-Y-Z axis and maintain image quality what you desire<br>
-                            •   Gantry design improve X-Ray utilization and performance of X-Ray Tube and Generator
+                            <p>Our multi slice CT scan is designed to deliver excellent image quality and advanced dose optimization for maximum diagnostic versatility and focus patient care.  We are strong advocates for patient safety and minimal radiation exposure. Our CT with the help of a unique feature allows for minimal radiation dose delivery while maintaining high image quality.
+                            <ul class="list__md offset-left-20">
+                                <li>Automatically adjust mA along X-Y-Z axis and maintain image quality what you desire</li>
+                                <li>Gantry design improve X-Ray utilization and performance of X-Ray Tube and Generator</li>
+                            </ul>
                             We offer CT Scanning with or without contrast from Head to Toe with multi planer volume reconstruction, 3D Surface, 3D MIP and 3D Volume Rendering which includes
                             </p>
                         </div>
                         <div class="clearfix"></div>
                         <div class="col-md-3 col-md-offset-3">
-                            <p> •    Head<br>
-                                •   Neck<br>
-                                •   Chest<br>
-                                •   Abdomen<br>
-                                •   Pelvis
-
-                            </p>
+                            <ul class="list__md offset-left-20">
+                                <li>Head</li>
+                                <li>Neck</li>
+                                <li>Chest</li>
+                                <li>Abdomen</li>
+                                <li>Pelvis</li>
+                            </ul>   
                         </div>
                         <div class="col-md-5">
-                            <p>
-                            •   Upper extremity<br>
-                            •   Lower extremity<br>
-                            •   Dental Scan<br>
-                            •   CT Scan Needle guided Biopsy
-
-                            </p>
+                            <ul class="list__md offset-left-20">
+                                <li>Upper extremity</li>
+                                <li>Lower extremity</li>
+                                <li>Dental Scan</li>
+                                <li>CT Scan Needle guided Biopsy</li>
+                            </ul>
                         </div>
 
                 </div>
@@ -183,26 +184,27 @@
                             </p>
                         </div>
                         <div class="clearfix"></div>
-                        <div class="col-md-3 col-md-offset-3">
-                            <p> •P   Eye <br>
-                            •   Jaw<br>
-                            •   Facial bone , neck and skull<br>
-                            •   Middle ear , nasal, and sinus<br>
-                            •   Breastbone<br>
-                            •   Spine<br>
-                            •   Pelvis and hips<br>
-                            </p>
+                        <div class="col-md-3 col-md-offset-3 no_padding">
+                            <ul class="list__md">
+                                <li>Eye</li>
+                                <li>Jaw</li>
+                                <li>Facial bone , neck and skull</li>
+                                <li>Middle ear , nasal, and sinus</li>
+                                <li>Breastbone</li>
+                                <li>Spine</li>
+                                <li>Pelvis and hips</li>
+                            </ul>
                         </div>
                         <div class="col-md-5">
-                            <p>
-                            •   Joints<br>
-                            •   Shoulder<br>
-                            •   Humerus<br>
-                            •   Elbow, forearm, wrist and hand<br>
-                            •   Thigh, knees , lower leg, ankle, foot, heel and toes<br>
-                            •   Abdomen and upper GI tract<br>
-                            •   Urinary tract<br>
-                            </p>
+                            <ul class="list__md">
+                                <li>Joints</li>
+                                <li>Shoulder</li>
+                                <li>Humerus</li>
+                                <li>Elbow, forearm, wrist and hand</li>
+                                <li>Thigh, knees , lower leg, ankle, foot, heel and toes</li>
+                                <li>Abdomen and upper GI tract</li>
+                                <li>Urinary tract</li>
+                            </ul>
                         </div>
 
                 </div>
@@ -225,21 +227,22 @@
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>ULTRASOUND</h1>                            
-                            <div class="col-md-4">
-                                <p> •   Soft tissue of head and neck<br>
-                                •   Chest include mediastinum<br>
-                                •   Breast (unilateral or bilateral)<br>
-                                •   Abdomen<br>
-                                </p>
+                            <div class="col-md-4 no_padding">
+                                <ul class="list__md offset-left-20 ">
+                                    <li>Soft tissue of head and neck</li>
+                                    <li>Chest include mediastinum</li>
+                                    <li>Breast (unilateral or bilateral)</li>
+                                    <li>Abdomen</li>
+                                </ul>
                             </div>
-                            <div class="col-md-4">
-                                <p>
-                                •   Transplanted kidney<br>
-                                •   Pregnant uterus<br>
-                                •   Transvaginal<br>
-                                •   Scrotum and contents<br>
-                                •   Infant
-                                </p>
+                            <div class="col-md-4 no_padding">
+                                <ul class="list__md">
+                                    <li>Transplanted kidney</li>
+                                    <li>Pregnant uterus</li>
+                                    <li>Transvaginal</li>
+                                    <li>Scrotum and contents</li>
+                                    <li>Infant</li>
+                                </ul>
                             </div>
                         </div>
                 </div>
@@ -259,37 +262,36 @@
                 </div>
                 <div class="tab-pane fade in" id="tab7" style="padding-left:15px"> 
                     <div class="col-md-3 no_padding">
-                        <img src="img/random/diagnostic1-01.png" class="img-responsive">
+                        <img src="img/Laboratory.jpg" class="img-responsive">
                     </div>
                     <div class="col-md-9 let_ip">
                         <h1>Laboratory</h1>
                         <p>Become a leading provider of diagnostics laboratory services for healthcare providers in the UAE. The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified laboratory technicians provide top-level services to physicians and patients on site.</p>
                     </div>
                     <div class="col-md-7">
-                        <p>
-                        The laboratory is comprised of the following areas:<br>
-                        - Central sample collection<br>
-                        - Hematology<br>
-                        - Biochemistry, routine and special chemistry<br>
-                        - Microbiology, bacteriology, mycology, immunology, and serology<br>
-                        - Emergency and accident laboratory services<br>
-                        - Patient instruction and preparation for tests<br>
-                        - Complete urinalysis testing<br>
-                        - PAP smear                   
-                        - Comprehensive stool analysis<br>
-                        - Testing semen for analysis<br>
-                        - Respiratory testing<br>
-                        - Total women wellbeing and anti-aging testing and advice<br>
-                        - Total men wellbeing and anti-aging testing and advice<br>
-                        - Early tumor detection tests<br>
-                        - Complete premarital testing<br>
-                        - STD testing<br>
-                        </p>
+                        <ul class="list__md offset-left-20">
+                            <li>Central sample collection</li>
+                            <li>Hematology</li>
+                            <li>Biochemistry, routine and special chemistry</li>
+                            <li>Microbiology, bacteriology, mycology, immunology, and serology</li>
+                            <li>Emergency and accident laboratory services</li>
+                            <li>Patient instruction and preparation for tests</li>
+                            <li>Complete urinalysis testing</li>
+                            <li>PAP smear</li>
+                            <li>Comprehensive stool analysis</li>
+                            <li>Testing semen for analysis</li>
+                            <li>Respiratory testing</li>
+                            <li>Total women wellbeing and anti-aging testing and advice</li>
+                            <li>otal men wellbeing and anti-aging testing and advice</li>
+                            <li>Early tumor detection tests</li>
+                            <li>Complete premarital testing</li>
+                            <li>STD testing</li>
+                        </ul>
                     </div>
                 </div>
                 <div class="tab-pane fade in" id="tab8" style="padding-left:15px"> 
                         <div class="col-md-3 no_padding">
-                            <img src="img/random/diagnostic1-01.png" class="img-responsive">
+                            <img src="img/iquality.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>Innovation &amp; Quality</h1>
@@ -298,12 +300,12 @@
                 </div>
                 <div class="tab-pane fade in" id="tab9" style="padding-left:15px"> 
                         <div class="col-md-3 no_padding">
-                            <img src="img/random/diagnostic1-01.png" class="img-responsive">
+                            <img src="img/Diagnostics.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>Diagnostics</h1>
                             <p>Our portfolio of immunoassays cover a wide range of specialized tests designed to primarily
-                            support clinical decision making.
+                            support clinical decision making.</p>
                              <ul class="list__md on-diagnostics">
                                 <li>Infectious Diseases</li>
                                 <li>Cardiac Biomarkers</li>
@@ -313,27 +315,27 @@
                                 <li>Diabetes</li>
                                 <li>Bone Diseases</li>
                             </ul>
-                           The immunoassays used in our laboratory deliver the highest level of accuracy, quality and
+                           <p>The immunoassays used in our laboratory deliver the highest level of accuracy, quality and
                             efficiency with confidence, rapid measurement, sensitivity, precision, wide measuring range and
                             for low sample volumes.</p>
                         </div>
                 </div>
                 <div class="tab-pane fade in" id="tab10" style="padding-left:15px"> 
                         <div class="col-md-3 no_padding">
-                            <img src="img/random/diagnostic1-01.png" class="img-responsive">
+                            <img src="img/medvalue.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>Medical Value</h1>
-                            <h3>Cardiac Biomarkers </h3>
+                            <h3 class="title__bold">Cardiac Biomarkers </h3>
                             <p>
                             We are dedicated to providing the most advanced assays supported by the latest research in cardiology, specifically for early and accurate diagnosis. Innovative markers such as NT-proBNP for early diagnosis of heart failure patients and TnT hs in early detection of acute coronary syndrome are prime examples of the tests we offer.</p>
                             <p>
-                            <h3>Pregnancy Care </h3>
-                            When looking at Pregnancy Care as a medical indication, our offerings go beyond General Women’s Health. The solutions running in our laboratory can assist gynecologists in managing pregnant women from point of detecting pregnancy (first trimester screening) to markers that support the diagnosis of Preeclampsia (sFlt-1 and PlGF) all the way up to the delivery stage.</p>
-                            <h3>Bone Marker Assays</h3>
+                            <h3 class="title__bold">Pregnancy Care </h3>
+                            <p>When looking at Pregnancy Care as a medical indication, our offerings go beyond General Women’s Health. The solutions running in our laboratory can assist gynecologists in managing pregnant women from point of detecting pregnancy (first trimester screening) to markers that support the diagnosis of Preeclampsia (sFlt-1 and PlGF) all the way up to the delivery stage.</p>
+                            <h3 class="title__bold">Bone Marker Assays</h3>
                             <p>
                             Bone marker assays are critical diagnostics aids in the evaluation and management of osteoporosis and other bone related diseases. With the assay in our laboratory, we can help doctors provide a more complete picture of bone metabolism and health. The tests we run perform with sustained consistency and provide clinicians with reliable results supported by guidelines for optimal patient management and Vitamin D testing.</p>
-                            <h3>Infectious Diseases </h3>
+                            <h3 class="title__bold">Infectious Diseases </h3>
                             <p>
                             Our laboratory offers a comprehensive menu for serological diagnoses and monitoring of sexually transmitted diseases, hepatitis, congenital, perinatal and neonatal infections. We cover an extensive portfolio of medically relevant solutions for the healthcare professional.</p>
                         </div>
@@ -399,20 +401,12 @@
                 <a href="services/service_6.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
-                <img src="img/icon/nd_ic4-01.svg">
+                <img src="img/icon/laboratory.svg">
                 <h3>FULL LABORATORY</h3>
                 <p>The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your
                     physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified
                     laboratory technicians provide top-level services to physicians and patients on site.</p>
-                    <a href="services/service_5.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            </div>
-            <div class="col-md-4">
-                <img src="img/icon/nd_ic4-01.svg">
-                <h3>FULL LABORATORY</h3>
-                <p>The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your
-                    physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified
-                    laboratory technicians provide top-level services to physicians and patients on site.</p>
-                    <a href="services/service_5.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a href="services/service_11.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <!-- <div class="col-md-4">
                 <img src="img/icon/nd_ic6-01.svg">
