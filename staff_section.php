@@ -82,6 +82,13 @@
                     <p>RADIOLOGY<br>&nbsp;</p><a href="profile_eleven.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
+            <div class="staff_panel_sm">
+                <img src="img/staff/mohammed-1.jpg">
+                <div class="staff_small_p_text ">
+                    <h4>Dr. Hoda Gouhar</h4>
+                    <p>SPECIALIST CLINICAL PATHOLOGY<br>&nbsp;</p><a href="profile_twelve.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                </div>
+            </div>
         </div>    
         </div>
     </div>
