@@ -451,8 +451,8 @@
             </div>
             <div class="col-md-4">
                 <img src="img/icon/cosmetics.svg">
-                <h3>Chiropractic </h3>
-                <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
+                <h3>Cosmetics </h3>
+                <p>Whether you are looking for hair laser removal, skin rejuvenation and tightening, scar and acne management, micro-dermabrasion, slimming and fat reduction...</p>
                 <a href="services/service_10.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
         </div>
