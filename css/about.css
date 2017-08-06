@@ -48,3 +48,7 @@
 .third_section_text_img p {
 	font-size: 15px;
 }
+
+.list-unstyled img {
+	height: 350px !important;
+}

@@ -111,34 +111,32 @@
                 
                  <div class="tab-pane fade in" id="tab2" style="padding-left:15px">
                         <div class="col-md-3 no_padding">
-                            <img src="img/gallery/4.jpg" class="img-responsive">
+                            <img src="img/machine-scan.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
                         <h1>MRI</h1>
                             <p>We have state of the art 1.5T MRI which engineered on a foundation of technology, clinical applications and refined work flow capabilities helps to deriver excellent clinical performance. It helps Maximize productivity and improve patient care through its supreme image quality because of highly homogeneous Magnet, dedicated coils to get better signal intensity, more coverage and depth of penetration. We offer MRI Scanning with or without contrast from Head to Toe which includes</p>
                         </div>
                         <div class="clearfix"></div>
-                        <div class="col-md-3 col-md-offset-3">
-                            <p>•    Brain<br>
-                            •   C- Spine, T- spine, LS- spine, Whole spine<br>
-                            •   Neck<br>
-                            •   Chest<br>
-                            •   Abdomen<br>
-                            •   Pelvis<br>
-                            •   Upper extremity<br>
-                            </p>
-                        </div>
-                        <div class="col-md-5">
-                            <p>
-                            •   Lower extremity<br>
-                            •   MRCP<br>
-                            •   MRA<br>
-                            •   MRV<br>
-                            •   Diffusion<br>
-                            •   Perfusion<br>
-                            •   Spectroscopy<br>
-                            </p>
-                        </div>
+                        <ul class="col-md-3 offset-26 list__md">
+                            <li>Brain</li>
+                            <li>C- Spine, T- spine, LS- spine, Whole spine</li>
+                            <li>Neck</li>
+                            <li>Chest</li>
+                            <li>Abdomen</li>
+                            <li>Pelvis</li>
+                            <li>Upper extremity</li>
+                        </ul>
+
+                        <ul class="col-md-5 list__md">
+                            <li>Lower extremity</li>
+                            <li>MRCP</li>
+                            <li>MRA</li>
+                            <li>MRV</li>
+                            <li>Diffusion</li>
+                            <li>Perfusion</li>
+                            <li>Spectroscopy</li>
+                        </ul>
                 </div>
                 
                 <div class="tab-pane fade in" id="tab3" style="padding-left:15px">
@@ -177,7 +175,7 @@
                 
                 <div class="tab-pane fade in" id="tab4" style="padding-left:15px">
                     <div class="col-md-3 no_padding">
-                            <img src="img/gallery/d10-1024x616.jpg" class="img-responsive">
+                            <img src="img/x-ray.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>X-RAY</h1>
@@ -186,7 +184,7 @@
                         </div>
                         <div class="clearfix"></div>
                         <div class="col-md-3 col-md-offset-3">
-                            <p> •   Eye <br>
+                            <p> •P   Eye <br>
                             •   Jaw<br>
                             •   Facial bone , neck and skull<br>
                             •   Middle ear , nasal, and sinus<br>
@@ -210,21 +208,20 @@
                 </div>
                 <div class="tab-pane fade in" id="tab5" style="padding-left:15px">
                     <div class="col-md-3 no_padding">
-                            <img src="img/gallery/d10-1024x616.jpg" class="img-responsive">
+                            <img src="img/pacs.jpg" class="img-responsive">
                     </div>
                     <div class="col-md-9 let_ip">
                         <h1>Picture Archiving and Communications System: PACS</h1>
-                        <p>
-                        •    It’s a medical imaging technology which improves communications with referring physicians and speed time to treatment.<br>
-                        •   It provides economical storage of and convenient access to images from multiple modalities (source machine type).<br>
-                        •   Web enabled with ability to perform Teleradiology including reporting.
-
-                        </p>
+                        <ul class="col-md-12 list__md">
+                            <li class="tp__padding">It’s a medical imaging technology which improves communications with referring physicians and speed time to treatment</li>
+                            <li class="tp__padding">It provides economical storage of and convenient access to images from multiple modalities (source machine type)</li>
+                            <li class="tp__padding">Web enabled with ability to perform Teleradiology including reporting.</li>
+                        </ul>
                     </div>
                 </div>
                 <div class="tab-pane fade in" id="tab6" style="padding-left:15px">             
                         <div class="col-md-3 no_padding">
-                            <img src="img/gallery/d7-1024x683.jpg" class="img-responsive">
+                            <img src="img/ultrasound.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>ULTRASOUND</h1>                            
@@ -305,16 +302,20 @@
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>Diagnostics</h1>
-                            <p>Our portfolio of immunoassays cover a wide range of specialized tests designed to primarily support
-                            clinical decision making. <br>
-                            - Infectious Diseases <br>
-                            - Cardiac Biomarkers <br>
-                            - Bone Marker Assays <br>
-                            - Pregnancy CareTherapeutic Drug Monitoring <br>
-                            - Tumor Markers in Oncology <br>
-                            - Diabetes <br>
-                            - Bone Diseases <br>
-                            The immunoassays used in our laboratory deliver the highest level of accuracy, quality and efficiency with confidence, rapid measurement, sensitivity, precision, wide measuring range and for low sample volumes.</p>
+                            <p>Our portfolio of immunoassays cover a wide range of specialized tests designed to primarily
+                            support clinical decision making.
+                             <ul class="list__md on-diagnostics">
+                                <li>Infectious Diseases</li>
+                                <li>Cardiac Biomarkers</li>
+                                <li>Bone Marker Assays</li>
+                                <li>Pregnancy CareTherapeutic Drug Monitoring</li>
+                                <li>Tumor Markers in Oncology</li>
+                                <li>Diabetes</li>
+                                <li>Bone Diseases</li>
+                            </ul>
+                           The immunoassays used in our laboratory deliver the highest level of accuracy, quality and
+                            efficiency with confidence, rapid measurement, sensitivity, precision, wide measuring range and
+                            for low sample volumes.</p>
                         </div>
                 </div>
                 <div class="tab-pane fade in" id="tab10" style="padding-left:15px"> 
@@ -322,14 +323,18 @@
                             <img src="img/random/diagnostic1-01.png" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
-                            <h1>Medical</h1>
-                            <p><b>Cardiac Biomarkers </b>
+                            <h1>Medical Value</h1>
+                            <h3>Cardiac Biomarkers </h3>
+                            <p>
                             We are dedicated to providing the most advanced assays supported by the latest research in cardiology, specifically for early and accurate diagnosis. Innovative markers such as NT-proBNP for early diagnosis of heart failure patients and TnT hs in early detection of acute coronary syndrome are prime examples of the tests we offer.</p>
-                            <p><b>Pregnancy Care </b>
+                            <p>
+                            <h3>Pregnancy Care </h3>
                             When looking at Pregnancy Care as a medical indication, our offerings go beyond General Women’s Health. The solutions running in our laboratory can assist gynecologists in managing pregnant women from point of detecting pregnancy (first trimester screening) to markers that support the diagnosis of Preeclampsia (sFlt-1 and PlGF) all the way up to the delivery stage.</p>
-                            <p><b>Bone Marker Assays </b>
+                            <h3>Bone Marker Assays</h3>
+                            <p>
                             Bone marker assays are critical diagnostics aids in the evaluation and management of osteoporosis and other bone related diseases. With the assay in our laboratory, we can help doctors provide a more complete picture of bone metabolism and health. The tests we run perform with sustained consistency and provide clinicians with reliable results supported by guidelines for optimal patient management and Vitamin D testing.</p>
-                            <p><b>Infectious Diseases </b>
+                            <h3>Infectious Diseases </h3>
+                            <p>
                             Our laboratory offers a comprehensive menu for serological diagnoses and monitoring of sexually transmitted diseases, hepatitis, congenital, perinatal and neonatal infections. We cover an extensive portfolio of medically relevant solutions for the healthcare professional.</p>
                         </div>
                 </div>
@@ -349,8 +354,9 @@
 
 <section class="services_section_diagnostis_p">
     <div class="container">
-        <div class="row">
-        <h1>Our <span>Services</span></h1><!-- 
+        <h1>Our <span>Services</span></h1>
+        <div class="row flex--row">
+        <!-- 
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p> -->
             <div class="col-md-4">
                 <img src="img/icon/nd_ic1-01.svg">
@@ -379,9 +385,34 @@
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic5-01.svg">
-                <h3>GENERAL SURGERY &amp; ENDOCRINOLOGY</h3>
-                <p>Endocrinology involves the diagnostic evaluation of a wide variety of symptoms and variations and the long-term management of disorders of...</p>
+                <h3>GENERAL SURGERY</h3>
+                <p>Our General Surgery department offers the following services:
+                    <ol>
+                        <li>Our General Surgery department offers the following services:
+                            1. General Surgery including: Endocrine surgery (thyroid, parathyroid), adrenal, pancreas,
+                            neuro-
+                            endocrine tumors
+                        </li>
+                        <li>Cancer surgery including: colorectal, pancreatic, liver, gastric, and all endocrine cancers</li>
+                    </ol>
+                </p>
                 <a href="services/service_6.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic4-01.svg">
+                <h3>FULL LABORATORY</h3>
+                <p>The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your
+                    physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified
+                    laboratory technicians provide top-level services to physicians and patients on site.</p>
+                    <a href="services/service_5.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/nd_ic4-01.svg">
+                <h3>FULL LABORATORY</h3>
+                <p>The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your
+                    physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified
+                    laboratory technicians provide top-level services to physicians and patients on site.</p>
+                    <a href="services/service_5.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <!-- <div class="col-md-4">
                 <img src="img/icon/nd_ic6-01.svg">
@@ -414,6 +445,12 @@
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic10-01.svg">
+                <h3>Chiropractic </h3>
+                <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
+                <a href="services/service_10.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4">
+                <img src="img/icon/cosmetics.svg">
                 <h3>Chiropractic </h3>
                 <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
                 <a href="services/service_10.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>

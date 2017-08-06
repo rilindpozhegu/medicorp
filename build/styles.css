@@ -104,6 +104,10 @@ input:focus {
 	font-size: 15px;
 }
 
+.list-unstyled img {
+	height: 350px !important;
+}
+
 @charset "UTF-8";
 
 /*!
@@ -4017,6 +4021,42 @@ input[type=radio]:checked ~ label{
     width: 12px;
 }
 
+.offset-26 {
+	margin-left: 26.7%;
+}
+
+.list__md {
+    font-size: 18px;
+    color: #5D6A84;
+}
+
+.list__md.on-diagnostics {
+    padding-left: 20px;
+    padding-bottom: 15px;
+
+}
+
+.tp__padding {
+	padding-top: 10px;
+}
+
+.flex--row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-wrapper {
+    padding-top: 5%;
+}
+
+.card-layout {
+    width: 45%;
+    height: 300px;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    float: left;
+}
+
 /*General Footer Section on all Pages!!!*/
 
 .general_footer {
@@ -4119,7 +4159,7 @@ input[type=radio]:checked ~ label{
 	color: white;
 }
 .push_two_up {
-	margin-top: -10%;
+	margin-top: -5%;
 }
 .home_tab_two .tab-pane {
 	background: #00A4EF !important;
@@ -4692,7 +4732,14 @@ input[type=radio]:checked ~ label{
 	color: #00A4EF;
 	background-color: transparent;
 	transition: ease all 0.2s;
+}
 
+.justified-text {
+	text-align: justify !important;
+}
+
+.left-align {
+	text-align: left !important;
 }
 
 .group_inputs {

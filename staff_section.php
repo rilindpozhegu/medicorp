@@ -23,7 +23,7 @@
                 <img src="img/staff/3.B  DR. IYAD HASSAN PHOTO.jpg">
                 <div class="staff_small_p_text ">
                     <h4>Dr. Iyad Hassan</h4>
-                    <p>GENERAL SURGERY & ENDOCRINOLOGY</p><a href="profile_three.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>CONSULTANT – GENERAL SURGEON</p><br><a href="profile_three.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">

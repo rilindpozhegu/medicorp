@@ -29,7 +29,7 @@
 	color: white;
 }
 .push_two_up {
-	margin-top: -10%;
+	margin-top: -5%;
 }
 .home_tab_two .tab-pane {
 	background: #00A4EF !important;
@@ -602,5 +602,12 @@
 	color: #00A4EF;
 	background-color: transparent;
 	transition: ease all 0.2s;
+}
 
+.justified-text {
+	text-align: justify !important;
+}
+
+.left-align {
+	text-align: left !important;
 }

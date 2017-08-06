@@ -76,6 +76,20 @@
                     <a href="service_10.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
+                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
+                    <img src="img/icon/home_stat10-01.svg">
+                    <h3>Plastics Surgery</h3>
+                    <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
+                    <a href="service_10.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                </div>
+
+                <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
+                    <img src="img/icon/home_stat10-01.svg">
+                    <h3>Cosmetics</h3>
+                    <p>Whether you are looking for hair laser removal, skin rejuvenation and tightening, scar and acne management, micro-dermabrasion, slimming and fat reduction...</p>
+                    <a href="service_10.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                </div>
+
         </div>
     </div>
 </section>

@@ -176,3 +176,39 @@
     opacity: 0.5;
     width: 12px;
 }
+
+.offset-26 {
+	margin-left: 26.7%;
+}
+
+.list__md {
+    font-size: 18px;
+    color: #5D6A84;
+}
+
+.list__md.on-diagnostics {
+    padding-left: 20px;
+    padding-bottom: 15px;
+
+}
+
+.tp__padding {
+	padding-top: 10px;
+}
+
+.flex--row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-wrapper {
+    padding-top: 5%;
+}
+
+.card-layout {
+    width: 45%;
+    height: 300px;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    float: left;
+}

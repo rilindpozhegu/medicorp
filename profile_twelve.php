@@ -32,10 +32,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Dr. Ayah Aqel</h2>
+                <h2>Dr. Hoda Gouhar</h2>
             </div>
             <div class="col-md-6">
-                <h3>FAMILY MEDICINE</h3>
+                <h3>Clinical Pathology</h3>
             </div>
         </div>
     </div>
@@ -47,31 +47,38 @@
     <div class="container">
             <div class="big_panel_detail row">
                 <div class="col-md-4 no_padding">
-                    <img src="img/staff/Dr Ayah Aqel.png">
+                    <img src="img/staff/3.B  DR. IYAD HASSAN PHOTO.jpg">
                 </div>
                 <div class="col-md-8">
                     <div class="col-md-6">
-                        <h2>Dr. Ayah Aqel</h2>
+                        <h2>Dr. Hoda Gouhar</h2>
+                        <h4></h4>
                     </div>
                     <div class="col-md-6">
-                        <h4>Language: Arabic and English</h4>
+                        <h4>Languages: Arabic, English</h4>
                     </div>
                     <div class="clearfix"></div>
                     <div class="col-md-12">
-                    <h3>Specialist Family Medicine<br> MD. MBBS</h3>
-                    <p><b>Jordanian Board in Family Medicine, Diploma in Diabetes Mellitus UK.</b></p>
-                    <p>More than 30 years of experience in medicine and surgery. Retired as colonel from Royal Medical Services – Jordan Armed Forces.</p>
-                    <p>Dr. Ayah has a long and vast experience in Annual check-ups and lifestyle modification, weight loss as well as women health (certified)</p>
-                    <p>Dr. Aya finished the course in Sexual Medicine and is currently preparing for the European Board certification in Sexual Medicine</p>
-                    <p>Member in Jordan Medical Association, Jordan Society of Family Medicine, and European and International Society of Sexual Medicine.</p>
-                    <p>Post-Doctoral fellow in woman’s health from UCSF (San Francisco) USA.</p>
-                    <p>Diploma in Diabetes Mellitus from University of Leicester UK</p>
-                    <p>Experienced in managing diabetic cases and its complication with diabetic foot care</p>
-                    <p>Vast experience in Emergency medicine as Dr. Ayah worked as Head of Emergency Department in several hospitals in Jordan</p>
-                    </div>
-                    <div class="col-md-12 card-wrapper">
-                        <div class="card-layout" style="background: red;background: url('img/weight-loss1.png');"></div>
-                        <div class="card-layout" style="background: red;background: url('img/weight-loss2.jpg');"></div>
+                    <h3>Specialist Clinical Pathology</h3>
+                    <h4 class="left-align">MB CH.B (Egypt)
+                    Master’s Degree in Clinical Pathology (Egypt)
+                    PhD (UK)</h4>
+                    <p>Dr. Huda is a member of International Society of Blood Transfusion (ISBT) and a
+                    member of International Cord Blood Society (ICBS).</p>
+                    <br>
+                    <p>Dr. Huda is a renowned and experienced specialist in Clinical Pathology, she worked as
+                    medical director as well as Head of Clinical Pathology in many labs and hospitals in the
+                    UAE and abroad.</p>
+
+                  <!--   <p>Services:<br>
+                    1.  General Surgery including:<br>
+                    •   Endocrine surgery (thyroid, parathyroid), adrenal, pancreas,neuro-endocrine tumors),<br> 
+                    2.  Cancer surgery (colorectal, pancreatic, liver, gastric, and all endocrine cancers).<br>
+
+
+                    <p> -->
+                        
+                    </p>
                     </div>
                 </div>
             </div>
