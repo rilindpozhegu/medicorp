@@ -50,12 +50,13 @@
                 </div>
                     <div class="col-md-8">
                     <h3>GENERAL SURGERY</h3>
-                    <p>Endocrinology involves the diagnostic evaluation of a wide variety of symptoms and variations
-                    and the long-term management of disorders of deficiency or excess of one or more hormones.
-                    Here at Medicorp we offer the following services:<br>
-                    - General Surgery including: Endocrine surgery (thyroid, parathyroid), adrenal, pancreas,
-                    neuro-endocrine tumors<br>
-                    - Cancer surgery including: colorectal, pancreatic, liver, gastric, and all endocrine cancers
+                    <p>Our General Surgery department offers the following services:
+                    <ol class="list__md offset-left-20">
+                        <li> General Surgery including: Endocrine surgery (thyroid, parathyroid), adrenal, pancreas,
+                        neuro-
+                        endocrine tumors</li>
+                        <li>Cancer surgery including: colorectal, pancreatic, liver, gastric, and all endocrine cancers</li>
+                    </ol>
                     </p>
               </div>
     </div>

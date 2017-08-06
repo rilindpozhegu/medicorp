@@ -23,7 +23,7 @@
                 <img src="img/staff/3.B  DR. IYAD HASSAN PHOTO.jpg">
                 <div class="staff_small_p_text ">
                     <h4>Dr. Iyad Hassan</h4>
-                    <p>CONSULTANT – GENERAL SURGEON</p><br><a href="profile_three.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>GENERAL SURGERY</p><br><a href="profile_three.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="staff_panel_sm">
@@ -83,10 +83,10 @@
                 </div>
             </div>
             <div class="staff_panel_sm">
-                <img src="img/staff/mohammed-1.jpg">
+                <img src="img/staff/mohammed-1.jpg" style="visibility: hidden">
                 <div class="staff_small_p_text ">
                     <h4>Dr. Hoda Gouhar</h4>
-                    <p>SPECIALIST CLINICAL PATHOLOGY<br>&nbsp;</p><a href="profile_twelve.php">Read More <i class="fa fa-long-arrow-right"></i></a>
+                    <p>CLINICAL PATHOLOGY<br>&nbsp;</p><a href="profile_twelve.php">Read More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
         </div>    

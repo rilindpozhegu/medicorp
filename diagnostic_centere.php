@@ -87,7 +87,7 @@
             <div class="tab-content tab_cont_text_img_dia">
                 <div class="tab-pane fade in active" id="tab0" style="padding-left:15px;">
                     <h1 style=" text-align: center;">Diagnostic Centre</h1>
-                    <p>As Dubai’s newest private diagnostic facility, we are proud to introduce highly specialised individual care in a range of diagnostic field.</p>
+                    <p class="text-justify">As Dubai’s newest private diagnostic facility, we are proud to introduce highly specialised individual care in a range of diagnostic field.</p>
                     <p>It is well-known that Jumeirah and Al Wasl road are strewn with healthcare providers and clinics, but there few really comprehensive canters (like ours) that provide services such as imaging, laboratory with the latest technique and procedure.</p>
                     <p>As you will see upon arrival, the facility boasts state-of-the-art technology that includes a laboratory offering a wide range of precise diagnostic testing, plus a full imaging department with MRI, CT scan, ultrasound and digital x-ray.</p>
                     <p>The concept behind our center is to provide our clients with first class – but competitively priced – services. Our driving aim at MediCorp Gulf is to improve the quality of life of the people who come through our doors. We are passionate about focusing on early diagnosis and detection of the diseases and conditions, to prevent their exaggeration and provide a specified diagnosis and quick access to medical reports via the internet and HIS/ERP software which enables both the referring physician as well as the patient to see the results within 24-hours maximum. This is where MMC is already flourishing.</p>
@@ -95,11 +95,11 @@
                 <div class="tab-pane fade in" id="tab1" style="padding-left:15px">
                     
                     <div class="col-md-3 no_padding">
-                            <img src="img/random/diagnostic-01.png" class="img-responsive">
+                            <img src="img/MRI.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>Imaging And X-Ray</h1>
-                            <p>We have a full imaging and x-ray department with fully computerised, automated digital processing. Because MediCorp Gulf strives for excellence in diagnosis, it also offers teleradiology and telereporting capabilities whereby a second, or even third, medical opinion from a range of renowned global radiology facilities can be done. In other words, we go the extra mile to seek out the very best services for our clients without impacting the cost of treatment.</p>
+                            <p class="text-justify">We have a full imaging and x-ray department with fully computerised, automated digital processing. Because MediCorp Gulf strives for excellence in diagnosis, it also offers teleradiology and telereporting capabilities whereby a second, or even third, medical opinion from a range of renowned global radiology facilities can be done. In other words, we go the extra mile to seek out the very best services for our clients without impacting the cost of treatment.</p>
                             <p>Our x-ray and imaging facility features: <br>
                             •   MRI machine 1.5Tesla <br>
                             •   CT scan <br>
@@ -114,7 +114,7 @@
                             <img src="img/MRI.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-9 let_ip">
-                        <h1>MRI</h1>
+                        <h1 class="text-justify">MRI</h1>
                             <p>We have state of the art 1.5T MRI which engineered on a foundation of technology, clinical applications and refined work flow capabilities helps to deriver excellent clinical performance. It helps Maximize productivity and improve patient care through its supreme image quality because of highly homogeneous Magnet, dedicated coils to get better signal intensity, more coverage and depth of penetration. We offer MRI Scanning with or without contrast from Head to Toe which includes</p>
                         </div>
                         <div class="clearfix"></div>
@@ -145,12 +145,13 @@
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>CT SCAN</h1>
-                            <p>Our multi slice CT scan is designed to deliver excellent image quality and advanced dose optimization for maximum diagnostic versatility and focus patient care.  We are strong advocates for patient safety and minimal radiation exposure. Our CT with the help of a unique feature allows for minimal radiation dose delivery while maintaining high image quality.
+                            <p class="text-justify">Our multi slice CT scan is designed to deliver excellent image quality and advanced dose optimization for maximum diagnostic versatility and focus patient care.  We are strong advocates for patient safety and minimal radiation exposure. Our CT with the help of a unique feature allows for minimal radiation dose delivery while maintaining high image quality.
+                            </p>
                             <ul class="list__md offset-left-20">
                                 <li>Automatically adjust mA along X-Y-Z axis and maintain image quality what you desire</li>
                                 <li>Gantry design improve X-Ray utilization and performance of X-Ray Tube and Generator</li>
                             </ul>
-                            We offer CT Scanning with or without contrast from Head to Toe with multi planer volume reconstruction, 3D Surface, 3D MIP and 3D Volume Rendering which includes
+                            <p>We offer CT Scanning with or without contrast from Head to Toe with multi planer volume reconstruction, 3D Surface, 3D MIP and 3D Volume Rendering which includes
                             </p>
                         </div>
                         <div class="clearfix"></div>
@@ -180,7 +181,7 @@
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>X-RAY</h1>
-                            <p>The X-RAY machine with its high image quality comes from the Flat-panel detector, proven to provide reliable image quality at low dose. It delivers the functionality of a compact, easy-to-use, ergonomic package while maintaining high image quality. With its straightforward design it streamlines operations so the focus is more on the patient.
+                            <p class="text-justify">The X-RAY machine with its high image quality comes from the Flat-panel detector, proven to provide reliable image quality at low dose. It delivers the functionality of a compact, easy-to-use, ergonomic package while maintaining high image quality. With its straightforward design it streamlines operations so the focus is more on the patient.
                             </p>
                         </div>
                         <div class="clearfix"></div>
@@ -253,8 +254,8 @@
                         <img src="img/random/diagnostic1-01.png" class="img-responsive">
                     </div>
                     <div class="col-md-9 let_ip">
-                        <p>Medicorp Gulf Medical Clinic is an emerging diagnostic laboratory providing a full range of laboratory services in the UAE. The facility was established in 2013 in association with various partners in Dubai. The laboratory provides quality, accuracy, reliability and innovation with the purpose of improving patient care in the country. Our laboratory operates with the latest state-of-the-art consolidated solutions and innovations available in the Middle East.</p>
-                        <p>
+                        <p class="text-justify">Medicorp Gulf Medical Clinic is an emerging diagnostic laboratory providing a full range of laboratory services in the UAE. The facility was established in 2013 in association with various partners in Dubai. The laboratory provides quality, accuracy, reliability and innovation with the purpose of improving patient care in the country. Our laboratory operates with the latest state-of-the-art consolidated solutions and innovations available in the Middle East.</p>
+                        <p class="text-justify">
                         <b>Our Vision</b><br>
                         Become a leading provider of diagnostics laboratory services for healthcare providers in the UAE.
                         The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified laboratory technicians provide top-level services to physicians and patients on site.</p>
@@ -266,7 +267,7 @@
                     </div>
                     <div class="col-md-9 let_ip">
                         <h1>Laboratory</h1>
-                        <p>Become a leading provider of diagnostics laboratory services for healthcare providers in the UAE. The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified laboratory technicians provide top-level services to physicians and patients on site.</p>
+                        <p class="text-justify">Become a leading provider of diagnostics laboratory services for healthcare providers in the UAE. The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified laboratory technicians provide top-level services to physicians and patients on site.</p>
                     </div>
                     <div class="col-md-7">
                         <ul class="list__md offset-left-20">
@@ -295,7 +296,7 @@
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>Innovation &amp; Quality</h1>
-                            <p>At Medicorp Gulf Medical Clinic the quality of our services is at the core of the laboratory. From collection of samples, testing and result distribution, each aspect of the workflow is handled with the utmost care and attention with our highly standardized analyzers and equipment. Facilitated by the cutting-edge technology used in our laboratory, we can guarantee efficiency, accuracy, and timely results. The workflow solutions we use provide standardization of the pre-analytical process and support orkflow management and quality. Throughput and reliability of instrumentation is vital for analytics, which is why we use the most advanced technologies for our testing. Our regularly trained specialists are thoroughly experienced in each of our consolidated solutions, ensuring we provide accurate laboratory information needed for diagnosis and treatment of patients.</p>
+                            <p class="text-justify">At Medicorp Gulf Medical Clinic the quality of our services is at the core of the laboratory. From collection of samples, testing and result distribution, each aspect of the workflow is handled with the utmost care and attention with our highly standardized analyzers and equipment. Facilitated by the cutting-edge technology used in our laboratory, we can guarantee efficiency, accuracy, and timely results. The workflow solutions we use provide standardization of the pre-analytical process and support orkflow management and quality. Throughput and reliability of instrumentation is vital for analytics, which is why we use the most advanced technologies for our testing. Our regularly trained specialists are thoroughly experienced in each of our consolidated solutions, ensuring we provide accurate laboratory information needed for diagnosis and treatment of patients.</p>
                         </div>
                 </div>
                 <div class="tab-pane fade in" id="tab9" style="padding-left:15px"> 
@@ -304,7 +305,7 @@
                         </div>
                         <div class="col-md-9 let_ip">
                             <h1>Diagnostics</h1>
-                            <p>Our portfolio of immunoassays cover a wide range of specialized tests designed to primarily
+                            <p class="text-justify">Our portfolio of immunoassays cover a wide range of specialized tests designed to primarily
                             support clinical decision making.</p>
                              <ul class="list__md on-diagnostics">
                                 <li>Infectious Diseases</li>
@@ -315,7 +316,7 @@
                                 <li>Diabetes</li>
                                 <li>Bone Diseases</li>
                             </ul>
-                           <p>The immunoassays used in our laboratory deliver the highest level of accuracy, quality and
+                           <p class="text-justify">The immunoassays used in our laboratory deliver the highest level of accuracy, quality and
                             efficiency with confidence, rapid measurement, sensitivity, precision, wide measuring range and
                             for low sample volumes.</p>
                         </div>
@@ -327,16 +328,16 @@
                         <div class="col-md-9 let_ip">
                             <h1>Medical Value</h1>
                             <h3 class="title__bold">Cardiac Biomarkers </h3>
-                            <p>
+                            <p class="text-justify">
                             We are dedicated to providing the most advanced assays supported by the latest research in cardiology, specifically for early and accurate diagnosis. Innovative markers such as NT-proBNP for early diagnosis of heart failure patients and TnT hs in early detection of acute coronary syndrome are prime examples of the tests we offer.</p>
                             <p>
                             <h3 class="title__bold">Pregnancy Care </h3>
-                            <p>When looking at Pregnancy Care as a medical indication, our offerings go beyond General Women’s Health. The solutions running in our laboratory can assist gynecologists in managing pregnant women from point of detecting pregnancy (first trimester screening) to markers that support the diagnosis of Preeclampsia (sFlt-1 and PlGF) all the way up to the delivery stage.</p>
+                            <p class="text-justify">When looking at Pregnancy Care as a medical indication, our offerings go beyond General Women’s Health. The solutions running in our laboratory can assist gynecologists in managing pregnant women from point of detecting pregnancy (first trimester screening) to markers that support the diagnosis of Preeclampsia (sFlt-1 and PlGF) all the way up to the delivery stage.</p>
                             <h3 class="title__bold">Bone Marker Assays</h3>
-                            <p>
+                            <p class="text-justify">
                             Bone marker assays are critical diagnostics aids in the evaluation and management of osteoporosis and other bone related diseases. With the assay in our laboratory, we can help doctors provide a more complete picture of bone metabolism and health. The tests we run perform with sustained consistency and provide clinicians with reliable results supported by guidelines for optimal patient management and Vitamin D testing.</p>
                             <h3 class="title__bold">Infectious Diseases </h3>
-                            <p>
+                            <p class="text-justify">
                             Our laboratory offers a comprehensive menu for serological diagnoses and monitoring of sexually transmitted diseases, hepatitis, congenital, perinatal and neonatal infections. We cover an extensive portfolio of medically relevant solutions for the healthcare professional.</p>
                         </div>
                 </div>
@@ -363,47 +364,39 @@
             <div class="col-md-4">
                 <img src="img/icon/nd_ic1-01.svg">
                 <h3> ENT/OTOLARYNGOLOGY</h3>
-                <p>Diagnosis &amp; management of E.N.T diseases and postoperative care E.N.T. emergencies, as well as routine examinations Treatment of various E.N.T...</p>
+                <p class="text-justify">Diagnosis &amp; management of E.N.T diseases and postoperative care E.N.T. emergencies, as well as routine examinations Treatment of various E.N.T...</p>
                 <a href="services/service_1.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic2-01.svg">
                 <h3>OBSTETRICS & GYNECOLOGY</h3>
-                <p>Complete routing gynaecology, as well as obstetrics, Complete woman health care check-ups, including professional, impartial, advicem,Excellent...</p>
+                <p class="text-justify">Complete routing gynaecology, as well as obstetrics, Complete woman health care check-ups, including professional, impartial, advicem,Excellent...</p>
                 <a href="services/service_2.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic3-01.svg">
                 <h3>DENTISTRY</h3>
-                <p>Routine dental check-up, Consultations, Partial/full dentures,  Dental hygiene/de-scaling (ultrasonic), Implantology...</p>
+                <p class="text-justify">Routine dental check-up, Consultations, Partial/full dentures,  Dental hygiene/de-scaling (ultrasonic), Implantology...</p>
                 <a href="services/service_3.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="clearfix"></div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic4-01.svg">
                 <h3>FAMILY MEDICINE</h3>
-                <p>Care and regular follow up for patients with chronic diseases such as hypertension, diabetes and asthma.Managing total family wellbeing, including...</p>
+                <p class="text-justify">Care and regular follow up for patients with chronic diseases such as hypertension, diabetes and asthma.Managing total family wellbeing, including...</p>
                     <a href="services/service_5.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic5-01.svg">
                 <h3>GENERAL SURGERY</h3>
-                <p>Our General Surgery department offers the following services:
-                    <ol>
-                        <li>Our General Surgery department offers the following services:
-                            1. General Surgery including: Endocrine surgery (thyroid, parathyroid), adrenal, pancreas,
-                            neuro-
-                            endocrine tumors
-                        </li>
-                        <li>Cancer surgery including: colorectal, pancreatic, liver, gastric, and all endocrine cancers</li>
-                    </ol>
-                </p>
+                 <p class="text-justify">Our General Surgery department offers the following services:</p>
+                    <p>1.  General Surgery including: Endocrine surgery...</p>
                 <a href="services/service_6.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
                 <img src="img/icon/laboratory.svg">
                 <h3>FULL LABORATORY</h3>
-                <p>The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your
+                <p class="text-justify">The high tech MediCorp Gulf laboratory offers a wide range of diagnostic tests that enable your
                     physician to efficiently diagnose and treat your medical condition. The dedicated, highly qualified
                     laboratory technicians provide top-level services to physicians and patients on site.</p>
                     <a href="services/service_11.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
@@ -419,7 +412,7 @@
             <div class="col-md-4">
                 <img src="img/icon/nd_ic7-01.svg">
                 <h3>Radiology </h3>
-                <p>We have a full imaging and x-ray department with fully computerized, automated digital processing. Because MediCorp Gulf strives...</p>
+                <p class="text-justify">We have a full imaging and x-ray department with fully computerized, automated digital processing. Because MediCorp Gulf strives...</p>
                 <a href="services/service_7.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
 
@@ -428,25 +421,25 @@
             <div class="col-md-4">
                 <img src="img/icon/nd_ic8-01.svg">
                 <h3>Cardiology </h3>
-                <p>The term cardiology is derived from the Greek words “cardia,” which refers to the heart and “logy” meaning “study of.” Cardiology is ...</p>
+                <p class="text-justify">The term cardiology is derived from the Greek words “cardia,” which refers to the heart and “logy” meaning “study of.” Cardiology is ...</p>
                 <a href="services/service_8.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic9-01.svg">
                 <h3>Internal Medicine </h3>
-                <p>Internal Medicine is the medicalspecialty dealing with the prevention, diagnosis, and treatment of adult diseases Physicians...</p>
+                <p class="text-justify">Internal Medicine is the medicalspecialty dealing with the prevention, diagnosis, and treatment of adult diseases Physicians...</p>
                 <a href="services/service_9.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
                 <img src="img/icon/nd_ic10-01.svg">
                 <h3>Chiropractic </h3>
-                <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
+                <p class="text-justify">Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
                 <a href="services/service_10.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
             <div class="col-md-4">
                 <img src="img/icon/cosmetics.svg">
                 <h3>Cosmetics </h3>
-                <p>Whether you are looking for hair laser removal, skin rejuvenation and tightening, scar and acne management, micro-dermabrasion, slimming and fat reduction...</p>
+                <p class="text-justify">Whether you are looking for hair laser removal, skin rejuvenation and tightening, scar and acne management, micro-dermabrasion, slimming and fat reduction...</p>
                 <a href="services/service_10.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
         </div>

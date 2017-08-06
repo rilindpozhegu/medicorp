@@ -114,20 +114,20 @@
         <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Our <span>Certifications</span></h1>
         <!-- <p class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p> -->
             <div class="demo-gallery">
-                <ul id="lightgallery" class="list-unstyled"><!-- 
-                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/gallery/1.jpg" >
+                <ul id="lightgallery" class="list-unstyled">
+                    <li class="col-xs-6 col-sm-4 col-md-4 small_padding-lr" data-src="img/certificate1.jpg" >
                         <a href="">
-                            <img class="img-responsive" src="img/gallery/1.jpg">
-                        </a>
-                    </li> -->
-                    <li class="col-sm-12 col-md-6 small_padding-lr" data-iframe="true" data-src="img/cert.pdf" >
-                        <a href="">
-                            <img class="img-responsive" src="img/cert1.jpg">
+                            <img class="img-responsive" src="img/certificate1.jpg">
                         </a>
                     </li>
-                    <li class="col-sm-12 col-md-6 small_padding-lr" data-iframe="true" data-src="img/jci.pdf" >
+                    <li class="col-xs-6 col-sm-4 col-md-4 small_padding-lr"  data-src="img/certificate2.png" >
                         <a href="">
-                            <img class="img-responsive" src="img/cert2.jpg">
+                            <img class="img-responsive" src="img/certificate2.png">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-4 small_padding-lr" data-src="img/certificate3.png" >
+                        <a href="">
+                            <img class="img-responsive" src="img/certificate3.png">
                         </a>
                     </li>
                 </ul>    

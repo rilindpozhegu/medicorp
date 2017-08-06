@@ -43,8 +43,9 @@
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <img src="../img/icon/home_stat6-01-01.svg">
-                    <h3>GENERAL SURGERY &amp; ENDOCRINOLOGY</h3>
-                    <p>Endocrinology involves the diagnostic evaluation of a wide variety of symptoms and variations and the long-term management of...</p>
+                    <h3>GENERAL SURGERY</h3>
+                    <p class="text-justify">Our General Surgery department offers the following services:</p>
+                    <p>1.  General Surgery including: Endocrine surgery...</p>
                     <a href="service_6.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 

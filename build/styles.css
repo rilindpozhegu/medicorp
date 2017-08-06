@@ -105,7 +105,7 @@ input:focus {
 }
 
 .list-unstyled img {
-	height: 350px !important;
+	height: 250px !important;
 }
 
 @charset "UTF-8";
@@ -4063,6 +4063,10 @@ input[type=radio]:checked ~ label{
 
 .title__bold {
 	font-weight: bold;
+}
+
+.text-justify {
+    text-align: justify !important;
 }
 
 /*General Footer Section on all Pages!!!*/

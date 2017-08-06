@@ -27,7 +27,7 @@
                and dedicated private treatment facilities in the GCC. We have built
                our reputation on a passion for first class healthcare and for creating
                an environment that puts patients completely at ease.</p>
-            <p class="wow fadeInUp justified-text" data-wow-duration="1s" data-wow-delay=".2s">This commitment to excellence has attracted some of the world’s finest specialist physicians to work in our Family Medicine, Ent,  Gynanenacology &amp; Obstetrics, Dentistry, General Medicine, Pediatrics and Dermatologu, interventional cardiology, plastic surgery, chiropractic, internal medicine and endocrinology/diabetes departments. </p>
+            <p class="wow fadeInUp justified-text" data-wow-duration="1s" data-wow-delay=".2s">This commitment to excellence has attracted some of the world’s finest specialist physicians to work in our Family Medicine, ENT, Gynaecology & Obstetrics, Dentistry, General Medicine, Pediatrics, Dermatology, Interventional Cardiology, Plastic Surgery, Chiropractic, Internal Medicine and Endocrinology/Diabetes departments. </p>
          </div>
       </div>
    </section>
