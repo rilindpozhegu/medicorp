@@ -85,6 +85,8 @@
     </div>
 </section>
 
+            <div class="clearfix"></div>
+                    <h1 class=" wow fadeInUp before_after_title" data-wow-duration="0.5s" data-wow-delay=".1s">Before <span>And</span> After</h1>
 <section class="innner_image_sm_gallery">
     <div class="container">
         <div class="row">
@@ -96,7 +98,7 @@
                             <img class="img-responsive" src="img/gallery/1.jpg">
                         </a>
                     </li> -->
-                    <li class="col-xs-6 col-sm-4 col-md-3 col-md-offset-3 small_padding-lr" data-src="img/staff/Photos- Dental-Dr Manal/1.jpg" >
+                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/staff/Photos- Dental-Dr Manal/1.jpg" >
                         <a href="">
                             <img class="img-responsive" src="img/staff/Photos- Dental-Dr Manal/1.jpg">
                         </a>
@@ -104,6 +106,16 @@
                     <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/staff/Photos- Dental-Dr Manal/2.jpg" >
                         <a href="">
                             <img class="img-responsive" src="img/staff/Photos- Dental-Dr Manal/2.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/staff/Photos- Dental-Dr Manal/Dr. Manal  Photo 8.jpg" >
+                        <a href="">
+                            <img class="img-responsive" src="img/staff/Photos- Dental-Dr Manal/Dr. Manal  Photo 8.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/staff/Photos- Dental-Dr Manal/Dr. Manal Photo 3.jpg" >
+                        <a href="">
+                            <img class="img-responsive" src="img/staff/Photos- Dental-Dr Manal/Dr. Manal Photo 3.jpg">
                         </a>
                     </li>
                 </ul>

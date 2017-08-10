@@ -202,7 +202,7 @@
 }
 
 .card-wrapper {
-    padding-top: 5%;
+    padding-top: 3%;
 }
 
 .card-layout {
@@ -221,6 +221,6 @@
 	font-weight: bold;
 }
 
-.text-justify {
+/*.text-justify {
     text-align: justify !important;
-}
+}*/

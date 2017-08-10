@@ -69,11 +69,13 @@
                     <p>Experienced in managing diabetic cases and its complication with diabetic foot care</p>
                     <p>Vast experience in Emergency medicine as Dr. Ayah worked as Head of Emergency Department in several hospitals in Jordan</p>
                     </div>
-                    <div class="col-md-12 card-wrapper">
+                </div>
+            <div class="clearfix"></div>
+                    <h1 class=" wow fadeInUp before_after_title" data-wow-duration="0.5s" data-wow-delay=".1s">Before <span>And</span> After</h1>
+                    <div class="col-md-10 col-md-offset-2 card-wrapper">
                         <div class="card-layout" style="background: red;background: url('img/weight-loss1.png');"></div>
                         <div class="card-layout" style="background: red;background: url('img/weight-loss2.jpg');"></div>
                     </div>
-                </div>
             </div>
     </div>
 </section>

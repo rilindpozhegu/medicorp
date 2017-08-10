@@ -16,9 +16,9 @@
                             <img class="img-responsive" src="img/gallery/1-1024x683.jpg">
                         </a>
                     </li>
-                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/gallery/4.jpg" >
+                    <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/gallery/IMG_5064_5_6.jpg" >
                         <a href="">
-                            <img class="img-responsive" src="img/gallery/4.jpg">
+                            <img class="img-responsive" src="img/gallery/IMG_5064_5_6.jpg">
                         </a>
                     </li>
                     <li class="col-xs-6 col-sm-4 col-md-3 small_padding-lr" data-src="img/gallery/11-1024x683.jpg" >

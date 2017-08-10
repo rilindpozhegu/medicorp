@@ -239,8 +239,7 @@
    </section>
    <!-- Services Section -->
    <?php include 'services_section.php';?>
-   <!-- Gallery Section -->
-   <?php include 'gallery_all.php';?>
+   
    <!-- Packages & Promotions -->
    <section class="package_promotions_section_h">
       <div class="container">
