@@ -84,7 +84,7 @@
             </div>
             </section>    
                 
-            <h1 class=" wow fadeInUp before_after_title" data-wow-duration="0.5s" data-wow-delay=".1s">Before <span>And</span> After</h1>
+            <h1 class=" wow fadeInUp before_after_title" data-wow-duration="0.5s" data-wow-delay=".1s"><span>Before and After</span> Photos</h1>
             <section class="innner_image_sm_gallery">
                 <div class="container">
                     <div class="row">

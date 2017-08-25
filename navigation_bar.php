@@ -44,7 +44,7 @@
                         <li class="button_list_nav">
                             <button>Patient Login <i class="fa fa-angle-right" aria-hidden="true"></i></button><br>
                             <button>Doctor Login  <i class="fa fa-angle-right"></i></button><br>
-                            <button>Appointment  <i class="fa fa-angle-right"></i></button>
+                            <button>Appointment</button>
                         </li>
                     </ul>
                 </nav>    

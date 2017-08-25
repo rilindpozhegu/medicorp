@@ -40,11 +40,11 @@
                   <div class="row">
                      <!-- Nav tabs -->
                      <ul class="nav nav-pills nav-justified home_tab_cover">
-                        <li role="presentation" class="active"><a href="#tab_one" aria-controls="home" role="tab" data-toggle="tab">Make an Appointment</a>                           </li>
-                        <li role="presentation">
+                        <li role="presentation" class="active"><a aria-controls="home" role="tab" data-toggle="tab">Make an Appointment</a>                           </li>
+                        <!-- <li role="presentation">
                            <a href="#tab_two" aria-controls="profile" role="tab" data-toggle="tab"><i class="fa fa-heartbeat" aria-hidden="true"></i> Client
                               testimonials</a>
-                        </li>
+                        </li> -->
                      </ul>
                   </div>
                   <!-- Tab panes -->
@@ -117,64 +117,6 @@
                            </div>
                         </div>
                      </div>
-                     <div role="tabpanel" class="tab-pane row testimonial_home_text_img"
-                     id="tab_two">
-                     <div class="owl-carousel owl-theme">
-                       <div class="item">
-                          <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
-                          <div class="col-md-8">
-                             <h1>Jenny Morris</h1>
-                             <p>Dear Dr. Heba, <br>
-                             "You have restored my trust and faith in dentists again! Thank you.<br>
-                             So thorough your attention to detail and careful, sensitive approach has been a pleasure to endure and have been one hundred per cent happy with my treatment and results and you have found a permanent client in me!"<br>
-                             Many thanks,</p>
-                          </div>
-                       </div>
-                       <div class="item">
-                          <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
-                          <div class="col-md-8">
-                             <h1>MD</h1>
-                             <p>"My first ever adult dental extraction experience with Dr. Heba, she explained everything to me
-                              prior the procedure. During the entire procedure, I was relaxed and comfortable. Truly I am a
-                              witness to how Dr.Heba’s caring hands are designed perfectly for the craft she has chosen, a
-                              dental surgeon.<br>
-                              Along with an Angel’s touch and gentle attitude towards me; thank you for a pain free and zero
-                              complication extractions!"</p>
-                          </div>
-                       </div>
-                       <div class="item">
-                          <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
-                          <div class="col-md-8">
-                             <h1>Farah</h1>
-                             <p>Dr. Heba Javed<br>"Took good care of me during my emergency and helped a lot. I would recommend her to my family and friends, such a good dentist is difficult to find in Dubai."<br>
-                             Thank you and all the best, </p>
-                          </div>
-                       </div>
-                       <div class="item">
-                          <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
-                          <div class="col-md-8">
-                             <h1>Linda Stanly</h1>
-                             <p>Dear Dr. Heba, <br>
-                             "Thank you for always fitting me in on a short notice when I pass through Dubai! All treatments went smoothly and without pain especially the extractions. The end results have worked out nicely. Will see you again when next I pass through Dubai"</p>
-                          </div>
-                       </div>
-                       <div class="item">
-                          <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
-                          <div class="col-md-8">
-                             <h1>Emir Mom </h1>
-                             <p>Dear Dr. Heba, <br>
-                             "You are a star! thank you ever so much I have never met any dentist who made my son convinced to sit and actually worked on his teeth. You are a Queen, Thank you"</p>
-                          </div>
-                       </div>
-                       <div class="item">
-                          <div class="col-md-4"> <img src="img/testimonial-01.png" class="img-responsive"></div>
-                          <div class="col-md-8">
-                             <h1>David Lawrence</h1>
-                             <p>"I have deeply appreciated the high level of care and detail with which you have transformed my teeth! They were a bit of a mess and you never once made me feel bad – I could not praise highly enough both what you have done and the way which you have done it."</p>
-                          </div>
-                       </div>
-
-                     </div>
                   </div>
                </div>
             </div>
@@ -239,6 +181,13 @@
    </section>
    <!-- Services Section -->
    <?php include 'services_section.php';?>
+
+   <!-- Staff Section Slick Homepage -->
+   <?php include 'staff_section.php';?>
+
+
+   <?php include 'testimonial_section.php';?>
+
    
    <!-- Packages & Promotions -->
    <section class="package_promotions_section_h">
@@ -842,8 +791,6 @@
          </div>
       </div>
    </section>
-   <!-- Staff Section Slick Homepage -->
-   <?php include 'staff_section.php';?>
    <!-- Join Our Team Section -->
    <section class="join_team_home">
       <div class="container">
@@ -973,6 +920,8 @@
       </div>
    </section>
    <div class="clearfix"></div>
+
+
    <!-- Sponsors -->
    <section class="sponosrs_homepage">
       <hr>
@@ -980,21 +929,34 @@
          <div class="row">
             <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".1s">Accepted Insurance Companies</h1>
             <div class="home_sponsors">
-               <div class="sponsors_small_img"> <img src="img/logos/logo1-01.png"> </div>
                <div class="sponsors_small_img">
-               <img src="img/logos/logo2-01.png"> </div>
+               <img src="img/logos/1.png"> </div>
                <div class="sponsors_small_img">
-               <img src="img/logos/logo1-01.png"> </div>
+               <img src="img/logos/2.png"> </div>
                <div class="sponsors_small_img">
-               <img src="img/logos/logo2-01.png"> </div>
+               <img src="img/logos/3.png"> </div>
                <div class="sponsors_small_img">
-               <img src="img/logos/logo1-01.png"> </div>
+               <img src="img/logos/4.png"> </div>
                <div class="sponsors_small_img">
-               <img src="img/logos/logo2-01.png"> </div>
+               <img src="img/logos/5.png"> </div>
+               <div class="sponsors_small_img">
+               <img src="img/logos/6.png"> </div>
+               <div class="sponsors_small_img">
+               <img src="img/logos/7.png"> </div>
+               <div class="sponsors_small_img">
+               <img src="img/logos/8.png"> </div>
+               <div class="sponsors_small_img">
+               <img src="img/logos/9.png"> </div>
+               <div class="sponsors_small_img">
+               <img src="img/logos/10.png"> </div>
+               <div class="sponsors_small_img">
+               <img src="img/logos/11.png"> </div>
             </div>
          </div>
       </div>
    </section>
+
+
    <!-- Contact Form Section -->
    <?php include 'contact_section_input.php';?>
    <!-- Footer all Pages -->

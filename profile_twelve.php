@@ -63,7 +63,7 @@
                     <p class="left-align title__bold">MB CH.B (Egypt)
                     Master’s Degree in Clinical Pathology (Egypt)
                     PhD (UK)</p>
-                    <p>Dr. Huda is a member of International Society of Blood Transfusion (ISBT) and a
+                    <p>Dr. Hoda is a member of International Society of Blood Transfusion (ISBT) and a
                     member of International Cord Blood Society (ICBS).</p>
                     <br>
                     <p>Dr. Huda is a renowned and experienced specialist in Clinical Pathology, she worked as

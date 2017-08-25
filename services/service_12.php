@@ -57,6 +57,7 @@
                 - Skin Tightening and Rejuvenation <br>
                 - Cosmetic Fillers and Botox <br>
                 - Chemical Peels and Treatments</p>
+
                     </div>
 
                <a href="../cosmetic.php" style="margin-left: 15px;">

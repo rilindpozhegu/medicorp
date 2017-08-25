@@ -439,7 +439,7 @@
                 <img src="img/icon/cosmetics.svg">
                 <h3>Cosmetics </h3>
                 <p  >Whether you are looking for hair laser removal, skin rejuvenation and tightening, scar and acne management, micro-dermabrasion...</p>
-                <a href="services/service_10.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                <a href="services/service_12.php" class="read_more_home_serv2">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
         </div>
     </div>

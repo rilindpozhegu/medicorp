@@ -53,28 +53,28 @@
                     <img src="img/icon/home_stat7-01.svg">
                     <h3>RADIOLOGY</h3>
                     <p>We have a full imaging and x-ray department with fully computerized, automated digital processing. Because MediCorp Gulf strives for excellence...</p>
-                    <a href="service_6.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a href="services/service_6.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <img src="img/icon/home_stat8-01.svg">
                     <h3>Cardiology</h3>
                     <p>The term cardiology is derived from the Greek words “cardia,” which refers to the heart and “logy” meaning “study of.” Cardiology is a branch of ...</p>
-                    <a href="service_8.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a href="services/service_8.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <img src="img/icon/home_stat9-01.svg">
                     <h3>Internal Medicine</h3>
                     <p>Internal Medicine is the medicalspecialty dealing with the prevention, diagnosis, and treatment of adult diseases Physicians specializing...</p>
-                    <a href="service_9.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a href="services/service_9.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
                     <img src="img/icon/home_stat10-01.svg">
                     <h3>Chiropractic</h3>
                     <p>Chiropractic is a method of healthcare concentrated on restoring, preserving, and optimizing health through natural hands-on ...</p>
-                    <a href="service_10.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a href="services/service_10.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
 <!--                 <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">
@@ -88,7 +88,7 @@
                     <img src="img/icon/cosmetics_white.svg">
                     <h3>Cosmetics</h3>
                     <p>Whether you are looking for hair laser removal, skin rejuvenation and tightening, scar and acne management, micro-dermabrasion, slimming and fat reduction...</p>
-                    <a href="service_12.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a href="services/service_12.php" class="read_more_home_serv">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
                    <div class="small_services_home wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">

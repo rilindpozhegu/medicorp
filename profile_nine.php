@@ -71,7 +71,7 @@
                     </div>
                 </div>
             <div class="clearfix"></div>
-                    <h1 class=" wow fadeInUp before_after_title" data-wow-duration="0.5s" data-wow-delay=".1s">Before <span>And</span> After</h1>
+                    <h1 class=" wow fadeInUp before_after_title" data-wow-duration="0.5s" data-wow-delay=".1s">Weight Loss Management <span>Before and After</span> Photos</h1>
                     <div class="col-md-10 col-md-offset-2 card-wrapper">
                         <div class="card-layout" style="background: red;background: url('img/weight-loss1.png');"></div>
                         <div class="card-layout" style="background: red;background: url('img/weight-loss2.jpg');"></div>

@@ -149,6 +149,27 @@
 }
 
 
+.testimonial_section_home_1 {
+	padding: 5% 10px;
+	background: #03A9F4;
+}
+
+.testimonial_home_text_img .col-md-8 {
+	padding-top: 3%;
+	color: white;
+}
+
+.testimonial_section_home_1 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: white;
+    font-size: 15px;
+}
+
+.testimonial_section_home_1 h2 {
+	color: #fff;
+	font-size: 35px;
+	text-align: center;
+    font-family: 'Montserrat-SemiBold';
+}
 /*Services Section*/
 
 .services_section_homepa {

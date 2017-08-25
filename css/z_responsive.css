@@ -64,6 +64,9 @@
 	    font-size: 45px;
 	    padding: 0px 10px;
 	}
+	.cover_section_home {
+		height: auto !important;
+	}
 	.cover_all_pages p {
 	    color: white;
 	    font-size: 20px;
